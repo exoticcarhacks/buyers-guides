@@ -1,0 +1,12 @@
+# Lamborghini Huracán Sterrato (2024) Buyer's Guide
+
+## 1. Introduction
+The 2024 Lamborghini Huracán Sterrato marks a significant and adventurous deviation for the esteemed Italian marque. This limited-production model masterfully fuses the exhilarating performance synonymous with supercars with an unexpected, yet highly capable, off-road prowess. Serving as a poignant send-off for the iconic Huracán platform, the Sterrato is engineered to conquer challenging terrains while steadfastly upholding Lamborghini's revered V10 legacy.
+
+Globally, production is strictly capped at 1,499 units, with all allocations for the U.S. market already accounted for. The base Manufacturer's Suggested Retail Price (MSRP) for the 2024 Huracán Sterrato in the U.S. is \$278,972. However, prospective buyers should note that this figure does not encompass the mandatory \$2,100 gas guzzler tax and a \$3,695 destination charge, elevating the effective starting price to \$284,767 before any optional extras are considered.
+
+## 2. Changes by Model Year
+As a singular model year offering, the Lamborghini Huracán Sterrato for 2024 stands as a unique proposition with no subsequent model year changes. It was introduced as a completely novel variant, distinguished by several key enhancements that underscore its dual-purpose nature. Compared to the Huracán EVO, the Sterrato boasts a substantial 1.7-inch (44mm) suspension lift, an increased track width for enhanced stability, and a reinforced undercarriage fortified with aluminum skid plates to protect vital components during off-road excursions. Furthermore, it features a distinctive roof-mounted air intake, crucial for supplying clean air to the engine in dusty environments, complemented by rally-style front driving lights and robust bolt-on wheel arch flares.
+
+## 3. Trim Levels / Special Editions
+The Huracán Sterrato is presented as a single, highly specialized trim level within the U.S. market. It exists as a standalone model, distinct from other Huracán variants such as the Tecnica, STO, and EVO. While there are no traditional trim levels for the Sterrato itself, Lamborghini's bespoke Ad Personam customization program allows buyers to craft highly individualized

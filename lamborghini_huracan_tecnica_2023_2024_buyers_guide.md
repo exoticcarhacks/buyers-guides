@@ -1,0 +1,6 @@
+Huracan:** The Tecnica perfectly balances the raw aggression of the STO with the road manners of the EVO RWD, making it the most versatile and enjoyable Huracan for many.
+*   **Last of a Dying Breed:** As one of the final pure naturally aspirated V10s, the Tecnica is a future classic. Its collectibility is likely to increase as Lamborghini transitions to hybrid powertrains.
+*   **Value Proposition:** With a starting MSRP significantly lower than the STO, the Tecnica delivers nearly identical performance in a more usable package, offering exceptional value in the supercar market.
+*   **Ad Personam is Key:** Don't shy away from vibrant Ad Personam colors. These unique specifications often command a premium and contribute to better resale value.
+*   **Pre-Purchase Inspection (PPI):** Despite the platform's reliability, a thorough PPI by a Lamborghini specialist is crucial. Pay close attention to potential timing chain cover oil leaks and listen for any unusual engine noises that might indicate valve spring issues.
+*   **Recall Check:** Verify that NHTSA recall 23V-826 regarding headlight adjustment has been completed by a Lamborghini dealer.
