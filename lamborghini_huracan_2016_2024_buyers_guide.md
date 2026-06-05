@@ -52,8 +52,8 @@ Lamborghini provides extensive customization options for the Huracan, allowing b
 | | Style package | $1,800 |
 | | Sport exhaust system | $2,800 |
 | | Sport exhaust system with style package | $4,200 |
-| **Wheels & Brakes** | Rims Giano 20’’ in high gloss black | $4,900 |
-| | Rims Mimas forged 20’’ in high gloss black | $5,600 |
+| **Wheels & Brakes** | Rims Giano 20'' in high gloss black | $4,900 |
+| | Rims Mimas forged 20'' in high gloss black | $5,600 |
 | | CCB with Silver/Black painted brake calipers | $1,400 |
 
 ### 2019 Lamborghini Huracan Performante Spyder (Partial List)
@@ -154,7 +154,6 @@ While the Lamborghini Huracan is generally considered a reliable supercar, certa
 *   **Faulty Brakes:** While the Huracan's braking system is high-performance, owners might encounter software alerts for worn brake discs or pads, especially with carbon-ceramic brakes. Premature wear can occur with aggressive driving or track use, leading to increased stopping distances or unusual noises. Always inspect brake components for wear and tear.
 *   **Unstable Engine Performance:** While the V10 engine is a highlight, some owners have reported instances of unstable engine performance, often manifesting as rough idling, misfires, or reduced power. Common culprits can include faulty oxygen sensors, clogged fuel injectors, dirty air filters, or issues with the ignition system (spark plugs, coils). A diagnostic scan can help pinpoint the exact cause.
 
-
 **Technical Service Bulletins (TSBs):**
 
 *   **Fuel Pump TSB (P0087 Error Code):** A TSB addresses the inability of the two high-pressure fuel pumps (HPFP) to maintain optimal pressure at high speeds, leading to error code P0087 and potential performance degradation. The remedy typically involves replacing the affected fuel pumps.
@@ -165,9 +164,44 @@ Research indicates no widespread class-action lawsuits specifically targeting me
 
 ## 7. Market Analysis & Forecast
 
+The Lamborghini Huracán market is dynamic, influenced by rarity, performance, and the impending shift away from naturally aspirated V10 engines. Understanding current pricing, value drivers, and depreciation trends is crucial for prospective buyers.
 
+### U.S. Used Market Price Ranges by Variant
 
+| Variant | Model Years | Approximate Price Range (USD) |
+|---|---|---|
+| LP610-4 Coupe | 2015-2019 | $180,000–$250,000 |
+| LP580-2 Coupe | 2016-2019 | $160,000–$230,000 |
+| Performante Coupe | 2018-2019 | $250,000–$350,000+ |
+| EVO Coupe AWD | 2019-2024 | $220,000–$290,000 |
+| EVO RWD | 2020-2024 | $200,000–$270,000 |
+| STO | 2021-2024 | $380,000–$500,000+ |
+| Tecnica | 2022-2024 | $280,000–$360,000 |
+| Sterrato | 2024 | $300,000–$400,000+ |
 
+*Note: Prices are approximate and highly dependent on mileage, condition, options, and market demand.*
+
+### Factors Driving Value
+
+Several key factors significantly influence the resale value and desirability of a Lamborghini Huracán:
+
+*   **Low Mileage:** Vehicles with under 5,000 miles command a substantial premium, reflecting their pristine condition and limited use.
+*   **Desirable Factory Options:** Specific options enhance both the driving experience and market value. These include the transparent engine bonnet (showcasing the V10), carbon ceramic brakes (for superior performance), the front lift system (essential for usability), and the sport exhaust (for an enhanced auditory experience). Ad Personam specifications, if tastefully executed, also add exclusivity.
+*   **Clean Service History:** A comprehensive and consistent service record from an authorized Lamborghini dealership or a reputable specialist is paramount. It assures prospective buyers of diligent maintenance and care.
+*   **No Track Use or Documented Accidents:** Cars with a history of track use or accident damage will typically see a significant reduction in value. Buyers prioritize vehicles with a clean history.
+*   **Tasteful Ad Personam Colors:** While Ad Personam offers extensive customization, colors and specifications that are widely appealing tend to hold value better than highly polarizing or niche custom configurations.
+
+### Depreciation Curve
+
+The depreciation trajectory varies significantly across Huracán variants:
+
+*   **LP610-4 and LP580-2:** These earlier models have experienced the steepest depreciation, making them the most accessible entry points into Huracán ownership. Their values have largely stabilized.
+*   **Performante:** The track-focused Performante has shown strong value retention and is now appreciating, establishing itself as a desirable collector's item due to its performance credentials and limited production.
+*   **STO and Sterrato:** These highly specialized and limited-production models are currently holding their value at or above MSRP, reflecting strong demand and collector interest.
+
+### Long-Term Outlook
+
+The long-term outlook for the Lamborghini Huracán is exceptionally strong, primarily driven by its powertrain. The Huracán is the last Lamborghini model to feature a naturally aspirated V10 engine, as its successor, the Temerario, will incorporate a turbocharged powertrain. This makes all Huracán variants, particularly the final-year models such as the Tecnica, Sterrato, STO, and the ultra-limited STJ, increasingly collectible. The STJ, with only 10 units produced, is an instant collector's item, expected to command significant premiums in the secondary market.
 
 ## 8. Conclusion
 
@@ -189,5 +223,3 @@ Ultimately, the "best" Huracan is the one that aligns with your specific driving
 *   **Track Day Usage:** If the car has been tracked, look for signs of excessive wear on brakes, tires, and clutch (if applicable). A track-focused car like the Performante or STO might have more wear and tear, but also potentially more robust maintenance.
 *   **Insurance Costs:** Obtain insurance quotes before purchasing, as exotic car insurance can be substantial and vary widely based on location, driving record, and agreed value.
 *   **Long-Term Storage:** If the car will be stored for extended periods, consider a trickle charger to maintain battery health, as battery issues are common in exotics.
-
-
