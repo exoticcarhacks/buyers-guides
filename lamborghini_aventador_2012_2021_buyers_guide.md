@@ -106,8 +106,6 @@ For prospective buyers, certain factory options significantly enhance the owners
 *   **Lifting System:** Given the Aventador's low ground clearance, a front-axle lifting system is almost essential for navigating speed bumps, driveways, and uneven terrain without scraping the undercarriage. This is a practical option that protects the vehicle and enhances daily usability.
 *   **Parking Sensors with Rear View Camera:** Due to limited rear visibility, these features are highly recommended for easier and safer maneuvering in tight spaces, reducing the risk of costly damage.
 
-
-
 ## 6. Common Problems / Recalls
 
 ### NHTSA Recalls
@@ -138,3 +136,30 @@ The Lamborghini Aventador, as a flagship V12 supercar, has historically demonstr
 
 The Lamborghini Aventador remains a highly desirable supercar, offering a visceral driving experience and undeniable presence. Prospective buyers should prioritize thorough pre-purchase inspections, verify service history, and consider the specific model year and trim level to align with their ownership goals. The U.S. market offers a robust selection, but due diligence is paramount to a satisfying ownership experience.
 
+## 9. Car Hacking Shortcuts
+
+*   **Years to buy:**
+    *   **2012-2014 (LP 700-4):** Best value entry point due to stabilized depreciation. Factor in potential maintenance costs.
+    *   **2017-2020 (Aventador S):** Strong value retention due to significant updates and improved driving dynamics.
+    *   **SV, SVJ, Ultimae (Limited Editions):** Strongest value retention, potential for appreciation due to rarity and enhanced performance. Ultimae (2022) is particularly strong as the final naturally aspirated V12.
+*   **Options to look for:**
+    *   **Transparent Engine Bonnet:** Highly desirable for visual appeal and resale.
+    *   **Carbon Fiber Exterior and Interior Packages:** Enhances exotic aesthetic and contributes to perceived value.
+    *   **Ad Personam Customization:** Tasteful and well-executed unique paint or interior can command a premium.
+    *   **Lifting System:** Essential for navigating obstacles and protecting the undercarriage.
+    *   **Parking Sensors with Rear View Camera:** Highly recommended for safety and ease of maneuvering due to limited visibility.
+*   **Preferred colors:** The provided data does not indicate specific preferred colors based on enthusiast consensus or auction data. Focus on tasteful and unique Ad Personam options if available.
+*   **PPI focus areas:**
+    *   **ISR Transmission:** Assess for acceptable jerkiness at low speeds; understand it's a characteristic, not a defect.
+    *   **Carbon Ceramic Brakes:** Expect some squealing, especially when cold or at low speeds; this is normal.
+    *   **Electrical Systems:** Thoroughly check all electronics, especially on 2012-2014 models, for any gremlins or malfunctions.
+    *   **Tire Wear:** Inspect tire condition and wear patterns, particularly on the rear, and inquire about alignment history.
+    *   **Fuel System:** Verify any previous issues or repairs related to NHTSA recall 18V-391.
+    *   **Door Handles:** Confirm proper function of internal door handles, especially for 2020 models (NHTSA recall 20V-151).
+    *   **Oil Lines:** Inspect for any signs of leaks or issues related to NHTSA recall 21V-927.
+*   **Known recalls:**
+    *   **NHTSA Campaign 18V-391 (2012-2018):** Engine stalling due to fuel system issues.
+    *   **NHTSA Campaign 20V-151 (2020):** Faulty internal door handles.
+    *   **NHTSA Campaign 21V-927 (2021):** Detached oil lines leading to fire risk.
+    *   Verify current recall status at nhtsa.gov using the vehicle VIN.
+*   **Market forecast:** Early models have stabilized in price, offering a good entry point. Mid-cycle S models hold value well. Limited editions (SV, SVJ, Ultimae) show strong value retention and potential for appreciation. Overall, consistent demand in the U.S. market, but economic shifts can influence pricing. Low mileage, desirable options, and clean service history are key value drivers.
