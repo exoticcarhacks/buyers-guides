@@ -9,12 +9,12 @@ The Mercedes AMG GT, GT S, GT C 2016-2021 represents Mercedes-AMG's dedicated sp
 | 2016 | AMG GT S | $130 | More powerful S variant with 503 hp. | Strong performance upgrade over base GT. |
 | 2017 | AMG GT C | $145 | Wider body, rear-axle steering, 550 hp. | Significant performance and handling enhancements. |
 | 2018 | AMG GT | $112 | Updated styling, enhanced interior, tech improvements. | Modernized aesthetics and features. |
-| 2018 | AMG GT C | $145 | Facelift for AMG GT and GT S models with updated styling, enhanced interior features, and technological improvements. |  |
+| 2018 | AMG GT C | $145 | Introduced as a new coupe variant for the U.S. market. |  |
 | 2018 | AMG GT S | $132 | Updated styling, enhanced interior, tech improvements. | Modernized aesthetics and features. |
-| 2019 | AMG GT | $115 | Refreshed exterior, upgraded interior, new infotainment, digital cockpit. | Major interior and tech refresh, highly desirable. |
-| 2019 | AMG GT C | $150 | Refreshed exterior, upgraded interior, new infotainment, digital cockpit. | Major interior and tech refresh, highly desirable. |
-| 2019 | AMG GT S | $135 | Refreshed exterior, upgraded interior, new infotainment, digital cockpit. | Major interior and tech refresh, highly desirable. |
-| 2020 | AMG GT C | $157 | GTC Roadster received facelift (Roadster variants are excluded per task instructions). |  |
+| 2019 | AMG GT | $115 | Received interior updates including a new steering wheel, digital instrument cluster, and a larger infotainment screen. Exterior styling remained largely consistent with previous years. | Significant interior technology upgrade. |
+| 2019 | AMG GT C | $150 | Received interior updates including a new steering wheel, digital instrument cluster, and a larger infotainment screen. Exterior styling remained largely consistent with previous years. | Significant interior technology upgrade. |
+| 2019 | AMG GT S | $135 | Received interior updates including a new steering wheel, digital instrument cluster, and a larger infotainment screen. Exterior styling remained largely consistent with previous years. | Significant interior technology upgrade. |
+| 2020 | AMG GT C | $157 | GT C Coupe was available and received the same interior updates as other models in 2019. |  |
 | 2021 | AMG GT | $119 | Base GT power increased to 523 hp, 0-60 in 3.7s. Standard adaptive suspension, Race mode, e-LSD, Li-ion battery. | Best value for the base GT, many desirable features made standard. |
 | 2021 | AMG GT C | $153 | Increased engine power for base AMG GT models to 523 hp and 494 lb-ft of torque. Zero-to-60 mph in 3.7 seconds. Introduction of Stealth Edition (tinted headlights, black chrome trim, black brake calipers, black wheels, carbon fiber roof for coupes, sport seats, diamond-quilted leather, black interior trim). Standard adaptive suspension, Race driving mode, electronic limited-slip differential, and lithium-ion starter battery added. |  |
 
@@ -38,10 +38,10 @@ The Mercedes AMG GT, GT S, GT C 2016-2021 represents Mercedes-AMG's dedicated sp
 ## Must-Haves for the Savvy Buyer
 | Priority | Factory Option/Package | Pricing/Status | Why It Matters |
 |---|---|---|---|
-| Strongly Preferred | AMG GT C (550 hp) | Optional, 2017-2021 | Offers significant performance gains, wider body, and advanced handling tech (rear-axle steering, e-LSD) for a more engaging driving experience and better resale. |
+| Strongly Preferred | AMG GT C (550 hp) | Optional, 2017-2021 | Offers significant performance gains, wider body, and advanced handling tech (rear-axle steering, e-LSD) for a more engaging driving experience. Enthusiast consensus suggests this variant may hold value better due to its enhanced performance and features. |
 | Strongly Preferred | Adaptive Suspension | Standard, 2021 models; Optional, earlier models | Crucial for balancing ride comfort with dynamic handling, enhancing daily usability and track capability. |
 | Strongly Preferred | Electronic Limited-Slip Differential (e-LSD) | Standard, 2021 models; Optional, earlier models | Significantly improves traction and stability, especially under hard acceleration and cornering, which is vital for a high-performance RWD car. |
-| Spec-Dependent | Stealth Edition Package | Optional, 2021 models | Primarily an aesthetic package, but its unique blacked-out features can enhance curb appeal and desirability for specific buyers, potentially aiding resale. |
+| Spec-Dependent | Stealth Edition Package | Optional, 2021 models | Primarily an aesthetic package; its unique blacked-out features can enhance curb appeal and desirability for specific buyers, which may contribute to stronger resale value in certain markets. |
 | Spec-Dependent | Race Driving Mode | Standard, 2021 models; Optional, earlier models | While not essential for all buyers, this mode unlocks the car's full track potential, making it a desirable feature for enthusiasts and potentially improving liquidity. |
 
 ## Pre-Purchase Inspection (PPI) and Known Issues
@@ -50,11 +50,11 @@ A thorough Pre-Purchase Inspection (PPI) by a qualified Mercedes-AMG specialist 
 ### Known Problems
 | Issue | What To Know/Check |
 |---|---|
-| Infotainment System Glitches | unresponsiveness or erratic behavior due to software glitches — cost unknown |
-| Suspension Concerns | wear and tear on components like bushings, struts, and shocks leading to reduced ride comfort and handling — cost unknown |
-| Brake Wear | faster wear of high-performance brakes, requiring regular checks and maintenance — cost unknown |
-| Electrical Issues | sensor failures or battery drainage, sometimes due to software or requiring component replacement — cost unknown |
-| Engine and Transmission Concerns | potential for overheating in extreme conditions and occasional transmission shifting irregularities. Transmission issues reported with repair bills of $18,000 |
+| Infotainment System Glitches | Unresponsiveness, freezing, or erratic behavior of the COMAND/MBUX system (primarily 2016-2018 COMAND units). Inspect for proper function of all screens, navigation, and audio controls. Software updates may resolve some issues, but hardware replacement can be costly. |
+| Suspension Component Wear | Premature wear of control arm bushings, ball joints, and adaptive damper (AMG RIDE CONTROL) units, particularly on earlier 2016-2018 models driven aggressively or on poor roads. Symptoms include clunking noises over bumps, reduced ride comfort, and imprecise handling. Inspect for leaks from adaptive dampers and excessive play in suspension joints. |
+| Brake System Wear | Rapid wear of brake pads and rotors, especially on models equipped with carbon ceramic brakes (optional on GT S, GT C, standard on GT R/Black Series). This is normal for high-performance vehicles, but inspect for uneven wear, scoring on rotors, and pulsation during braking. Replacement costs for carbon ceramics are significantly higher than steel brakes. |
+| Electrical System Anomalies | Sporadic sensor failures (e.g., parking sensors, ABS/ESP sensors) or parasitic battery drain, occasionally linked to software glitches or faulty modules (e.g., mbrace module). Inspect for persistent warning lights, non-functional accessories, and ensure the battery holds a charge. A diagnostic scan can reveal fault codes. |
+| Engine and Transmission Concerns | Potential for engine oil cooler leaks (M178 engine, particularly 2016-2018 models), leading to oil consumption or drips. Inspect for oil residue around the cooler and associated lines. The AMG SPEEDSHIFT DCT 7-speed transmission can exhibit occasional rough shifts or hesitation; inspect for smooth operation during a test drive. While rare, severe transmission issues can lead to costly repairs, sometimes requiring replacement. |
 
 ### NHTSA Recalls
 | NHTSA Recall | Campaign | Affected Years | Issue |
@@ -67,11 +67,6 @@ A thorough Pre-Purchase Inspection (PPI) by a qualified Mercedes-AMG specialist 
 ### Platform Defects
 Defective front bumper covers and air inlets: A class action alleges Mercedes-Benz knowingly sold 2016-2021 AMG models with defectively designed front bumper covers and air inlets.
 
-## Market Analysis
-[Insert dynamic Exotic Car Hacks historical pricing graph here]
-
-Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.
-
 ## Conclusion
 The Mercedes AMG GT, GT S, GT C 2016-2021 is a **strong hack candidate** for those seeking a high-performance, luxurious sports car at a significant discount from new. The main risk remains the potential for expensive repairs, particularly with the engine and transmission. The best ownership logic involves acquiring a well-optioned example, ideally a GT C or a 2021 base GT with standard performance features, and factoring in a robust maintenance budget.
 
@@ -81,4 +76,4 @@ The Mercedes AMG GT, GT S, GT C 2016-2021 is a **strong hack candidate** for tho
 * Preferred colors: (No data provided, so omit or state N/A)
 * PPI focus: Engine and transmission health, infotainment system, suspension components, brake wear, driveshaft integrity, and front bumper/air inlet condition.
 * Known recalls: 21V-478 (Driveshaft), 21V-058 (eCall software), 22V-365 (eCall SIM), 22V-042 (Wheel speed sensor wiring). Verify by VIN.
-* Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.
+* 

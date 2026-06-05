@@ -6,13 +6,13 @@ The Ferrari F12tdf 2016-2017 is a highly exclusive and potent machine, represent
 ## Model Year Overview
 | Model Year | Version/Body Style | Base MSRP | Key Details | Buyer Takeaway |
 |---|---|---|---|---|
-| 2016 | F12tdf Coupe | $621,600 | No significant changes from previous model year (F12tdf was introduced in late 2015 as a limited edition model) | Limited production, strong collector appeal. |
-| 2017 | F12tdf Coupe | $621,600 | No significant changes from previous model year | Consistent performance and exclusivity. |
+| 2016 | F12tdf Coupe | $490,000 | No significant changes from previous model year (F12tdf was introduced in late 2015 as a limited edition model). Actual transaction prices often exceeded MSRP due to demand and options. | Limited production, strong collector appeal. |
+| 2017 | F12tdf Coupe | $490,000 | No significant changes from previous model year. Actual transaction prices often exceeded MSRP due to demand and options. | Consistent performance and exclusivity. |
 
 ## Trims and Special Editions
 | Version | U.S. Years | Engine/Output | Notes |
 |---|---|---|---|
-| F12tdf | 2016-2017 | 6.3L V12 (770 hp) | Limited production of 799 units worldwide, track-focused variant of the F12berlinetta. |
+| F12tdf | 2016-2017 | 6.3L V12 (770 hp, 520 lb-ft torque) | Limited production of 799 units worldwide, track-focused variant of the F12berlinetta. |
 
 ## Factory Options
 | Factory Option/Package | Pricing/Status | Notes |
@@ -41,7 +41,6 @@ The Ferrari F12tdf 2016-2017 is a highly exclusive and potent machine, represent
 | Spec-Dependent | AFS System | Optional, $3,374 | Adaptive headlights improve visibility and driving experience. |
 
 ## Problems and Recalls
-A thorough Pre-Purchase Inspection (PPI) by a Ferrari specialist is crucial.
 
 ### Known Problems
 | Issue | What To Know/Check |

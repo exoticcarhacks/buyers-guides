@@ -10,7 +10,7 @@ The Aston Martin DBS Superleggera (2019–2023) is a monstrous, 715-horsepower t
 |---|---|---|---|---|
 | 2019 | Coupe | $304,995 | All-new vehicle launch. | Heaviest depreciation; great entry point for a coupe. |
 | 2020 | Coupe / Volante | $307,820 (Coupe) / $329,100 (Volante) | Introduction of the Volante (convertible). New wheel designs and contrasting leather options. | The sweet spot for buyers who want the Volante. |
-| 2021 | Coupe / Volante | $319,125 (Coupe) / $334,700 (Volante) | Minor trim and option pricing adjustments. | Carryover year. |
+| 2021 | Coupe / Volante | $319,125 (Coupe) / $337,525 (Volante) | Minor trim and option pricing adjustments. | Carryover year. |
 | 2022 | Coupe / Volante | $316,300 (Coupe) | The "Superleggera" name is officially dropped; the car is now simply the "DBS". New 21-inch wheel design. | Same car, shorter name. Buy based on spec, not the badge. |
 | 2023 | Coupe / Volante | $333,686 (Coupe) | Final standard production year before the DBS 770 Ultimate. | Expensive; older models are better hacks. |
 
@@ -18,8 +18,8 @@ The Aston Martin DBS Superleggera (2019–2023) is a monstrous, 715-horsepower t
 
 | Trim / Edition | Details | Value Impact |
 |---|---|---|
-| DBS 770 Ultimate (2023/2024) | 759 hp, revised suspension, unique wheels, limited to 499 units (300 Coupes, 199 Volantes). | Highly collectible send-off model. Commands a massive premium over the standard DBS. |
-| OHMSS Edition (2019) | *On Her Majesty's Secret Service* edition. Olive Green paint, unique wheels, limited to 50 units. | Rare James Bond tie-in; holds value well for collectors. |
+| DBS 770 Ultimate (2023/2024) | 760 hp, 664 lb-ft of torque (same as standard DBS Superleggera), revised suspension, unique wheels, limited to 499 units (300 Coupes, 199 Volantes). | Highly collectible send-off model. Commands a massive premium over the standard DBS. |
+| OHMSS Edition (2020) | *On Her Majesty's Secret Service* edition. Olive Green paint, unique wheels, limited to 50 units. | Rare James Bond tie-in; holds value well for collectors. |
 
 ## 4. Available Factory Options / Packages Offered
 
@@ -84,3 +84,4 @@ The Aston Martin DBS Superleggera is a depreciation monster, making it one of th
 * PPI focus: Oil pan and timing cover leaks (mandatory lift inspection), squealing/damaged carbon ceramic brakes, exhaust gasket ticking
 * Known recalls: 20V-604/19V-806 (Airbag Fasteners)
 * Market forecast: [dynamic Exotic Car Hacks forecast or supported 12-month range]
+

@@ -1,13 +1,13 @@
 # Cadillac Escalade V 2023-2024 Buyer Guide
 
-The Cadillac Escalade-V is not just a luxury SUV; it's a 682-horsepower statement of excess and performance, making it a prime candidate for the Exotic Car Hacks portfolio. This supercharged behemoth offers an unparalleled blend of opulent comfort and raw power, setting it apart from its more pedestrian siblings. The main risk associated with this vehicle is the potential for catastrophic engine issues, which can lead to significant unexpected costs.
+The Cadillac Escalade-V is not just a luxury SUV; it\'s a 682-horsepower statement of excess and performance, making it a prime candidate for the Exotic Car Hacks portfolio. This supercharged behemoth offers an unparalleled blend of opulent comfort and raw power, setting it apart from its more pedestrian siblings. The main risk associated with this vehicle is the potential for catastrophic engine issues, which can lead to significant unexpected costs.
 
 ## Model Year Overview
 
 Model Year | Version/Body Style | Base MSRP | Key Details | Buyer Takeaway
 ---------- | ------------------ | --------- | ----------- | --------------
 2023 | V-Series SUV | $151,090 | Escalade-V with 682 horsepower supercharged 6.2-liter V8 engine, all-wheel-drive (AWD), air suspension, Brembo performance brakes, and 22-inch alloy wheels added to the lineup. | First year of the high-performance V-Series. Strong buy.
-2024 | V-Series SUV | $154,290 | Black Diamond Tricoat added as a new extra-charge color. The 20th Anniversary V-Series Package becomes standard (grille header graphic, updated splash-screen logo, puddle-lamp logo). Super Cruise becomes standard instead of optional. Three years of OnStar Premium also become standard. | Enhanced standard features, potentially better value.
+2024 | V-Series SUV | $152,295 | Black Diamond Tricoat added as a new extra-charge color. The 20th Anniversary V-Series Package becomes standard (grille header graphic, updated splash-screen logo, puddle-lamp logo). Super Cruise becomes standard instead of optional. Three years of OnStar Premium also become standard. | Enhanced standard features, potentially better value.
 
 ## Factory Options
 

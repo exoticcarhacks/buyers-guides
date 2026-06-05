@@ -6,8 +6,8 @@ The Porsche GT3 Touring 992.1, produced from 2022 to 2024, represents the pinnac
 
 | Model Year | Version/Body Style | Base MSRP | Key Details | Buyer Takeaway |
 |---|---|---|---|---|
-| 2022 | Coupe | $164,150 | Touring returns with PDK standard in the U.S. and manual as a no-cost option. 502 hp NA 4.0, double-wishbone front axle, rear-axle steering, center-locks, track-tire option. PCM 6.0 infotainment update with wireless Android Auto and native Spotify. | First year of the 992.1 Touring, offering both PDK and manual options. Strong value retention. |
-| 2023 | Coupe | $169,700 | Carry-over spec with running refinements and additional personalization via Porsche Exclusive Manufaktur (two-tone interiors, exterior trims, carbon roof, etc.). | Refined options and personalization make this year desirable for bespoke builds. Consistent performance. |
+| 2022 | Coupe | $163,450 | Touring returns with PDK standard in the U.S. and manual as a no-cost option. 502 hp NA 4.0, double-wishbone front axle, rear-axle steering, center-locks, track-tire option. PCM 6.0 infotainment update with wireless Android Auto and native Spotify. | First year of the 992.1 Touring, offering both PDK and manual options. Strong value retention. |
+| 2023 | Coupe | $182,900 | Carry-over spec with running refinements and additional personalization via Porsche Exclusive Manufaktur (two-tone interiors, exterior trims, carbon roof, etc.). | Refined options and personalization make this year desirable for bespoke builds. Consistent performance. |
 | 2024 | Coupe | $182,900 | Same purist NA package before the 2025 992.2 GT3/Touring update. 2022–2024 are considered the clean, first-iteration 992 GT3 Touring years. | Final year of the 992.1 generation, likely to hold value well as the last of its kind before a refresh. |
 
 ## Comprehensive Factory Options
@@ -29,7 +29,7 @@ The Porsche GT3 Touring 992.1, produced from 2022 to 2024, represents the pinnac
 | Wheels Painted in Satin Dark Silver | Optional, $1,290 | Available in 2023 |
 | Adaptive Sport Seats Plus (18-way) | Optional, $2,640 | Available in 2023 |
 | Ambient Lighting | Optional, $580 | Available in 2023 |
-| Storage Package | Standard | Available in 2023 |
+| Storage Package | Optional, $0 | Available in 2023 |
 | Seat Belts in Shark Blue | Optional, $360 | Available in 2023 |
 | Extended Leather Package | Optional, $1,450 | Available in 2023 |
 | Steering Column Casing in Leather | Optional, $520 | Available in 2023 |
@@ -38,12 +38,12 @@ The Porsche GT3 Touring 992.1, produced from 2022 to 2024, represents the pinnac
 | Roof Lining in Race-Tex | Standard | Available in 2023 |
 | Interior Trim Inlays and Door-Sill Guards in High Gloss Carbon Fiber | Optional, $1,600 | Available in 2023 |
 | BOSE® Surround Sound System | Optional, $1,600 | Available in 2023 |
-| Dashboard with Deviated Stitching | Standard | Available in 2023 |
-| Rear Side Panel with Deviated Stitching (Coupe Only) | Standard | Available in 2023 |
-| Center Console Lid with Deviated Stitching | Standard | Available in 2023 |
-| Knee Pad with Deviated Stitching | Standard | Available in 2023 |
-| Door Panel with Deviated Stitching | Standard | Available in 2023 |
-| Color Selection for Stitching in Deviated Color | Standard | Available in 2023 |
+| Dashboard with Deviated Stitching | Optional, $3,650 (as part of Deviated Stitching Interior Package) | Available in 2023 |
+| Rear Side Panel with Deviated Stitching (Coupe Only) | Optional, $3,650 (as part of Deviated Stitching Interior Package) | Available in 2023 |
+| Center Console Lid with Deviated Stitching | Optional, $3,650 (as part of Deviated Stitching Interior Package) | Available in 2023 |
+| Knee Pad with Deviated Stitching | Optional, $3,650 (as part of Deviated Stitching Interior Package) | Available in 2023 |
+| Door Panel with Deviated Stitching | Optional, $3,650 (as part of Deviated Stitching Interior Package) | Available in 2023 |
+| Color Selection for Stitching in Deviated Color | Optional, $3,650 (as part of Deviated Stitching Interior Package) | Available in 2023 |
 | Deviated Stitching Interior Package | Optional, $3,650 | Available in 2023 |
 | LED-Matrix Design Headlights in Black incl. Porsche Dynamic Light System Plus (PDLS+) | Optional, $4,010 | Available in 2023 |
 | Exclusive Design Taillights | Optional, $990 | Available in 2023 |
@@ -69,30 +69,23 @@ Always perform a comprehensive Pre-Purchase Inspection (PPI) by a qualified Pors
 
 | Issue | What To Know/Check |
 |---|---|
-| Engine consuming too much oil / pitted cylinder walls | Porsche covered costs (reported $90,000 for full replacement, or $10,000-$20,000+ for new engine, $25,000-$35,000 for 991.2 engine swap) |
+| Engine consuming too much oil / pitted cylinder walls | This issue, primarily affecting earlier 991 generation GT3s, has been largely addressed in the 992.1. However, some isolated reports of excessive oil consumption or cylinder wall scoring can still occur. Porsche has, in some cases, covered significant repair costs (e.g., engine replacement), particularly under warranty or extended warranty programs. For out-of-warranty vehicles, typical engine rebuilds or replacements can range from $20,000 to $40,000+ depending on the extent of damage and whether a new or remanufactured engine is required. A thorough PPI should include a bore scope inspection and oil analysis. |
 | Transmission replacement | ~$40,000 (used PDK ~$4,500 + $1,500 installation) |
-| Open gaps in the air duct of the tire house | causing loud noises |
-| Broken left side engine cooling fan | Investigate further |
-| Loose parts falling around internally | Investigate further |
-| Squeaking/rubbing noise in the front right wheel well | Investigate further |
-| Paint run/bubble | Investigate further |
-| Mysterious check engine light | Investigate further |
-| Spring delivery spacers still installed (missed during PDI) | Investigate further |
-| Front suspension parts | ~$30,000 (including headlight and PCCB rotor/caliper if needed) |
+
+| Spring delivery spacers still installed (missed during PDI) | Ensure these temporary shipping spacers are removed during the Pre-Delivery Inspection (PDI). Failure to remove them can lead to a harsh ride and potential suspension component wear over time. |
+| Front suspension components | Wear and tear on front suspension components (e.g., control arms, bushings) can occur, especially with track use. Replacement costs for individual components vary, but a full refresh of major front suspension parts can range from $5,000 to $15,000. This estimate does not typically include unrelated components like headlights or PCCB rotors/calipers unless they are damaged in an incident. |
 
 ### NHTSA Recalls
 
 | NHTSA Recall | Campaign | Affected Years | Issue |
 |---|---|---|---|
-| 23V-715 | 23V-715 | 2022-2023 | Incorrect seat-mounted airbag deployment logic |
-| 23V-446 | 23V-446 | 2022-2023 | Incorrect activation of brake lights |
-| 24V-809 | 24V-809 | 2021-2024 | Center lock wheel fastening system may fracture |
+| 23V-715 | 23V-715 | 2021-2023 | Incorrect seat-mounted airbag deployment logic |
+| 23V-446 | 23V-446 | 2022-2023 911 GT3 Touring vehicles | Incorrect activation of brake lights |
+| 24V-809 | 24V-809 | 2024 | Center lock wheel fastening system may fracture |
 
 ## Market Analysis
 
-[Insert dynamic Exotic Car Hacks historical pricing graph here]
-
-Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.
+Market trends for the 992.1 GT3 Touring generally reflect strong demand for limited-production, naturally aspirated Porsche GT cars. While past performance does not guarantee future results, these models have historically demonstrated robust value retention and, in some cases, appreciation within the enthusiast market. Prospective buyers should consult current market data from reputable sources for the most up-to-date pricing and trend analysis.
 
 ## Conclusion
 
@@ -102,7 +95,9 @@ The Porsche GT3 Touring 992.1 is a **strong hack candidate**. Its main risk lies
 
 * Years to buy: 2022-2024 (992.1 generation)
 * Options to look for: Front Axle Lift System, PCCB, Chrono Package, Adaptive Sport Seats Plus, LED-Matrix Design Headlights
-* Preferred colors: Gentian Blue Metallic (example from options, but generally subjective for GT cars)
+* Preferred colors: Subjective, but certain PTS (Paint to Sample) colors or classic Porsche hues may command a premium based on market demand and rarity.
 * PPI focus: Engine oil consumption/cylinder walls, transmission health, suspension components, paint quality, and proper PDI completion (e.g., delivery spacers removed).
-* Known recalls: 23V-715 (airbag), 23V-446 (brake lights), 24V-809 (wheel fastening system). Verify by VIN.
-* Market forecast: Strong appreciation potential, especially for well-optioned manual examples.
+* Known recalls: 23V-715 (airbag), 23V-446 (brake lights), 24V-809 (wheel fastening system). Verify by VIN, as recall applicability can vary by specific vehicle production dates and configurations.
+* Market forecast: Historically strong value retention, with potential for appreciation for well-optioned manual examples, though individual market conditions vary.
+
+

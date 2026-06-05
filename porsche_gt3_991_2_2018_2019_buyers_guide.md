@@ -8,7 +8,7 @@ The 991.2 GT3 is the version Porsche got definitively right: a 4.0-liter natural
 
 | Model Year | Version / Body Style | Base MSRP | Key Details | Buyer Takeaway |
 |---|---|---|---|---|
-| 2018 | Coupe | $147,810 | New 4.0L NA flat-six (500 hp), 7-speed PDK standard, 6-speed manual no-cost option, rear-axle steering, revised aero, new chassis | Launch year — most inventory, highest original MSRP |
+| 2018 | Coupe | $143,600 (excluding destination charge) | New 4.0L NA flat-six (500 hp), 7-speed PDK standard, 6-speed manual no-cost option, rear-axle steering, revised aero, new chassis | Launch year — most inventory, highest original MSRP |
 | 2019 | Coupe | $143,600 | Carryover from 2018, minor pricing adjustment | Slightly lower original MSRP; no meaningful mechanical differences from 2018 |
 
 ## 3. Trim Levels / Special Editions
@@ -78,7 +78,7 @@ PPI reminder: Use a Porsche specialist with GT car experience. Focus on engine o
 | NHTSA Recall | Campaign | Affected Years | Issue |
 |---|---|---|---|
 | Air Bag Sensors May Be Loose | 19V-179 | 2018 | Airbag sensors may not be properly secured, potentially affecting deployment. Verify by VIN. |
-| Upper Control Arm Rear Axle Screw Not Tightened | 21V-201 | 2019 | Rear axle upper control arm fastener may not be properly torqued. Safety-critical — verify by VIN before purchase. |
+| Upper Control Arm Rear Axle Screw Not Tightened | 21V-201 | N/A (Does not apply to 991.2 GT3) | Rear axle upper control arm fastener may not be properly torqued. Safety-critical — verify by VIN before purchase. |
 | Improper CRS Instructions in Owner's Manual | 19V-875 | 2018–2019 | Owner's manual contains incorrect child restraint system instructions. Verify by VIN. |
 
 ## 7. Market Analysis and Future Forecast
@@ -97,5 +97,6 @@ The 991.2 GT3 is a strong hack candidate when bought with the manual transmissio
 * **Options to look for:** 6-speed manual (no-cost), Front Axle Lift System, Sport Chrono Package
 * **Preferred colors:** Guards Red and GT Silver are the signature GT3 colors with the strongest resale; use tracked Exotic Car Hacks comp data for current premiums
 * **PPI focus:** Engine oil consumption and any engine anomalies; oil tank pipe leaks; rear suspension creaking (TSB 142/17); evidence of hard track use
-* **Known recalls:** 19V-179 (airbag sensors), 21V-201 (rear axle control arm screw — safety critical), 19V-875 (CRS manual) — verify all by VIN
+* **Known recalls:** 19V-179 (airbag sensors), 19V-875 (CRS manual) — verify all by VIN
 * **Market forecast:** Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data
+

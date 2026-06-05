@@ -1,21 +1,21 @@
 # Lexus GS F 2016-2020 Buyer Guide
 
-The Lexus GS F, produced from 2016 to 2020, represents Lexus\'s foray into the high-performance sedan segment, offering a naturally aspirated 5.0-liter V8 engine in a refined package. It stands as a compelling hack candidate due to its relative rarity, robust powertrain, and overlooked status compared to its German rivals, offering significant performance without the typical depreciation curve. The main risk lies in potential electronic and platform-specific issues that can be costly to address if not properly vetted.
+The Lexus GS F, produced from 2016 to 2020, represents Lexus's foray into the high-performance sedan segment, offering a naturally aspirated 5.0-liter V8 engine in a refined package. It stands as a compelling hack candidate due to its relative rarity, robust powertrain, and overlooked status compared to its German rivals, and its overlooked status compared to its German rivals suggests it may offer a more stable value proposition. The main risk lies in potential electronic and platform-specific issues that can be costly to address if not properly vetted.
 
 ## Model Year Overview
 | Model Year | Version/Body Style | Base MSRP | Key Details | Buyer Takeaway |
 |---|---|---|---|---|
-| 2016 | GS F Sedan | $84,440 | Debuted as a new performance variant to the GS lineup with a naturally aspirated 5.0-liter V8 engine and eight-speed automatic transmission. Featured aggressive front fascia, quad exhaust tips, carbon fiber rear spoiler, sports seats, premium materials, and Lexus Safety System+. | First model year, strong value retention potential. |
-| 2017 | GS F Sedan | $83,940 | Minor enhancements to standard equipment including adaptive cruise control, automatic emergency braking, lane departure warning with mitigation, and automatic high-beam control. Optional limited-slip rear differential for RWD F Sport model. | Improved standard features, good all-around choice. |
-| 2018 | GS F Sedan | $84,350 | Introduced the 10th Anniversary Edition (limited to 100 units) with unique matte Nebula Gray paint, blue interior accents, and black BBS forged wheels. | Limited edition, potential collector\'s item. |
-| 2019 | GS F Sedan | $84,600 | No significant updates. | Consistent performance, solid option. |
+| 2016 | GS F Sedan | $85,390 | Debuted as a new performance variant to the GS lineup with a naturally aspirated 5.0-liter V8 engine, eight-speed Sport Direct-Shift transmission, and Torque Vectoring Differential. Standard features included an aggressive front fascia, quad exhaust tips, carbon fiber rear spoiler, sports seats, premium materials, and the Lexus Safety System+ (which comprises Pre-Collision System with Pedestrian Detection, Lane Departure Alert with Steering Assist, Intelligent High Beams, and High-Speed Dynamic Radar Cruise Control). | First model year, strong value retention potential. |
+| 2017 | GS F Sedan | $84,935 | Lexus Safety System+ became standard, including Pre-Collision System with Pedestrian Detection, Lane Departure Alert with Steering Assist, Intelligent High Beams, and High-Speed Dynamic Radar Cruise Control. The only optional features were the Mark Levinson premium audio system, orange-painted brake calipers, polished wheels, and a head-up display. | Improved standard features, good all-around choice. |
+| 2018 | GS F Sedan | $84,350 | Introduced the 10th Anniversary Edition (limited to 300 units) with unique matte Nebula Gray paint, blue interior accents, and black BBS forged wheels. | Limited edition, potential collector\'s item. |
+| 2019 | GS F Sedan | $85,375 | No significant updates. | Consistent performance, solid option. |
 | 2020 | GS F Sedan | $85,010 | Final model year. Introduced the Black Line Special Edition (limited to 100 units) with black exterior accents, unique interior trim, and exclusive wheels. | Final model year limited edition, highly desirable. |
 
 ## Trims and Special Editions
 
 | Version | U.S. Years | Engine/Output | Notes |
 |---|---|---|---|
-| 10th Anniversary Edition | 2018 | 5.0L V8 / 467 hp | Limited to 100 units, unique matte Nebula Gray paint, blue interior accents, black BBS forged wheels. |
+| 10th Anniversary Edition | 2018 | 5.0L V8 / 467 hp | Limited to 300 units, unique matte Nebula Gray paint, blue interior accents, black BBS forged wheels. |
 | Black Line Special Edition | 2020 | 5.0L V8 / 467 hp | Limited to 100 units, black exterior accents, unique interior trim, exclusive wheels. |
 ## Factory Options
 
@@ -53,16 +53,14 @@ The Lexus GS F, produced from 2016 to 2020, represents Lexus\'s foray into the h
 
 ## Maintenance and Common Issues
 
-Always perform a Pre-Purchase Inspection (PPI) by a qualified independent specialist.
-
 ### Known Problems
 
 | Issue | What To Know/Check |
 |---|---|
-| Electronic Parking Brake Malfunction | warning messages and brake not engaging or disengaging properly and cost is Not specified |
-| Door Lock Actuator Failure | doors cannot be locked or unlocked electronically, necessitating manual operation or replacement and cost is Not specified |
-| Infotainment System Concerns | complex interface and occasional responsiveness issues and cost is Not specified |
-| Suspension Noise | unusual noises over uneven surfaces, indicating wear or need for inspection and cost is Not specified |
+| Electronic Parking Brake Malfunction | **Symptoms:** Warning messages on the dashboard, parking brake not engaging or disengaging correctly, or a blinking parking brake light. **What to check:** This often stems from malfunctioning actuators, sensor faults, or wiring issues. A common diagnostic step is to try resetting the parking brake by pressing and holding the parking brake button for 10-12 seconds. Look for specific error codes (e.g., C060e-2a for the left EPB actuator signal stuck in range) during a diagnostic scan. **Cost:** Repair costs can vary significantly depending on the faulty component, ranging from a few hundred dollars for sensor replacement to over $1,000 for actuator replacement. |
+| Door Lock Actuator Failure | **Symptoms:** Doors cannot be locked or unlocked electronically, sporadic locking/unlocking, or unusual grinding noises from the door when attempting to operate the locks. **What to check:** This is a common failure point across Lexus GS models. The actuators can fail internally, or there may be wiring issues. Listen for abnormal sounds during locking/unlocking. **Cost:** Replacement costs typically range from $550 to $650 per door, including parts and labor. Aftermarket actuators can be found for around $280, reducing the overall cost if you perform the labor yourself or find an independent specialist. |
+| Infotainment System Concerns | **Symptoms:** Screen randomly cutting off, flashing pink, reboot loops, system freezing, or navigation screen not working. Some users report a purple screen after battery issues. The interface can also be complex and occasionally unresponsive. **What to check:** Verify all functions of the infotainment system, including navigation, audio, and connectivity. Look for any flickering, freezing, or unresponsiveness. Check for any error messages. **Cost:** Repair costs can vary widely, from software updates (potentially free or minor diagnostic fees) to screen or component replacement, which can range from a few hundred to over a thousand dollars depending on the specific part and labor. |
+| Suspension Noise | **Symptoms:** Clunking, creaking, or rattling noises, especially over uneven surfaces, bumps, or when turning. **What to check:** Common culprits include worn struts, strut mounts, control arm bushings (particularly the rear bushing on the front lower control arm), and sway bar links. Inspect these components for signs of wear, cracks, or looseness. **Cost:** Repair costs can vary depending on the component. Replacing shocks or struts can range from $900 to $1,100 per axle. Control arm bushing replacement can be a few hundred dollars, while sway bar links are generally less expensive. |
 | Valley Plate Coolant Leak | coolant leak under the intake and cost is $1500 - $3500+ |
 | Cracked Headlight | replacement of headlight assembly and cost is $900 - $3500+ |
 | Carbon Fiber Trim Delamination | peeling of carbon fiber trim, especially in warmer climates and cost is $175 (restoration), replacement cost not specified |
@@ -91,3 +89,4 @@ The Lexus GS F is a **medium hack candidate**. Its main risk stems from potentia
 * PPI focus: Electronic Parking Brake, Door Lock Actuators, Infotainment System, Suspension Noise, Valley Plate Coolant Leak, Cracked Headlights, Carbon Fiber Trim Delamination, Bluetooth Connectivity, Brake Squeal, Powertrain Fluid Leaks, Low Pressure Fuel Pump Noise, A/C Servo Motor, Navigation Screen Issues, Airbag Sensor Delamination.
 * Known recalls: 18V107000 (High Pressure Fuel Pump May Crack and Leak Fuel)
 * Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.
+

@@ -1,6 +1,6 @@
 # Mercedes GLS63 AMG 2017-2019 Buyer Guide
 
-The Mercedes GLS63 AMG, an X166 generation SUV, represents a compelling "hack" candidate for those seeking a high-performance luxury SUV at a depreciated value. Its potent 5.5L biturbo V8 engine delivers exhilarating power, making it a desirable option for enthusiasts. However, potential buyers must be acutely aware of the significant mechanical risks associated with the M157 engine, particularly concerning oil leaks, timing chain issues, and cylinder scoring, which can lead to substantial repair costs.
+The Mercedes GLS63 AMG, an X166 generation SUV, represents a compelling "hack" candidate for those seeking a high-performance luxury SUV at a depreciated value. Its potent 5.5L biturbo V8 engine delivers exhilarating power, making it a desirable option for enthusiasts. However, potential buyers must be acutely aware of the significant mechanical risks associated with the M157 engine, particularly concerning timing chain issues and cylinder scoring, which can lead to substantial repair costs.
 
 ## Model Year Overview
 
@@ -45,21 +45,14 @@ The Mercedes GLS63 AMG, an X166 generation SUV, represents a compelling "hack" c
 
 ## Known Issues & Recalls
 
-**Always perform a Pre-Purchase Inspection (PPI) by a qualified Mercedes-Benz specialist.**
-
 ### Known Problems
 
 | Issue                                       | What To Know/Check                                              |
 |:--------------------------------------------|:----------------------------------------------------------------|
-| Oil leaks (upper front timing covers)       | $1,000 - $2,000                                                 |
 | Stretched timing chain                      | $1,500 - $2,500 (parts and labor), up to $19,000 at dealerships |
 | Cylinder scoring (cylinders 1 and 5)        | >$10,000 (engine-out job)                                       |
 | Seized low pressure fuel pump               | $1,077 - $1,700                                                 |
 | Airmatic suspension issues (pump and relay) | $7,000 - $9,000 for immediate attention                         |
-| Headlight failure                           | Cost not specified                                              |
-| Brakes and tires wear out quickly           | High replacement frequency                                      |
-| AC problems                                 | Cost not specified                                              |
-| Engine failure                              | Cost not specified                                              |
 
 ### NHTSA Recalls
 
@@ -84,13 +77,13 @@ Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pri
 
 ## Conclusion
 
-The Mercedes GLS63 AMG 2017-2019 is a **medium hack candidate**. While it offers significant performance and luxury for the money, the substantial risks associated with the M157 engine\'s known problems elevate the ownership risk. The best ownership logic involves a thorough PPI, proactive maintenance, and a contingency fund for potential high-cost repairs. This is not a "set it and forget it" vehicle.
+The Mercedes GLS63 AMG 2017-2019 is a **medium hack candidate**. While it offers significant performance and luxury for the money, the substantial risks associated with the M157 engine's known problems elevate the ownership risk.
 
 ## Car Hacking Shortcuts
 
 * Years to buy: 2017-2019 (focus on well-maintained examples)
 * Options to look for: Bang & Olufsen Sound System, 22" AMG Multi-Spoke Bicolor Alloy Wheels, Night Package
 * Preferred colors: Subjective, but black, white, and silver tend to hold value well.
-* PPI focus: Comprehensive M157 engine inspection (oil leaks, timing chain, cylinder scoring), Airmatic suspension, transmission, and electronics.
+* PPI focus: Comprehensive M157 engine inspection (timing chain, cylinder scoring), Airmatic suspension, transmission, and electronics.
 * Known recalls: Verify all NHTSA recalls (e.g., 22V-365, 21V-072, 21V-058, 19V-787, 19V-646, 18V-342, 17V-715, 17V-079, 17V-078, 17V-077) are addressed by VIN.
 * Market forecast: Expect continued depreciation, but strong examples with desirable options will retain value better.

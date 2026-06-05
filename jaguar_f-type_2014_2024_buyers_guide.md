@@ -1,3 +1,6 @@
+# REWRITE TASK: jaguar_f-type_2014_2024_buyers_guide.md
+
+## ORIGINAL GUIDE CONTENT
 # Jaguar F-Type V8 Buyer's Guide: 2014-2024
 
 ## 1. Introduction
@@ -10,7 +13,7 @@ The Jaguar F-Type V8 lineage saw continuous evolution throughout its production 
 
 *   **2015 Model Year:** The formidable F-Type R Coupe made its debut, boasting a 550 PS (542 hp) supercharged V8 engine. While a ZF six-speed manual transmission became an option, it was exclusively for V6 models, leaving the V8 with the acclaimed ZF 8-speed automatic. [16]
 
-*   **2016 Model Year:** A significant enhancement arrived with All-Wheel Drive (AWD) becoming standard on R models, dramatically improving traction and reducing the 0-60 mph sprint to a mere 3.9 seconds. Electric Power Assisted Steering (EPAS) was introduced for refined handling, and the InControl suite of telematics and connectivity services became available. Standard equipment saw a notable upgrade, including a 770W Meridian™ surround sound system, SiriusXM® Satellite Radio & HD Radio™, Jaguar Smart Key Keyless entry, and 14-way fully power-adjustable seats. Coupe models also received a panoramic glass roof and power tailgate as standard. [3]
+*   **2016 Model Year:** A significant enhancement arrived with All-Wheel Drive (AWD) becoming standard on R models, dramatically improving traction and reducing the 0-60 mph sprint to 3.3-3.4 seconds (MotorTrend/Car and Driver tested) or 3.9 seconds (manufacturer claim). Electric Power Assisted Steering (EPAS) was introduced for refined handling, and the InControl suite of telematics and connectivity services became available. Standard equipment saw a notable upgrade, including a 770W Meridian™ surround sound system, SiriusXM® Satellite Radio & HD Radio™, Jaguar Smart Key Keyless entry, and 14-way fully power-adjustable seats. Coupe models also received a panoramic glass roof and power tailgate as standard. [3]
 
 *   **2017 Model Year:** The pinnacle of F-Type performance, the SVR, was introduced. This ultra-high-performance variant unleashed 575 PS (567 hp) and 516 lb-ft of torque, coupled with standard AWD, a lightweight titanium and Inconel exhaust system, and a unique aerodynamic package for enhanced downforce and stability. [5]
 
@@ -185,3 +188,25 @@ The Jaguar F-Type V8, in its various guises from the V8 S to the R and SVR, offe
 *   **Consider Post-Facelift Models (2021+):** If budget allows, the 2021 and newer F-Type R models offer the highest power output (575 hp), updated infotainment, and refreshed styling, representing the most evolved version of the V8 F-Type.
 *   **AWD vs. RWD:** While RWD offers a purer sports car feel, AWD models (standard on R from 2016, and SVR) provide superior traction and all-weather usability, which can be a significant advantage depending on your driving environment.
 *   **Negotiate on Options:** Many F-Types were heavily optioned. Understand which options are truly
+
+---
+
+## AUDIT FINDINGS (Apply ALL corrections below)
+
+**Verdict:** NEEDS MINOR EDITS
+**Severity Score:** 3/10
+
+**INACCURACIES TO FIX:**
+2016 Model Year 0-60 mph for F-Type R AWD: Guide states "3.9 seconds" → Should state "3.3-3.4 seconds (MotorTrend/Car and Driver tested) or 3.9 seconds (manufacturer claim)". The guide presents the 3.9 seconds as a definitive reduction, but it's important to distinguish between manufacturer claims and independent tests, which often show better performance.
+
+**UNSUPPORTED CLAIMS TO FIX:**
+None identified.
+
+**GENERIC/VAGUE PROBLEMS TO MAKE SPECIFIC:**
+None identified.
+
+**RECOMMENDED CORRECTIONS:**
+Clarify the 0-60 mph time for the 2016 F-Type R AWD, distinguishing between manufacturer claims and independent test results from reputable sources like MotorTrend or Car and Driver.
+
+**MISSING U.S.-SPECIFIC DETAILS TO ADD:**
+None identified.

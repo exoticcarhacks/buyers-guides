@@ -1,3 +1,6 @@
+# REWRITE TASK: ferrari_f430_2005_2009_buyers_guide.md
+
+## ORIGINAL GUIDE CONTENT
 # Ferrari F430 2005-2009 Buyer Guide
 
 ## Introduction
@@ -7,9 +10,9 @@ The Ferrari F430, produced from 2005 to 2009, represents a pivotal moment for Fe
 
 | Model Year | Version/Body Style | Base MSRP | Key Details | Buyer Takeaway |
 |---|---|---|---|---|
-| 2005 | F430 Coupe | $170,000 | Introduction of 4.3L V8 (483 hp, 343 lb-ft), E-Diff, Manettino dial. | The purest F430 experience, often the most affordable coupe. |
+| 2005 | F430 Coupe | $175,895 | Introduction of 4.3L V8 (483 hp, 343 lb-ft), E-Diff, Manettino dial. | The purest F430 experience, often the most affordable coupe. |
 | 2006 | F430 Coupe | $175,000 | Minor updates. | Similar to 2005, good value. |
-| 2006 | F430 Spider | $195,000 | Convertible variant introduced. | Adds open-top driving, expect a premium over coupes. |
+| 2006 | F430 Spider | $196,834 | Convertible variant introduced. | Adds open-top driving, expect a premium over coupes. |
 | 2007 | F430 Coupe | $180,000 | Minor updates. | |
 | 2007 | F430 Spider | $200,000 | Minor updates. | |
 | 2007 | 430 Scuderia | $250,000 | Track-focused, 503 hp, reduced weight, enhanced aerodynamics, faster-shifting gearbox, F1-Trac. | The enthusiast's choice, commanding a significant premium. |
@@ -133,3 +136,4 @@ The Ferrari F430 is a **strong hack candidate** for those seeking a modern class
 * PPI focus: F1 transmission health, exhaust manifold integrity, sticky interior plastics, suspension components.
 * Known recalls: 09V-048, 22V-536, 06V-478.
 * Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.
+

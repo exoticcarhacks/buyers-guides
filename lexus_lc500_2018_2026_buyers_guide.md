@@ -8,15 +8,22 @@ The Lexus LC500, available with a naturally aspirated 5.0L V8 or a 3.5L V6 hybri
 | Model Year | Version/Body Style | Base MSRP | Key Details | Buyer Takeaway |
 |---|---|---|---|---|
 | 2018 | LC 500 (V8) | $92,000 | Introduction of the grand-touring coupe with 5.0L V8 (471hp) and 10-speed automatic. First model on GA-L platform. Standard features included glass roof, LED headlamps, Drive Mode Select, paddle shifters, Remote Touch Interface, Lexus Premium Audio, 10.3-inch TFT display, and Lexus Safety System+. | Early models offer strong value; ensure all initial recalls and TSBs are addressed. |
-| 2018 | LC 500h (Hybrid) | $92,000 | Introduction of the hybrid variant with 3.5L V6 hybrid (354hp). | Consider for fuel efficiency, but the V8 is generally more desirable for enthusiasts. |
-| 2019 | LC 500 / LC 500h | $92,900 | Apple CarPlay and Amazon Alexa integrated, Lexus Enform Remote and Dynamic Navigation systems, voice commands, Wi-fi added. Improved shift logic software and suspension revisions for comfort. | Infotainment improvements make this a more modern experience. |
-| 2020 | LC 500 / LC 500h | $93,075 | Few extra features, "Check Fuel Cap" light, Flare Yellow paint, blind-spot monitoring becomes standard. Limited-edition LC Inspiration Series (Nori Green, 100 units). | Standard blind-spot monitoring is a plus. Look for the rare Inspiration Series. |
-| 2021 | LC 500 / LC 500h | $93,075 | Improved suspension and chassis, new brake-based vectoring system, Android Auto integration. Convertible body style introduced, new paint and wheel options. | Significant dynamic improvements and the introduction of the convertible make this year highly desirable. |
-| 2022 | LC 500 / LC 500h | $93,150 | New Bespoke Build version available. Suspension improvements across the lineup. | Continued refinement of the platform. Bespoke Build offers customization. |
-| 2023 | LC 500 / LC 500h | $94,450 | Suspension improvements across the lineup. Bespoke Build personalized version available. | Minor updates, consistent with previous year's refinements. |
-| 2024 | LC 500 / LC 500h | $98,450 | New touchscreen multimedia system (12.3-inch) replacing Remote Touch touchpad. Available "bespoke" trim with custom color combinations. | Major infotainment upgrade addresses a common complaint. |
-| 2025 | LC 500 / LC 500h | $99,750 | Enhancements to the infotainment system interface. Bespoke Build personalized versions available. | Further refinements to the user interface. |
-| 2026 | LC 500 | $101,850 | Carryover with new Inspiration Series package (Smoke Matte Gray paint, white and black interior, carbon fiber bits). LC 500h hybrid discontinued. Final model year for LC series. | The last year for the V8 coupe, potentially a collector's item. Hybrid discontinued. |
+| 2018 | LC 500h (Hybrid) | $96,510 | Introduction of the hybrid variant with 3.5L V6 hybrid (354hp). | Consider for fuel efficiency, but the V8 is generally more desirable for enthusiasts. |
+| 2019 | LC 500 | $92,300-$93,325 | Apple CarPlay and Amazon Alexa integrated, Lexus Enform Remote and Dynamic Navigation systems, voice commands, Wi-fi added. Improved shift logic software and suspension revisions for comfort. | Infotainment improvements make this a more modern experience. |
+| 2019 | LC 500h | $96,810-$97,835 | Apple CarPlay and Amazon Alexa integrated, Lexus Enform Remote and Dynamic Navigation systems, voice commands, Wi-fi added. Improved shift logic software and suspension revisions for comfort. | Infotainment improvements make this a more modern experience. |
+| 2020 | LC 500 | $93,975 | Few extra features, "Check Fuel Cap" light, Flare Yellow paint, blind-spot monitoring becomes standard. Limited-edition LC Inspiration Series (Nori Green, 100 units). | Standard blind-spot monitoring is a plus. Look for the rare Inspiration Series. |
+| 2020 | LC 500h | $98,535 | Few extra features, "Check Fuel Cap" light, Flare Yellow paint, blind-spot monitoring becomes standard. Limited-edition LC Inspiration Series (Nori Green, 100 units). | Standard blind-spot monitoring is a plus. Look for the rare Inspiration Series. |
+| 2021 | LC 500 | $94,075 | Improved suspension and chassis, new brake-based vectoring system, Android Auto integration. Convertible body style introduced, new paint and wheel options. | Significant dynamic improvements and the introduction of the convertible make this year highly desirable. |
+| 2021 | LC 500h | $98,635 | Improved suspension and chassis, new brake-based vectoring system, Android Auto integration. Convertible body style introduced, new paint and wheel options. | Significant dynamic improvements and the introduction of the convertible make this year highly desirable. |
+| 2022 | LC 500 | $93,050-$94,300 | New Bespoke Build version available. Suspension improvements across the lineup. | Continued refinement of the platform. Bespoke Build offers customization. |
+| 2022 | LC 500h | $99,050-$99,150 | New Bespoke Build version available. Suspension improvements across the lineup. | Continued refinement of the platform. Bespoke Build offers customization. |
+| 2023 | LC 500 | $94,450-$95,600 | Suspension improvements across the lineup. Bespoke Build personalized version available. | Minor updates, consistent with previous year's refinements. |
+| 2023 | LC 500h | $101,600 | Suspension improvements across the lineup. Bespoke Build personalized version available. | Minor updates, consistent with previous year's refinements. |
+| 2024 | LC 500 | $98,450-$99,800 | New touchscreen multimedia system (12.3-inch) replacing Remote Touch touchpad. Available "bespoke" trim with custom color combinations. | Major infotainment upgrade addresses a common complaint. |
+| 2024 | LC 500h | $103,100 | New touchscreen multimedia system (12.3-inch) replacing Remote Touch touchpad. Available "bespoke" trim with custom color combinations. | Major infotainment upgrade addresses a common complaint. |
+| 2025 | LC 500 | $100,425 | Enhancements to the infotainment system interface. Bespoke Build personalized versions available. | Further refinements to the user interface. |
+| 2025 | LC 500h | $102,900 | Enhancements to the infotainment system interface. Bespoke Build personalized versions available. | Further refinements to the user interface. |
+| 2026 | LC 500 | $101,850 | Carryover with new Inspiration Series package (Smoke Matte Gray paint, white and black interior, carbon fiber bits). LC 500h hybrid discontinued in 2025. Final model year for LC series. | The last year for the V8 coupe, potentially a collector's item. Hybrid discontinued in 2025. |
 
 ## Trims and Special Editions
 
@@ -28,7 +35,7 @@ The Lexus LC500, available with a naturally aspirated 5.0L V8 or a 3.5L V6 hybri
 ## Factory Options
 
 | Factory Option/Package | Pricing/Status | Notes |
-|---|---|---|---|
+|---|---|---|
 | Sport Package w/Carbon-Fiber Roof | Optional, $2,960 | 2019 only. Enhances aesthetics and reduces weight. |
 | Carbon Fiber Package | Optional, $2,398 | 2019 only. |
 | Sport Package | Optional, $1,400 | 2019, 2020. |
@@ -94,8 +101,6 @@ The Lexus LC500, available with a naturally aspirated 5.0L V8 or a 3.5L V6 hybri
 | Strongly Preferred | 21-inch Forged Wheels | Optional, $2,650 (2019) / Verify by window sticker (other years) | Larger, more attractive wheels enhance the car's visual appeal and can positively impact resale. |
 
 ## Known Problems and Recalls
-
-Always get a Pre-Purchase Inspection (PPI) from a reputable independent specialist before buying.
 
 ### Known Problems
 

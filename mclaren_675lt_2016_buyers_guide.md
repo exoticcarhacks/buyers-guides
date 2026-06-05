@@ -6,10 +6,23 @@ The McLaren 675LT is a limited-production, track-focused evolution of the 650S, 
 
 | Model Year | Version/Body Style | Base MSRP | Key Details | Buyer Takeaway |
 |---|---|---|---|---|
-| 2016 | Coupe | $349,500 | 666 bhp, 100kg lighter than 650S, limited to 500 units | Highly desirable, track-focused coupe. |
+| 2016 | Coupe | $353,600 [1] | 666 bhp, 100kg lighter than 650S, limited to 500 units | Highly desirable, track-focused coupe. |
 | 2016 | Spider | $372,600 | Open-top variant, limited to 500 units | Premium over coupe, offers open-air experience with minimal performance compromise. |
 
 ## Trims & Special Editions
+
+## Powertrain & Specs
+
+The McLaren 675LT is powered by a 3.8-liter twin-turbocharged V8 engine. It utilizes a 7-speed dual-clutch Seamless-Shift Gearbox (SSG) supplied by Graziano Trasmissioni. The car is Rear-Wheel Drive (RWD).
+
+| Specification | Detail |
+|---|---|
+| Engine | 3.8L Twin-Turbo V8 |
+| Horsepower (SAE Net) | 666 bhp |
+| Transmission | 7-speed dual-clutch Seamless-Shift Gearbox (SSG) by Graziano Trasmissioni |
+| Drivetrain | Rear-Wheel Drive (RWD) |
+| 0-60 mph | 2.8 seconds |
+| Top Speed | 205 mph (330 km/h) |
 
 | Version | U.S. Years | Engine/Output | Notes |
 |---|---|---|---|
@@ -93,7 +106,7 @@ Always secure a comprehensive Pre-Purchase Inspection (PPI) from a qualified McL
 
 | NHTSA Recall | Campaign | Affected Years | Issue |
 |---|---|---|---|
-| 19V-141 | Airbag | 2015-2016 | Passenger airbag inflator may rupture due to propellant degradation. |
+| 19V-141 | Airbag | 2015-2016 | Passenger airbag inflator may rupture due to propellant degradation. This recall affects certain 2012-2013 MP4-12C, 2014-2016 650S, 2015-2016 675LT, 2014-2015 P1, and 2015-2017 570 vehicles. Recall began March 28, 2019. [2] |
 
 ## Market & Pricing
 
@@ -113,3 +126,8 @@ The McLaren 675LT is a strong hack candidate due to its limited production and e
 * PPI focus: PCC accumulators, Graziano gearbox leaks, front splitter damage, track wear
 * Known recalls: 19V-141 (Passenger airbag inflator)
 * Market forecast: Stable with potential for slight appreciation for pristine, low-mileage examples.
+
+## References
+
+[1] Car and Driver. "2016 McLaren 675LT Coupe Price and Specs." https://www.caranddriver.com/mclaren/675lt/specs/2016/mclaren_675lt_mclaren_675lt_2016/
+[2] National Highway Traffic Safety Administration. "NHTSA Recall 19V-141." https://www.nhtsa.gov/recalls?nhtsaId=19V141

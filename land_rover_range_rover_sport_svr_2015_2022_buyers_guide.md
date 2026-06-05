@@ -1,18 +1,18 @@
 # Land Rover Range Rover Sport SVR 2015-2022 Buyer Guide
 ## Introduction
-The Land Rover Range Rover Sport SVR (2015-2022) is a high-performance luxury SUV that blends formidable off-road capability with supercar-rivalling acceleration, making it a compelling candidate for the discerning enthusiast. Its potent 5.0L supercharged V8 engine and sophisticated chassis dynamics offer an exhilarating driving experience rarely found in its class. As a hack candidate, its rapid depreciation from a high MSRP presents an opportunity for significant value, but potential buyers must be acutely aware of the substantial running costs and complex mechanical issues that can arise.
+The Land Rover Range Rover Sport SVR (2015-2022) is a high-performance luxury SUV that blends formidable off-road capability with supercar-rivalling acceleration, making it a compelling candidate for the discerning enthusiast. Its potent 5.0L supercharged V8 engine and sophisticated chassis dynamics offer an exhilarating driving experience rarely found in its class. Its depreciation from a high MSRP can present an opportunity for value, but potential buyers must be acutely aware of the substantial running costs and complex mechanical issues that can arise.
 
 ## Model Year Overview
-| Model Year | Version/Body Style | Base MSRP | Key Details | Buyer Takeaway |
-|---|---|---|---|---|
-| 2015 | SVR | $110,475 | Introduced with a 5.0-liter supercharged V8 engine (550 hp, 502 lb-ft torque), 8-speed automatic transmission, specially tuned suspension, advanced four-wheel-drive, adaptive air suspension, high-performance brakes, and a unique exhaust system. | Early models offer significant value; later models feature improved tech and power. |
-| 2016 | SVR | $111,350 | Minor updates to interior materials and craftsmanship. Introduction of the InControl Touch Pro infotainment system with a larger, more responsive touchscreen, enhanced graphics, and improved connectivity. | Early models offer significant value; later models feature improved tech and power. |
-| 2017 | SVR | $111,350 | Significant interior refinements with improved materials and assembly quality, premium leather, wood, carbon fiber, metallic trim, or high-grade plastics. Special SVR sport seats with harness holes and individually sculpted rear bucket seats. | Early models offer significant value; later models feature improved tech and power. |
-| 2018 | SVR | $113,600 | Significant facelift with new LED headlights and taillights. Introduction of the dual-screen Touch Pro Duo infotainment system. Engine output boosted to 575 hp, reducing 0-60 mph time to 4.3 seconds. | Mid-cycle refresh brings updated tech and power boost. |
-| 2019 | SVR | $113,900 | Introduction of special edition models, including the SVR Carbon Edition (exposed carbon fiber bonnet, carbon fiber exterior/interior detailing, 22-inch Gloss Black alloy wheels, SVR Carbon Edition treadplates). HSE Dynamic Black and HSE Dynamic Stealth editions also introduced. | Later models offer updated tech and increased power, commanding a premium. |
-| 2020 | SVR | $114,500 | Significant updates to the Touch Pro Duo infotainment system for improved user experience and responsiveness. New optional features included upgraded audio systems and advanced driver assistance packages (adaptive cruise control, lane-keeping assist). | Later models offer updated tech and increased power, commanding a premium. |
-| 2021 | SVR | $115,500 | Optional performance package with upgraded brakes and suspension components. Expanded options for interior materials and color combinations, including Windsor leather 16-way adjustable seats and Semi-Aniline leather 22-way adjustable seats. SVR Carbon Edition with extensive carbon fiber detailing and configurable ambient lighting. | Later models offer updated tech and increased power, commanding a premium. |
-| 2022 | SVR | $117,800 | No major changes, largely a carryover from 2021. The SVR Carbon Edition continued to be offered. | Later models offer updated tech and increased power, commanding a premium. |
+| Model Year | Version/Body Style | Base MSRP | Key Details |
+|---|---|---|---|
+| 2015 | SVR | $110,475 | Introduced with a 5.0-liter supercharged V8 engine (550 hp, 502 lb-ft torque), 8-speed automatic transmission, specially tuned suspension, advanced four-wheel-drive, adaptive air suspension, high-performance brakes, and a unique exhaust system. |
+| 2016 | SVR | $111,350 | Minor updates to interior materials and craftsmanship. Introduction of the InControl Touch Pro infotainment system with a larger, more responsive touchscreen, enhanced graphics, and improved connectivity. |
+| 2017 | SVR | $111,350 | Significant interior refinements with improved materials and assembly quality, premium leather, wood, carbon fiber, metallic trim, or high-grade plastics. Special SVR sport seats with harness holes and individually sculpted rear bucket seats. |
+| 2018 | SVR | $113,600 | Significant facelift with new LED headlights and taillights. Introduction of the dual-screen Touch Pro Duo infotainment system. Engine output boosted to 575 hp, reducing 0-60 mph time to 4.3 seconds. |
+| 2019 | SVR | $113,900 | Introduction of special edition models, including the SVR Carbon Edition (exposed carbon fiber bonnet, carbon fiber exterior/interior detailing, 22-inch Gloss Black alloy wheels, SVR Carbon Edition treadplates). HSE Dynamic Black and HSE Dynamic Stealth editions also introduced. |
+| 2020 | SVR | $114,500 | Significant updates to the Touch Pro Duo infotainment system for improved user experience and responsiveness. New optional features included upgraded audio systems and advanced driver assistance packages (adaptive cruise control, lane-keeping assist). |
+| 2021 | SVR | $115,500 | Optional performance package with upgraded brakes and suspension components. Expanded options for interior materials and color combinations, including Windsor leather 16-way adjustable seats and Semi-Aniline leather 22-way adjustable seats. SVR Carbon Edition with extensive carbon fiber detailing and configurable ambient lighting. |
+| 2022 | SVR | $117,800 | No major changes, largely a carryover from 2021. The SVR Carbon Edition continued to be offered. |
 
 ## Trims and Special Editions
 | Version | U.S. Years | Engine/Output | Notes |
@@ -124,11 +124,10 @@ The Land Rover Range Rover Sport SVR (2015-2022) is a high-performance luxury SU
 | Must Have | SVR Carbon Fiber Exterior Pack w/ Exposed Carbon Fiber Hood | $7,750 (2018), $5,200 (2019), N/A (part of Carbon Edition) | Enhances visual aggression and exclusivity, significantly boosting resale value and desirability. |
 | Strongly Preferred | Meridian Signature Audio Package (1600 Watt) | $6,300 (2016-2017), $4,450 (2018) | Superior audio experience, a key luxury differentiator that improves ownership satisfaction and resale. |
 | Strongly Preferred | Head-Up Display | $1,300 (2017-2018) | Improves driver focus and safety by projecting key information onto the windshield. A modern convenience that adds to the premium feel. |
-| Spec-Dependent | 22\" 5 split-spoke \\'Style 5083\\' Gloss Black/Satin Polish finish | $2,040 (2018-2020), $3,060 (2019) | Larger wheels enhance the SVR\\'s aggressive stance and curb appeal, crucial for resale in the performance SUV market. |
+| Spec-Dependent | 22\" 5 split-spoke \\\'Style 5083\\\' Gloss Black/Satin Polish finish | $2,040 (2018-2020), $3,060 (2019) | Larger wheels enhance the SVR\\\'s aggressive stance and curb appeal, crucial for resale in the performance SUV market. |
 | Spec-Dependent | Heated and Cooled Front and Rear Seats | $1,525 (2018) | Essential for comfort in varying climates, a highly sought-after feature in luxury vehicles. |
 
 ## Known Issues and Recalls
-A Pre-Purchase Inspection (PPI) by a Land Rover specialist is non-negotiable for any SVR. This is a complex, high-performance vehicle where deferred maintenance can lead to catastrophic costs.
 
 ### Known Problems
 | Issue | What To Know/Check |
@@ -159,22 +158,74 @@ A Pre-Purchase Inspection (PPI) by a Land Rover specialist is non-negotiable for
 | TSB SSM49497 | An oil leak may be detected from the steering gear and incorrectly diagnosed as needing a replacement steering gear assembly. |
 
 ### NHTSA Recalls
-| NHTSA Recall | Campaign | Affected Years | Issue |
-|---|---|---|---|
-| 21V-660 | 2022 | SEAT BELTS:FRONT:RETRACTOR | SEAT BELTS:REAR/OTHER:RETRACTOR - The seat belt automatic locking retractors may deactivate early, which can prevent the child restraint system from securing properly. |
+
+**2015 Land Rover Range Rover Sport Recalls**
+
+| Recall Date | Component | Summary |
+|---|---|---|
+| 2025-08-08 | STEERING:LINKAGES:KNUCKLE:SPINDLE:ARM | Jaguar Land Rover North America, LLC (Land Rover) is recalling certain 2014-2017 Range Rover and Range Rover Sport vehicles. The front suspension upper knuckle joint may crack, which can result in suspension arm detachment. **Remedy:** Dealers will inspect the front suspension knuckles and install a retaining bracket or replace the knuckle, as necessary, free of charge. Owner notification letters are expected to be mailed September 30, 2025. Owners may contact Land Rover’s customer service at 1-800-637-6837. Land Rover’s numbers for this recall are D019, N759, D041, and D027. This recall expands and replaces previous NHTSA recall number 24V840. |
+| 2020-02-07 | LATCHES/LOCKS/LINKAGES:DOORS:LATCH | Jaguar Land Rover North America, LLC (Land Rover) is recalling certain 2013-2016 Range Rover and 2014-2016 Range Rover Sport vehicles. These vehicles were previously recalled and repaired under Recall 19V-392, however the repair may not have been completed properly. Due to a problem with the Keyless Vehicle Latching System (KV Latch), the doors may appear to be closed but may be unlatched. **Remedy:** Land Rover will notify owners, and dealers will inspect for any issues with the KV system, disabling the KV mechanisms if necessary, and update the KV Latch software, free of charge. The recall began November 30, 2020. Owners may contact Land Rover customer service at 1-800-452-4827. Land Rover’s number for this recall is N476. |
+| 2019-05-24 | LATCHES/LOCKS/LINKAGES:DOORS:LATCH | Jaguar Land Rover North America, LLC (Land Rover) is recalling certain 2013-2016 Ranger Rover and 2014-2016 Range Rover Sport vehicles. Due to a problem with the Keyless Vehicle Latching System (KV Latch), the doors may appear to be closed but may be unlatched. **Remedy:** Land Rover will notify owners, and dealers will inspect for any issues with the KV system, disabling the KV mechanisms if necessary, and update the KV Latch software, free of charge. The recall began July 18, 2019. Owners may contact Land Rover customer service at 1-800-637-6837. Land Rover’s number for this recall is N335. Note: Vehicles in this recall were previously recalled under recall number 15V-385 and need to be remedied again. |
+| 2015-09-25 | SEATS:MID/REAR ASSEMBLY | Jaguar Land Rover North America, LLC (Land Rover) is recalling certain model year 2015 Range Rover and Range Rover Sport vehicles manufactured June 2, 2015, to June 11, 2015. In the affected vehicles, the second row seat back may not latch properly, especially in the center section. **Remedy:** Land Rover will notify owners, and dealers will inspect the second row seat mechanism, replacing it as required, free of charge. The recall began on November 12, 2015. Owners may contact Land Rover’s customer service at 1-800-637-6837. Land Rover’s number for this recall is P072. |
+| 2015-06-17 | LATCHES/LOCKS/LINKAGES:DOORS:LATCH | Jaguar Land Rover North America, LLC (Land Rover) is recalling certain model year 2013-2016 Range Rover vehicles manufactured July 26, 2012, to March 9, 2015, and 2014-2016 Range Rover Sport vehicles manufactured February 18, 2013, to March 5, 2015. In the affected vehicles, the doors may unlatch unexpectedly when closed. **Remedy:** Land Rover will notify owners, and dealers will update the keyless entry software, free of charge. The recall began August 6, 2015. Owners may contact Land Rover customer service at 1-800-637-6837. Land Rover’s number for this recall is P068. |
+| 2015-02-06 | ENGINE AND ENGINE COOLING:ENGINE | Jaguar Land Rover North America, LLC (Land Rover) is recalling one model year 2015 Range Rover Sport vehicle manufactured November 16, 2014, and one 2015 LR4 vehicle manufactured November 11, 2014. In the affected vehicles, the 3.0L V6 supercharged engines may have improperly torqued connecting rod bolts. As a result, the connecting rod may separate from the crankshaft and the engine may seize. **Remedy:** Land Rover will notify owners, and dealers will replace the affected engines, free of charge. The recall began February 27, 2015. Owners may contact Land Rover customer service at 1-800-637-6837. Land Rover’s number for this recall is P055. |
+| 2015-02-18 | AIR BAGS | Jaguar Land Rover North America, LLC (Land Rover) is recalling certain model year 2013-2015 Land Rover Range Rover vehicles manufactured August 23, 2012, to February 5, 2015, and 2014-2015 Range Rover Sport vehicles manufactured June 16, 2013, to February 5, 2015. In the affected vehicles, a light weight adult front seat passenger may be improperly classified by the occupant classification system (OCS) and, as a result, the front seat passenger air bag may be disabled. **Remedy:** Land Rover will notify owners, and dealers will update the OCS software, free of charge. The recall began April 9, 2015. Owners may contact Land Rover customer service at 1-800-637-6837. Land Rover’s number for this recall is P059. |
+| 2015-02-18 | WHEELS:LUGS/NUTS/BOLTS | Jaguar Land Rover North America, LLC (Land Rover) is recalling certain model year 2015 Land Rover Range Rover, Range Rover Sport, and LR4 vehicles manufactured January 6, 2015, to January 23, 2015. The affected vehicles have wheel lug nuts that may crack and detach from the wheel hub stud. **Remedy:** Land Rover will notify owners, and dealers will replace the wheel nuts with new wheel nuts, free of charge. The recall began March 23, 2015. Owners may contact Land Rover customer service at 1-800-637-6837. Land Rover’s number for this recall is P060. |
+
+**2016 Land Rover Range Rover Sport Recalls**
+
+| Recall Date | Component | Summary |
+|---|---|---|
+| 2020-02-07 | LATCHES/LOCKS/LINKAGES:DOORS:LATCH | Jaguar Land Rover North America, LLC (Land Rover) is recalling certain 2013-2016 Range Rover and 2014-2016 Range Rover Sport vehicles. These vehicles were previously recalled and repaired under Recall 19V-392, however the repair may not have been completed properly. Due to a problem with the Keyless Vehicle Latching System (KV Latch), the doors may appear to be closed but may be unlatched. **Remedy:** Land Rover will notify owners, and dealers will inspect for any issues with the KV system, disabling the KV mechanisms if necessary, and update the KV Latch software, free of charge. The recall began November 30, 2020. Owners may contact Land Rover customer service at 1-800-452-4827. Land Rover’s number for this recall is N476. |
+| 2019-05-24 | LATCHES/LOCKS/LINKAGES:DOORS:LATCH | Jaguar Land Rover North America, LLC (Land Rover) is recalling certain 2013-2016 Ranger Rover and 2014-2016 Range Rover Sport vehicles. Due to a problem with the Keyless Vehicle Latching System (KV Latch), the doors may appear to be closed but may be unlatched. **Remedy:** Land Rover will notify owners, and dealers will inspect for any issues with the KV system, disabling the KV mechanisms if necessary, and update the KV Latch software, free of charge. The recall began July 18, 2019. Owners may contact Land Rover customer service at 1-800-637-6837. Land Rover’s number for this recall is N335. Note: Vehicles in this recall were previously recalled under recall number 15V-385 and need to be remedied again. |
+| 2015-06-17 | LATCHES/LOCKS/LINKAGES:DOORS:LATCH | Jaguar Land Rover North America, LLC (Land Rover) is recalling certain model year 2013-2016 Range Rover vehicles manufactured July 26, 2012, to March 9, 2015, and 2014-2016 Range Rover Sport vehicles manufactured February 18, 2013, to March 5, 2015. In the affected vehicles, the doors may unlatch unexpectedly when closed. **Remedy:** Land Rover will notify owners, and dealers will update the keyless entry software, free of charge. The recall began August 6, 2015. Owners may contact Land Rover customer service at 1-800-637-6837. Land Rover’s number for this recall is P068. |
+
+**2017 Land Rover Range Rover Sport Recalls**
+
+| Recall Date | Component | Summary |
+|---|---|---|
+| 2025-08-08 | STEERING:LINKAGES:KNUCKLE:SPINDLE:ARM | Jaguar Land Rover North America, LLC (Land Rover) is recalling certain 2014-2017 Range Rover and Range Rover Sport vehicles. The front suspension upper knuckle joint may crack, which can result in suspension arm detachment. **Remedy:** Dealers will inspect the front suspension knuckles and install a retaining bracket or replace the knuckle, as necessary, free of charge. Owner notification letters are expected to be mailed September 30, 2025. Owners may contact Land Rover’s customer service at 1-800-637-6837. Land Rover’s numbers for this recall are D019, N759, D041, and D027. This recall expands and replaces previous NHTSA recall number 24V840. |
+
+**2018 Land Rover Range Rover Sport Recalls**
+
+| Recall Date | Component | Summary |
+|---|---|---|
+| 2022-07-21 | SEAT BELTS:PRETENSIONER | Jaguar Land Rover North America, LLC (Land Rover) is recalling certain 2022-23 Land Rover Defender, Discovery, Discovery Sport, Range Rover Sport & Range Rover Velar vehicles. The driver and front passenger seat belt pretensioners may be damaged, which can cause the seat belts to not properly restrain occupants. **Remedy:** Dealers will inspect and replace the front seat belt assemblies, as necessary, free of charge. Owner notification letters are expected to be mailed September 16, 2022. Owners may contact Land Rover customer service at 1-800-637-6837. Land Rover’s number for this recall is N720. |
+
+**2019 Land Rover Range Rover Sport Recalls**
+
+| Recall Date | Component | Summary |
+|---|---|---|
+| 2022-07-21 | SEAT BELTS:PRETENSIONER | Jaguar Land Rover North America, LLC (Land Rover) is recalling certain 2022-23 Land Rover Defender, Discovery, Discovery Sport, Range Rover Sport & Range Rover Velar vehicles. The driver and front passenger seat belt pretensioners may be damaged, which can cause the seat belts to not properly restrain occupants. **Remedy:** Dealers will inspect and replace the front seat belt assemblies, as necessary, free of charge. Owner notification letters are expected to be mailed September 16, 2022. Owners may contact Land Rover customer service at 1-800-637-6837. Land Rover’s number for this recall is N720. |
+
+**2020 Land Rover Range Rover Sport Recalls**
+
+| Recall Date | Component | Summary |
+|---|---|---|
+| 2022-07-21 | SEAT BELTS:PRETENSIONER | Jaguar Land Rover North America, LLC (Land Rover) is recalling certain 2022-23 Land Rover Defender, Discovery, Discovery Sport, Range Rover Sport & Range Rover Velar vehicles. The driver and front passenger seat belt pretensioners may be damaged, which can cause the seat belts to not properly restrain occupants. **Remedy:** Dealers will inspect and replace the front seat belt assemblies, as necessary, free of charge. Owner notification letters are expected to be mailed September 16, 2022. Owners may contact Land Rover customer service at 1-800-637-6837. Land Rover’s number for this recall is N720. |
+
+**2021 Land Rover Range Rover Sport Recalls**
+
+| Recall Date | Component | Summary |
+|---|---|---|
+| 2022-07-21 | SEAT BELTS:PRETENSIONER | Jaguar Land Rover North America, LLC (Land Rover) is recalling certain 2022-23 Land Rover Defender, Discovery, Discovery Sport, Range Rover Sport & Range Rover Velar vehicles. The driver and front passenger seat belt pretensioners may be damaged, which can cause the seat belts to not properly restrain occupants. **Remedy:** Dealers will inspect and replace the front seat belt assemblies, as necessary, free of charge. Owner notification letters are expected to be mailed September 16, 2022. Owners may contact Land Rover customer service at 1-800-637-6837. Land Rover’s number for this recall is N720. |
+| 2021-08-26 | SEAT BELTS:FRONT:RETRACTOR | SEAT BELTS:REAR/OTHER:RETRACTOR | Jaguar Land Rover North America, LLC (Land Rover) is recalling certain 2021 Range Rover, 2022 Range Rover Sport, 2020-2021 Range Rover Velar, Discovery Sport, 2020-2022 Discovery, and Defender vehicles. The seat belt automatic locking retractors may deactivate early, which can prevent the child restraint system from securing properly. **Remedy:** Dealers will inspect and replace the seat belt assemblies as necessary, free of charge. Owner letters were mailed October 20, 2021. Owners may contact Land Rover customer service at 1-800-637-6837. Land Rover’s number for this recall is N630. |
+
+**2022 Land Rover Range Rover Sport Recalls**
+
+| Recall Date | Component | Summary |
+|---|---|---|
+| 2022-07-21 | SEAT BELTS:PRETENSIONER | Jaguar Land Rover North America, LLC (Land Rover) is recalling certain 2022-23 Land Rover Defender, Discovery, Discovery Sport, Range Rover Sport & Range Rover Velar vehicles. The driver and front passenger seat belt pretensioners may be damaged, which can cause the seat belts to not properly restrain occupants. **Remedy:** Dealers will inspect and replace the front seat belt assemblies, as necessary, free of charge. Owner notification letters are expected to be mailed September 16, 2022. Owners may contact Land Rover customer service at 1-800-637-6837. Land Rover’s number for this recall is N720. |
+| 2021-08-26 | SEAT BELTS:FRONT:RETRACTOR | SEAT BELTS:REAR/OTHER:RETRACTOR | Jaguar Land Rover North America, LLC (Land Rover) is recalling certain 2021 Range Rover, 2022 Range Rover Sport, 2020-2021 Range Rover Velar, Discovery Sport, 2020-2022 Discovery, and Defender vehicles. The seat belt automatic locking retractors may deactivate early, which can prevent the child restraint system from securing properly. **Remedy:** Dealers will inspect and replace the seat belt assemblies as necessary, free of charge. Owner letters were mailed October 20, 2021. Owners may contact Land Rover customer service at 1-800-637-6837. Land Rover’s number for this recall is N630. |
 
 ## Market Analysis
-[Insert dynamic Exotic Car Hacks historical pricing graph here]
+<!-- Insert dynamic Exotic Car Hacks historical pricing graph for U.S. market here, showing trends for 2015-2022 Range Rover Sport SVR models. -->
 
-Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.
+<!-- Insert dynamic 12-month market forecast for U.S. Range Rover Sport SVR pricing data from Exotic Car Hacks. -->
 
 ## Conclusion
-The Land Rover Range Rover Sport SVR is a **medium hack candidate**. Its primary risk lies in the potential for high maintenance and repair costs, particularly with engine and suspension components. However, its strong performance, luxury appeal, and relatively steep depreciation make well-maintained examples an attractive proposition for those who understand and budget for its specific needs. The best ownership logic involves thorough pre-purchase inspection and setting aside a significant contingency fund for potential repairs.
+The Land Rover Range Rover Sport SVR can be a **medium hack candidate**. Its primary risk lies in the potential for high maintenance and repair costs, particularly with engine and suspension components. However, its strong performance, luxury appeal, and relatively steep depreciation make well-maintained examples an attractive proposition for those who understand and budget for its specific needs. The best ownership logic involves thorough pre-purchase inspection and setting aside a significant contingency fund for potential repairs.
 
 ## Car Hacking Shortcuts
 * Years to buy: 2015-2017 for maximum depreciation value; 2018+ for updated tech and power if budget allows.
 * Options to look for: Carbon Fiber Exterior Pack, Meridian Signature Audio, Head-Up Display, 22-inch wheels, Heated and Cooled Seats.
-* Preferred colors: Generally, black, white, and metallic greys hold value best. Unique SVO paints can be desirable but narrow the buyer pool.
-* PPI focus: Cooling system, timing chain, air suspension, transfer case, and infotainment system functionality.
-* Known recalls: Verify all open recalls by VIN, especially those related to steering, latches, and camera systems.
-* Market forecast: Expect continued gradual depreciation, but strong demand for well-optioned, clean examples should provide some stability.

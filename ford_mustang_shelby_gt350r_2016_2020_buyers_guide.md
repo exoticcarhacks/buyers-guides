@@ -8,11 +8,11 @@ The Ford Mustang Shelby GT350R, produced from 2016 to 2020, represents the pinna
 
 **2016:** Introduced as a new model alongside the GT350. Both featured the 5.2-liter Voodoo V8 engine, 6-speed Tremec manual transmission, and Magnetic Ride Control. The GT350R was specifically designed for the track, featuring carbon fiber wheels, a larger rear wing, and weight reduction through the deletion of rear seats, air conditioning, and stereo system. Base MSRP: ~$63,495.
 
-**2017:** The Track Package became standard on all GT350 models, including an aluminum strut tower brace, transmission cooler, engine oil cooler, and rear differential cooler. A limited-edition GT350R "Heritage Edition" package was introduced at ~$66,495, featuring Wimbledon White paint and blue racing stripes. Base MSRP: ~$63,495.
+**2017:** The Track Package became standard on all GT350 models, including an aluminum strut tower brace, transmission cooler, engine oil cooler, and rear differential cooler. Base MSRP: ~$63,495.
 
 **2018:** Minor updates included a standard rearview camera and an updated Sync 3 infotainment system. Base MSRP: ~$64,645.
 
-**2019:** Significant handling and performance improvements were implemented, including new Michelin Pilot Sport Cup 2 tires and a redesigned rear spoiler with an optional Gurney flap for improved aerodynamics. Interior upgrades featured standard dual-zone automatic climate control, a premium B&O Play audio system, and Recaro sport seats. Base MSRP: ~$67,135.
+**2019:** Significant handling and performance improvements were implemented, including new Michelin Pilot Sport Cup 2 tires and a redesigned rear spoiler with an optional Gurney flap for improved aerodynamics. Interior upgrades featured standard dual-zone automatic climate control, a premium B&O Play audio system, and Recaro sport seats. The Heritage Edition package was introduced for the GT350 and GT350R. Base MSRP: ~$67,135.
 
 **2020:** The final production year saw no major mechanical changes. The Heritage Edition package was reintroduced for both the GT350 and GT350R, offering retro styling. Base MSRP: ~$73,435.
 
@@ -44,16 +44,16 @@ For a GT350R, many of its most desirable features are standard due to its track-
 
 | NHTSA Recall ID | Affected Models | Issue Description |
 | :--- | :--- | :--- |
-| 14C08 | 2015 | Seat belt buckle |
 | 15C13 | 2016 | Seat belt assembly |
 | 16S40 | 2015-2017 | Oil cooler leak |
 | 17B04 | 2015-2017 | Loose oil filter |
 | 17C04 | 2017 | Door handle not locking |
 | 17S26 | 2017 | Air bag problem |
-| 20C19/20S26 | 2020 | Rear camera/calibration |
+| 20C19 | 2020 | Rear camera |
+| 20S26 | 2020 | Rear camera calibration |
 | 20S30 | 2015 | Side door latch |
 | 21B26 | 2020 | Cam tensioner |
-| 22S06 | 2015-2017 | Rear camera |
+| 22S06 | 2016-2017 | Rear camera |
 
 *Note: Campaign 19B34 (shifter/reverse lockout for 2018-2019 models) was a customer satisfaction program, not a mandatory safety recall, and expired in February 2022.*
 
@@ -64,7 +64,7 @@ For a GT350R, many of its most desirable features are standard due to its track-
 *   **Clunky Shifts and Clutch Problems:** Difficulties during gear changes, especially when cold, linked to synchro problems or clutch noise.
 *   **Suspension Issues:** Excessive bounce and poor handling, often due to worn shock absorbers, damaged bushings, or improper wheel alignment.
 *   **Quality Control Concerns:** Noted body panel gaps and electrical problems, including faulty alternators, batteries, and occasional Sync 3 infotainment system issues.
-*   **Class Action Lawsuit:** A settlement was reached for 2016 model year owners in specific states (Florida, Missouri, New York, and Washington) regarding overheating and limp mode issues due to alleged defective transmissions and rear differentials.
+*   **Class Action Lawsuit:** A settlement was reached for 2016 model year GT350 and GT350R models equipped with the Track Pack in specific states (Florida, Missouri, New York, and Washington) regarding overheating and limp mode issues due to alleged defective transmission and rear differential coolers.
 
 ## 7. Market Analysis & Forecast
 

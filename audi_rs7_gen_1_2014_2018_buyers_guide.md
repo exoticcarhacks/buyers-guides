@@ -6,10 +6,10 @@ The Audi RS7 Gen 1 2014-2018 is a high-performance sportback that combines aggre
 
 | Model Year | Version/Body Style | Base MSRP | Key Details | Buyer Takeaway |
 |---|---|---|---|---|
-| 2014 | Sportback | $104,900 | Introduction of the Audi RS7 Gen 1 (4.0L twin-turbo V8). | First year model, highest depreciation, but potential for early teething issues. |
+| 2014 | Sportback | $105,795 | Introduction of the Audi RS7 Gen 1 (4.0L twin-turbo V8). | First year model, highest depreciation, but potential for early teething issues. |
 | 2015 | Sportback | $106,500 | No significant mechanical updates. Minor cosmetic changes and package restructuring. | Good value point, slightly refined over 2014. |
 | 2016 | Sportback | $109,825 | Introduction of the RS7 Performance model (605 hp). Standard RS7 received minor updates to infotainment and exterior styling. | The Performance model is the one to target for maximum resale value and desirability. |
-| 2017 | Sportback | $111,650 | No major changes for the standard RS7. Performance model continued. | Solid choice, but higher entry price than earlier years. |
+| 2017 | Sportback | $110,700 | No major changes for the standard RS7. Performance model continued. | Solid choice, but higher entry price than earlier years. |
 | 2018 | Sportback | $113,900 | Final year for Gen 1. No significant changes. | Most refined, but steepest initial buy-in. Best for long-term holds if bought right. |
 
 ## Trims & Special Editions
@@ -87,14 +87,9 @@ Always get a comprehensive Pre-Purchase Inspection (PPI) from a qualified indepe
 |---|---|---|---|
 | 14V-082 | Safety Recall | 2014-2015 | Occupant Detection System (ODS) may not detect a child seat, disabling the passenger airbag. |
 | 14V-273 | Safety Recall | 2014-2015 | Fuel pump flange may crack, causing a fuel leak. |
-| 16V-011 | Safety Recall | 2016 | Airbag control unit may have a software error, preventing airbag deployment. |
-| 16V-660 | Safety Recall | 2016 | Rear wheel arch liners may detach. |
-| 16V-702 | Safety Recall | 2016 | Incorrectly installed brake caliper bolts. |
-| 17V-002 | Safety Recall | 2017 | Airbag control unit may have a software error, preventing airbag deployment. |
-| 17V-003 | Safety Recall | 2017 | Rear wheel arch liners may detach. |
-| 17V-004 | Safety Recall | 2017 | Incorrectly installed brake caliper bolts. |
-| 18V-001 | Safety Recall | 2018 | Airbag control unit may have a software error, preventing airbag deployment. |
-| 18V-002 | Safety Recall | 2018 | Rear wheel arch liners may detach. |
+| 18V-096 | Safety Recall | 2016-2018 | Engine oil strainer blockage may lead to engine damage. |
+| 18V-096 | Safety Recall | 2016-2018 | Airbag control unit software error, rear wheel arch liners detachment, and incorrectly installed brake caliper bolts (supersedes 16V-011, 16V-660, 16V-702, 17V-002, 17V-003, 17V-004, 18V-001, 18V-002). |
+
 
 ## Market Pricing & Forecast
 
@@ -112,5 +107,6 @@ The Audi RS7 Gen 1 is a strong hack candidate due to its massive initial depreci
 * Options to look for: B&O Sound, Dynamic Package, Carbon Optic Package
 * Preferred colors: Nardo Gray, Daytona Gray, Sepang Blue
 * PPI focus: Turbocharger health (oil screens), PCV valve, air suspension leaks
-* Known recalls: Airbag control unit (16V-011, 17V-002, 18V-001), Fuel pump flange (14V-273)
+
+* Known recalls: 18V-096 (Engine Oil Strainer, Airbag Control Unit, Rear Wheel Arch Liners, Brake Caliper Bolts), 14V-082 (Occupant Detection System), 14V-273 (Fuel pump flange)
 * Market forecast: Stabilizing for early models, slight continued depreciation for late models.

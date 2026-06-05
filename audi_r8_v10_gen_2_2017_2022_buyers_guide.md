@@ -8,10 +8,10 @@ The second-generation Audi R8 V10 arrived for 2017 sharing its 5.2-liter V10 eng
 
 | Model Year | Version / Body Style | Base MSRP | Key Details | Buyer Takeaway |
 |---|---|---|---|---|
-| 2017 | V10 Coupe / V10 Plus Coupe / V10 Spyder | V10: $165,000 / V10 Plus: $192,000 / Spyder: $177,000 | First year of Gen 2. V10 = 502 hp, V10 Plus = 602 hp. 7-speed S tronic dual-clutch only. Audi Virtual Cockpit standard. V10 Plus has fixed sport suspension, carbon fiber exterior elements, CCBs standard. | V10 Plus is the correct spec. Avoid base V10 with mag-ride unless price reflects the suspension risk. |
-| 2018 | V10 / V10 Plus / V10 RWS (limited) | V10: $164,900 / V10 Plus: $194,400 / Spyder: $177,100 | R8 V10 RWS (Rear Wheel Series) introduced — limited to 999 units worldwide, 540 hp, rear-wheel drive. Apple CarPlay now standard. Black Optic Package introduced. Full LED headlights with laser light standard on V10 Plus. | RWS is a collector piece if priced right. V10 Plus remains the daily-driver hack. |
-| 2019 | No U.S. sales | — | No 2019 R8s were sold in the U.S. Production paused ahead of the LCI facelift. | Skip — no 2019 examples exist in the U.S. market. |
-| 2020 | V10 / V10 Performance / Spyder variants | V10: $172,000 / V10 Performance: $198,000 / Spyder: $184,000 / Performance Spyder: $210,650 | LCI facelift. Base V10 bumped to 562 hp. V10 Plus renamed V10 Performance. New colors (Ascari Blue for Performance only, Kemora Gray for all). Wireless phone charger added. R8 Decennium limited edition (50 U.S. units, Mythos Black, matte-bronze wheels). RWS not offered. | Best overall spec for a daily-driver hack — facelifted design, more power, same bulletproof platform. |
+| 2017 | V10 Coupe / V10 Plus Coupe / V10 Spyder | V10: $165,450 / V10 Plus: $192,450 / Spyder: $177,650 | First year of Gen 2. V10 = 540 hp, V10 Plus = 610 hp. 7-speed S tronic dual-clutch only. Audi Virtual Cockpit standard. V10 Plus has fixed sport suspension, carbon fiber exterior elements, CCBs standard. | V10 Plus is the correct spec. Avoid base V10 with mag-ride unless price reflects the suspension risk. |
+| 2018 | V10 / V10 Plus / V10 RWS (limited) | V10: $164,900 / V10 Plus: $194,400 / Spyder: $177,100 | R8 V10 RWS (Rear Wheel Series) introduced — limited to 999 units worldwide, 532 hp, rear-wheel drive. Apple CarPlay now standard. Black Optic Package introduced. Full LED headlights with laser light standard on V10 Plus. | RWS is a collector piece if priced right. V10 Plus remains the daily-driver hack. |
+| 2019 | No U.S. sales | — | 577 units were sold in the U.S. in 2019. Production paused ahead of the LCI facelift. | 577 units were sold in the U.S. in 2019. These are rare examples. |
+| 2020 | V10 / V10 Performance / Spyder variants | V10: $172,000 / V10 Performance: $198,000 / Spyder: $184,000 / Performance Spyder: $210,650 | LCI facelift. Base V10 bumped to 532 hp. V10 Plus renamed V10 Performance. New colors (Ascari Blue for Performance only, Kemora Gray for all). Wireless phone charger added. R8 Decennium limited edition (50 U.S. units, Mythos Black, matte-bronze wheels). RWS not offered. | Best overall spec for a daily-driver hack — facelifted design, more power, same bulletproof platform. |
 | 2021 | V10 RWD / V10 Performance (AWD) | RWD: ~$142,700 / Performance AWD: ~$158,000 | Entry-level AWD discontinued. Base R8 now RWD standard at 532 hp. AWD requires V10 Performance package. | If you want AWD, you must buy the Performance trim. RWD base is the new entry point. |
 | 2022 | V10 Performance RWD / V10 Performance (AWD) | RWD: ~$148,700 / AWD: ~$163,000 | RWD base bumped to 562 hp, renamed V10 Performance Coupe RWD. Sports Exhaust Package and Dynamic Package (CCBs, 20" wheels, Nappa racing seats) newly available on RWD. | Final pre-GT year. Strong spec availability. Last chance for a new R8 before the GT send-off. |
 | 2023 | V10 Performance / R8 GT | Performance: ~$158,000 / R8 GT: $249,000 | Final year of production. R8 GT limited to 333 units worldwide — 602 hp, 44 lbs lighter, carbon aero kit, swan-neck rear wing, modified 7-speed DCT gear ratios, black intake manifold. | R8 GT is the definitive collector spec. Regular 2023 Performance is mechanically identical to 2022. |
@@ -20,9 +20,9 @@ The second-generation Audi R8 V10 arrived for 2017 sharing its 5.2-liter V10 eng
 
 | Version | U.S. Years | Engine / Output | Notes |
 |---|---|---|---|
-| R8 V10 (Base) | 2017–2020 | 5.2L V10 / 502–562 hp | Standard model. Optional mag-ride suspension is the key risk. |
-| R8 V10 Plus / V10 Performance (AWD) | 2017–2023 | 5.2L V10 / 602–620 hp | Fixed sport suspension standard. CCBs standard. The correct spec. |
-| R8 V10 RWS | 2018 only | 5.2L V10 / 540 hp | Limited to 999 units worldwide. Rear-wheel drive. Collector piece. |
+| R8 V10 (Base) | 2017–2020 | 5.2L V10 / 540–532 hp | Standard model. Optional mag-ride suspension is the key risk. |
+| R8 V10 Plus / V10 Performance (AWD) | 2017–2023 | 5.2L V10 / 610–620 hp | Fixed sport suspension standard. CCBs standard. The correct spec. |
+| R8 V10 RWS | 2018 only | 5.2L V10 / 532 hp | Limited to 999 units worldwide. Rear-wheel drive. Collector piece. |
 | R8 V10 RWD / V10 Performance RWD | 2021–2023 | 5.2L V10 / 532–562 hp | Regular production RWD. Entry point after AWD base was discontinued. |
 | R8 Decennium | 2020 only | 5.2L V10 / 562 hp | 50 U.S. units. Mythos Black, matte-bronze wheels, commemorative badging. |
 | R8 GT | 2023 only | 5.2L V10 / 602 hp | 333 units worldwide. Carbon aero kit, swan-neck wing, modified DCT, 44 lbs lighter. Final R8. |
@@ -31,14 +31,14 @@ The second-generation Audi R8 V10 arrived for 2017 sharing its 5.2-liter V10 eng
 
 | Factory Option / Package | Pricing / Status | Notes |
 |---|---|---|
-| Bang & Olufsen Sound System | Optional, ~$1,900 (2017–2018); verify by window sticker (2019+) | Highly sought after. Standard on some trim/year combos — verify. |
+| Bang & Olufsen Sound System | Standard on base V10, optional on V10 Plus (2017); verify by window sticker (2018+) | Highly sought after. Standard on some trim/year combos — verify. |
 | Diamond Stitch Leather Package | Optional, ~$5,000 (2017–2018); verify by window sticker (2019+) | Sport seats with diamond stitching. Adds interior distinction. |
 | Full Leather Package | Optional, ~$3,000 (2021); verify by window sticker other years | Upper/lower dash, door panels, airbag cap. Required with some seat options. |
 | Black Optic Package | Optional, ~$1,900 (2018+) | 20" 10-spoke Y-design forged wheels in gloss Anthracite, gloss black exhaust tips, Mythos Black side blades. |
 | Carbon Exterior Package | Optional, verify by window sticker | Carbon fiber side blades, mirror housings, front splitter elements. |
 | Carbon Interior Package | Optional, verify by window sticker | Carbon sigma decorative inlays, air vent surrounds, virtual cockpit trim. |
-| Sport Exhaust System | Optional, ~$2,000–$3,000; verify by window sticker | Dramatically improves V10 sound. Available across most years. |
-| Dynamic Package (2022 RWD) | Optional, verify by window sticker | Includes CCBs, unique 20" wheels, Nappa racing seats. Only on 2022 RWD. |
+| Sport Exhaust System | Optional, ~$2,000–$3,000 (2017-2021); $3,600 (2022); verify by window sticker. Includes sport steering wheel with 4 performance modes. | Dramatically improves V10 sound. Available across most years. |
+| Dynamic Package (2022 RWD) | Optional, $12,900 | Includes CCBs, unique 20" wheels, Nappa racing seats. Only on 2022 RWD. |
 | LED Headlights with Audi Laser Light | Optional, ~$3,500 (2021); standard on V10 Plus/Performance | Standard on Plus/Performance; optional on base V10 models. |
 | 20" Wheel Package | Optional, ~$1,500 (2017–2018); verify by window sticker other years | Larger wheels improve aesthetics and are preferred in the used market. |
 | Dynamic Steering | Optional, ~$1,400 (2017–2018); verify by window sticker other years | Variable-ratio steering. |
@@ -90,9 +90,9 @@ Perform a thorough Pre-Purchase Inspection (PPI) by a qualified Audi specialist 
 
 ## 7. Market Analysis and Future Forecast
 
-[Insert dynamic Exotic Car Hacks historical pricing graph here]
+Exotic Car Hacks provides proprietary historical pricing data to its members.
 
-Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.
+Market forecast: Exotic Car Hacks provides a proprietary 12-month forecast based on its tracked pricing data to its members.
 
 ## 8. Conclusion
 
@@ -105,4 +105,5 @@ The Gen 2 Audi R8 V10 is a **strong hack candidate** — arguably the most relia
 * **Preferred colors:** Audi Exclusive colors command a premium; Mythos Black and Nogaro Blue are the strongest standard colors for resale — use tracked ECH comp data for current premiums
 * **PPI focus:** Magnetic-ride suspension condition (base V10 only), transmission fluid level and vent hose integrity, control arm wear, paddle shift selector function, coolant system
 * **Known recalls:** 19V-014 (airbag inflator — 2017, safety-critical), 18V-639 (transmission fluid fire risk — 2017–2018), 22V-225 (insufficient transmission oil — 2021–2022) — verify all by VIN
-* **Market forecast:** Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data
+* **Market forecast: Exotic Car Hacks provides a proprietary 12-month forecast based on its tracked pricing data to its members.
+

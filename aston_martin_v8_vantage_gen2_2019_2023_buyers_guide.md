@@ -9,9 +9,9 @@ The second-generation Aston Martin V8 Vantage (2019–2023) represents a massive
 | Model Year | Version / Body Style | Base MSRP | Key Details | Buyer Takeaway |
 |---|---|---|---|---|
 | 2019 | Coupe | $153,080 | All-new vehicle launch. | The cheapest entry point, but lacks CarPlay and standard features added in 2020. |
-| 2020 | Coupe | $152,000 | Quad exhaust becomes standard. Late 2020 models get two bonnet vents. Tech features (360 cameras, blind spot, keyless entry) become standard. | The sweet spot. The 2020 standard equipment upgrades make it a much better daily driver. |
+| 2020 | Coupe | $156,081 | Quad exhaust becomes standard. Late 2020 models get two bonnet vents. Tech features (360 cameras, blind spot, keyless entry) become standard. | The sweet spot. The 2020 standard equipment upgrades make it a much better daily driver. |
 | 2021 | Coupe / Roadster | $142,086 (Coupe) | Roadster (convertible) introduced. Minor trim and badging changes. | Base MSRP dropped, making used 2021s excellent value. |
-| 2022 | Coupe / Roadster | $143,900 (Coupe) | Carryover year. | Buy based on spec and condition. |
+| 2022 | Coupe / Roadster | $145,172 (Coupe) | Carryover year. | Buy based on spec and condition. |
 | 2023 | Coupe / Roadster | $146,400 (Coupe) / $157,400 (Roadster) | Carryover year. | Still depreciating; older models are better hacks. |
 
 ## 3. Trim Levels / Special Editions

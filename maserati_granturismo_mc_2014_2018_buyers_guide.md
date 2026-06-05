@@ -7,19 +7,24 @@ The Maserati GranTurismo MC, produced from 2014 to 2018, represents the pinnacle
 
 | Model Year | Version/Body Style | Base MSRP | Key Details | Buyer Takeaway |
 |---|---|---|---|---|
-| 2014 | GranTurismo MC Coupe/Convertible | $153,400 | Updated infotainment system, improved connectivity, enhanced safety features (parking sensors, rear-view camera). | Early models offer good value, but infotainment is still dated by modern standards. |
-| 2015 | GranTurismo MC Coupe/Convertible | $150,570 | New wheel designs, expanded exterior color palette, custom paint options via Fuoriserie program, improved cabin insulation, redesigned seats, new interior trim options. | More customization options and interior refinements make this year slightly more desirable. |
-| 2016 | GranTurismo MC Coupe/Convertible | $150,570 | Refined ride quality and handling (tweaked suspension system), upgraded interior material quality (more extensive use of premium leather, new stitching patterns). | Subtle but important improvements to driving dynamics and interior luxury. |
-| 2017 | GranTurismo MC Coupe/Convertible | $152,370 | Introduction of several limited-edition variants: GranTurismo MC Centennial Edition, GranTurismo MC Stradale, GranTurismo MC Sportline. | The year for special editions; look for these for enhanced collectibility and unique features. |
-| 2018 | GranTurismo MC Coupe/Convertible | $153,720 | Significant facelift (redesigned front and rear bumpers, refreshed grille), upgraded infotainment system (8.4-inch touchscreen, Apple CarPlay, Android Auto), increased engine output to 454 hp. | The most refined and technologically advanced of the generation, with modern infotainment and a power bump. |
+| 2014 | GranTurismo MC Coupe | $143,400 | | |
+| 2014 | GranTurismo MC Convertible | $153,400 | | |
+| 2015 | GranTurismo MC Coupe | $150,570 | New wheel designs, expanded exterior color palette, custom paint options via Fuoriserie program, improved cabin insulation, redesigned seats, new interior trim options. | More customization options and interior refinements make this year slightly more desirable. |
+| 2015 | GranTurismo MC Convertible | $161,070 | | |
+| 2016 | GranTurismo MC Coupe | $150,570 | Refined ride quality and handling (tweaked suspension system), upgraded interior material quality (more extensive use of premium leather, new stitching patterns). | Subtle but important improvements to driving dynamics and interior luxury. |
+| 2016 | GranTurismo MC Convertible | $161,070 | | |
+| 2017 | GranTurismo MC Coupe | $150,570 | Introduction of the limited-edition GranTurismo MC Centennial Edition and the availability of MC Stradale and MC Sportline optional packages. | The year for special editions and packages; look for these for enhanced collectibility and unique features. |
+| 2017 | GranTurismo MC Convertible | $161,070 | | |
+| 2018 | GranTurismo MC Coupe | $150,570 | Significant facelift (redesigned front and rear bumpers, refreshed grille), upgraded infotainment system (8.4-inch touchscreen, Apple CarPlay, Android Auto), 454 hp / 384 lb-ft torque. | The most refined and technologically advanced of the generation, with modern infotainment and a power bump. |
+| 2018 | GranTurismo MC Convertible | $161,220 | | |
 
 ## Trims and Special Editions
 
 | Version | U.S. Years | Engine/Output | Notes |
 |---|---|---|---|
-| GranTurismo MC Centennial Edition | 2017 | 4.7L V8 / 454 hp | Unique exterior paint, 20-inch alloy wheels, red anodized brake calipers, carbon fiber exterior accents, exclusive Poltrona Frau leather and Alcantara upholstery, special edition plaque. |
-| GranTurismo MC Stradale | 2017 | 4.7L V8 / 454 hp | Aerodynamic improvements, lightweight materials, carbon fiber hood, racing seats, track-focused interior. |
-| GranTurismo MC Sportline | 2017 | 4.7L V8 / 454 hp | Sportier aesthetic, unique Sportline badging, blacked-out exterior trim, aggressive front grille, upgraded exhaust system, carbon fiber accents, bespoke stitching. |
+| GranTurismo MC Centennial Edition | 2017 (U.S. Market Launch) | 4.7L V8 / 454 hp | A limited-edition model for the U.S. market, featuring unique exterior paint, 20-inch alloy wheels, red anodized brake calipers, carbon fiber exterior accents, exclusive Poltrona Frau leather and Alcantara upholstery, and a special edition plaque. |
+| GranTurismo MC Stradale Package | 2017 | 4.7L V8 / 454 hp | Optional package for the U.S. market, featuring aerodynamic improvements, lightweight materials, carbon fiber hood, racing seats, and track-focused interior elements. Not a distinct trim level. |
+| GranTurismo MC Sportline Package | 2017 | 4.7L V8 / 454 hp | Optional package for the U.S. market, offering a sportier aesthetic, unique Sportline badging, blacked-out exterior trim, aggressive front grille, upgraded exhaust system, carbon fiber accents, and bespoke stitching. Not a distinct trim level. |
 
 ## Factory Options
 
@@ -86,18 +91,17 @@ The Maserati GranTurismo MC, produced from 2014 to 2018, represents the pinnacle
 
 ## Known Problems and NHTSA Recalls
 
-Always obtain a Pre-Purchase Inspection (PPI) from a qualified Maserati specialist before purchase.
 
 ### Known Problems
 
 | Issue | What To Know/Check |
 |---|---|
-| Electrical glitches | Can manifest in various forms; check all electronics, lights, and sensors. |
-| Variator issues | Listen for unusual engine noises, especially at startup. More common in earlier models, but still reported. |
-| Transmission issues | Check for smooth shifts, no hesitation or harshness. |
-| Engine oil pressure issues | Monitor oil pressure gauge, check for leaks, and ensure regular oil changes. |
-| Radio hard drive rebooting in hot weather | Test infotainment system thoroughly, especially in warm conditions. |
-| Oil changes | Budget for ~$600 per oil change; ensure service records are up to date. |
+| Electrical System Issues | Owners have reported various electrical issues, including malfunctioning window regulators, faulty parking sensors, and intermittent infotainment system glitches. Inspect all electrical components, test window operation, and verify parking sensor functionality. |
+| Camshaft Variator Issues | The camshaft variators, particularly in earlier 4.7L V8 engines (pre-2015), can develop issues leading to a characteristic rattling noise, especially on cold startup. This indicates wear and potential failure, which can be costly to repair. Listen for any metallic rattling from the engine bay during startup and warm-up. |
+| MC Shift Transmission (Automated Manual) Wear | The MC Shift automated manual transmission (AMT) can experience wear on the clutch and actuators, leading to harsh shifts, hesitation, or failure to engage gears. This is more prevalent in cars driven aggressively or without proper maintenance. During a test drive, pay close attention to shift quality, looking for smoothness and responsiveness. Check for any warning lights related to the transmission. |
+| Engine Oil Pressure Sensor Failure | The engine oil pressure sensor can fail, leading to inaccurate readings on the oil pressure gauge or triggering a 'low oil pressure' warning light. While not directly an engine issue, it can mask actual oil pressure problems. Verify sensor functionality and check for any active diagnostic trouble codes (DTCs). |
+| Infotainment System Hard Drive Failure | The infotainment system's hard drive can be prone to failure, particularly in hot climates, leading to system reboots, freezing, or loss of functionality. Test all infotainment features, including navigation, radio, and media playback, and observe its behavior during extended use. |
+| Routine Maintenance Costs | Maserati ownership entails higher routine maintenance costs compared to mainstream vehicles. A typical oil change can range from $400-$600, and major services can be significantly more. Comprehensive service records are crucial to ensure the vehicle has been properly maintained. |
 
 ### NHTSA Recalls
 
@@ -122,3 +126,4 @@ The Maserati GranTurismo MC 2014-2018 is a **medium hack candidate**. Its main r
 *   PPI focus: Engine (variator, oil pressure), Transmission, Electrical System, Infotainment.
 *   Known recalls: 19V-461 (Airbag ECU)
 *   Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.
+

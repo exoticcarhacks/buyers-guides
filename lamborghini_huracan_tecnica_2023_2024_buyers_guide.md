@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-The Huracán Tecnica occupies the sweet spot in the final Huracán lineup — more aggressive than the EVO RWD it replaced, but more livable than the track-focused STO. It uses the same naturally aspirated 5.2-liter V10 as the STO (631 hp, 417 lb-ft), but in rear-wheel-drive configuration with a recalibrated chassis tuned for road use. The Tecnica is the last new Lamborghini you will ever be able to buy with a pure, unassisted naturally aspirated V10 — the next-generation Huracán successor will be a hybrid. That alone makes this a future collectible. The hack logic is straightforward: buy a lightly used 2023 or 2024 Tecnica before the market fully prices in the end of the V10 era.
+The Huracán Tecnica occupies the sweet spot in the final Huracán lineup — more aggressive than the EVO RWD it replaced, but more livable than the track-focused STO. It uses the same naturally aspirated 5.2-liter V10 as the STO (631 hp, 417 lb-ft of torque based on official Lamborghini specifications), but in rear-wheel-drive configuration with a recalibrated chassis tuned for road use. The Tecnica is the last new Lamborghini you will ever be able to buy with a pure, unassisted naturally aspirated V10 — the next-generation Huracán successor will be a hybrid. That alone makes this a future collectible. The hack logic is straightforward: buy a lightly used 2023 or 2024 Tecnica before the market fully prices in the end of the V10 era.
 
 ## 2. Changes by Model Year
 
@@ -49,11 +49,6 @@ The Huracan platform has proven to be one of the more reliable supercars in its 
 | Carbon Ceramic Brake (CCB) Rotor Cracking | Medium | CCB rotors can crack if subjected to thermal shock (e.g., driving through water when hot). Inspect all four rotors carefully. Replacement cost: $15,000–$20,000 per axle. |
 
 **NHTSA Recalls:**
-
-| Recall ID | Year(s) | Issue |
-|---|---|---|
-| 24V701000 | 2024 | Headlight aim — headlight beam pattern may direct light into oncoming drivers sight line. |
-| 23V826000 | 2023 | Headlight adjustment — same headlight beam alignment issue on launch-year cars. |
 
 Always perform a VIN-specific NHTSA recall check before purchase.
 

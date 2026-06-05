@@ -4,14 +4,14 @@ The Audi RS Q8 2020-2025 is Audi's high-performance luxury SUV, blending superca
 
 ## Model Year Overview
 
-| Model Year | Version/Body Style | Base MSRP | Key Details | Buyer Takeaway |
-|---|---|---|---|---|
-| 2020 | SUV | $113,000 | First full year of production for the RSQ8. Standard features include adaptive air suspension, 22-inch wheels, heated and ventilated front seats, and a 17-speaker Bang & Olufsen stereo system. | Early depreciation offers value. |
-| 2021 | SUV | $114,500 | No notable updates. | Early depreciation offers value. |
-| 2022 | SUV | $119,900 | Additional standard driver-assistance technologies (adaptive cruise control and lane-keeping assist). Optional Executive package enhanced with traffic sign recognition and Intersection Assist. New RS-Design package introduced focusing on interior aesthetics (carpeted floor mats with RS logo, seatbelts with stripe design, Alcantara material on center console, steering wheel, and shift knob). | Refinements improve experience. |
-| 2023 | SUV | $122,800 | Electrically powered sunshades for rear windows now standard. Increased use of Nappa leather in the interior. Optional Executive package augmented to include a park-assist system. | Refinements improve experience. |
-| 2024 | SUV | $125,800 | Remote start via Audi Connect app added. Adaptive cruise control system refined to include visual alerts for close proximity to other vehicles, notifications from intersection assist, and updates on traffic light status. Carbon ceramic brakes removed from optional features. RSQ8 expected to receive exclusive styling refresh in 2025. | Refinements improve experience. |
-| 2025 | SUV | $136,200 | Expected to receive exclusive styling refresh. | Expected styling refresh. |
+| Model Year | Version/Body Style | Base MSRP (USD) | Horsepower (SAE Net) | Key Details | Buyer Takeaway |
+|---|---|---|---|---|---|
+| 2020 | SUV | $113,995 | 591 hp | First full year of production for the RSQ8. Standard features include adaptive air suspension, 22-inch wheels, heated and ventilated front seats, and a 17-speaker Bang & Olufsen stereo system. | Early depreciation offers value. |
+| 2021 | SUV | $114,500 | 591 hp | No notable updates. | Early depreciation offers value. |
+| 2022 | SUV | $119,900 | 591 hp | Additional standard driver-assistance technologies (adaptive cruise control and lane-keeping assist). Optional Executive package enhanced with traffic sign recognition and Intersection Assist. New RS-Design package introduced focusing on interior aesthetics (carpeted floor mats with RS logo, seatbelts with stripe design, Alcantara material on center console, steering wheel, and shift knob). | Refinements improve experience. |
+| 2023 | SUV | $125,800 | 591 hp | Electrically powered sunshades for rear windows now standard. Increased use of Nappa leather in the interior. Optional Executive package augmented to include a park-assist system. | Refinements improve experience. |
+| 2024 | SUV | $125,800 | 591 hp | Remote start via Audi Connect app added. Adaptive cruise control system refined to include visual alerts for close proximity to other vehicles, notifications from intersection assist, and updates on traffic light status. Carbon ceramic brakes removed from optional features. | Refinements improve experience. |
+| 2025 | SUV (Performance) | $136,200 | 631 hp | Expected to receive exclusive styling refresh. All U.S. models are the Performance version with increased horsepower. | Expected styling refresh and enhanced performance. |
 
 ## Factory Options
 
@@ -45,42 +45,37 @@ PPI Reminder: Always get a Pre-Purchase Inspection from a qualified independent 
 
 | Issue | What To Know/Check |
 |---|---|
-| Trunk motor failure | Trunk doesn’t open and cost (diagnosis and repair varies) |
-| EVAP pump failure | Persistent CEL and cost (diagnosis and repair varies) |
-| Flagged shortcuts don’t “stick” | Software issue and cost (diagnosis and repair varies) |
-| Rear camera recall | Recall issued and cost (covered by recall) |
-| Alternator failure | Alternator failed while driving, causing complete failure of everything, stranded, towed and cost (diagnosis and repair varies) |
-| Brake wear | 6k on brakes and cost $6,000 |
-| Central locking malfunction | Rear passenger door doesn’t unlock, sets off “central locking malfunction” error and cost (diagnosis and repair varies) |
-| Excessive Coolant Temp warning | “vacuum change over valve” faulty, replaced (and replaced coolant thermostat too) and cost (diagnosis and repair varies) |
-| Headlight washer leak | Replaced pipe and cost (diagnosis and repair varies) |
-| Electrical System Issues | Alternator/generator, 48-volt unit issues and cost (diagnosis and repair varies) |
-| Engine Issues | Coolant leaks, vacuum change over valve issues and cost (diagnosis and repair varies) |
-| Transmission Issues | Slipping, rough shifting, grinding or jumping during acceleration, shaking and cost (diagnosis and repair varies) |
-| Adaptive Air Suspension Failure Under SUV Weight | Vehicle sagging overnight, suspension malfunction warning, compressor overheating, uneven ride height, nose dive under braking, rough ride quality and cost $1,200 - $4,500 |
-| Adaptive Air Suspension Compressor Failure | Vehicle sitting low, suspension warning light, compressor running constantly, uneven ride height and cost $1,500 - $3,500 |
-| Adaptive Air Suspension Air Spring Leaks | Vehicle sagging on one corner overnight, suspension warning light, compressor running frequently, uneven ride height and cost $800 - $2,500 |
-| 4.0T Turbo Coolant System in SUV Application | Critical issue and cost (diagnosis and repair varies) |
-| Premature Brake Wear on Heavy Performance SUV | No specific cost mentioned and cost (diagnosis and repair varies) |
+| Trunk motor failure | The power trunk motor may fail, preventing the trunk from opening or closing properly. This issue has been reported across various model years. Inspect for slow operation or complete failure. |
+| EVAP pump failure | A faulty EVAP pump can trigger a persistent Check Engine Light (CEL). This can occur in various model years. Inspect for diagnostic trouble codes related to the evaporative emissions system. |
+| Flagged shortcuts don’t “stick” | This is a software issue affecting the infotainment system where user-defined shortcuts do not save. This is typically a software glitch that may require a dealer update. |
+| Alternator failure | The 48-volt mild-hybrid system's alternator/starter generator can fail, leading to a complete loss of electrical power and vehicle operation. This is a critical issue that can strand the vehicle. Inspect for warning lights related to the electrical system or battery, and ensure the 48-volt system is functioning correctly. |
+| Premature Brake Wear | Due to the RS Q8's significant weight and high-performance capabilities, brake components (pads and rotors) can experience accelerated wear, especially with aggressive driving. This can lead to costly replacements, with full brake jobs potentially costing $6,000 or more. Inspect brake pad thickness and rotor condition during PPI. |
+| Central locking malfunction | The rear passenger door may not unlock, triggering a 
+“central locking malfunction” error message. This issue has been reported across various model years. Inspect all door locks for proper function. |
+| Excessive Coolant Temp warning | A faulty “vacuum change over valve” or coolant thermostat can lead to an “Excessive Coolant Temp” warning. This issue has been reported in various model years. Inspect for coolant leaks, proper thermostat operation, and diagnostic codes related to the cooling system. |
+| Headlight washer leak | Leaks in the headlight washer system, often from a faulty pipe, can occur. Inspect for fluid leaks around the headlight area. |
+| 4.0T Turbo Coolant System Issues | The 4.0T engine's turbocharger coolant system can experience issues, potentially leading to leaks or overheating. This is a critical issue that requires prompt attention. Inspect for coolant leaks around the turbochargers and monitor coolant levels. |
+| Adaptive Air Suspension Failure | The complex adaptive air suspension system is prone to various failures, including: 
+    * **Vehicle sagging overnight:** Indicates air spring leaks. Inspect for uneven ride height after the vehicle has been parked for an extended period. 
+    * **Suspension malfunction warning:** Can be caused by compressor overheating or general system failure. 
+    * **Uneven ride height:** May indicate issues with air springs, compressor, or level sensors. 
+    * **Nose dive under braking or rough ride quality:** Can be symptoms of failing suspension components. 
+    Repairs can be costly, ranging from $800 for air spring leaks to $4,500 for compressor replacement. |
 
 ### NHTSA Recalls
 
-| NHTSA Recall | Campaign | Affected Years | Issue |
-|---|---|---|---|
-| 20V820000 | N/A | 2020 | Rearview Camera Image May Not Display/FMVSS 111 |
-| 21V295000 | N/A | 2021 | Instrument Panel Display Failure |
-| 22V742000 | N/A | 2021 | Rearview Display Inoperative/FMVSS 111 |
-| 22V034000 | N/A | 2021 | Rear Axle May Be Misaligned |
-| 23V868000 | N/A | 2023-2024 | Air bags: side/window - improperly mounted side air bag |
-| 24V251000 | N/A | 2023-2024 | Air bags: sensor: occupant classification: front passenger - electrical connection in the front passenger system (ODS) control module may loosen and deactivate the front passenger air bag |
-| 25V900000 | N/A | 2019-2026 | Back over prevention: sensing system: camera - rearview image that does not display |
-| 21V820000 | N/A | 2021-2022 | Back over prevention: sensing system: camera - A software error may prevent the rear-view image from initially displaying when the vehicle begins to reverse. |
-| 22V742000 | N/A | 2021-2022 | Back over prevention: display function - Due to a software issue, a blank or black screen may be displayed instead of the rearview camera image when the vehicle is placed in reverse gear. |
-| 22V034000 | N/A | 2021-2022 | Back over prevention: inoperative rearview camera display - The infotainment main unit may become damaged internally when the vehicle is shut off, resulting in an inoperative rearview camera display the next time the vehicle is started. |
+| NHTSA Recall Campaign Number | Affected Years | Issue |
+|---|---|---|
+| 20V820000 | 2020 | Rearview Camera Image May Not Display/FMVSS 111. A software error may prevent the rearview image from initially displaying when the vehicle begins to reverse. |
+| 21V295000 | 2021 | Instrument Panel Display Failure. A software error may cause the instrument panel display to fail. |
+| 22V742000 | 2021 | Rearview Display Inoperative/FMVSS 111. Due to a software issue, a blank or black screen may be displayed instead of the rearview camera image when the vehicle is placed in reverse gear. |
+| 22V034000 | 2021 | Rear Axle May Be Misaligned. A broken lock nut may misalign the rear axle, causing a loss of control and increasing the risk of a crash. |
+| 23V868000 | 2023-2024 | Air bags: side/window - improperly mounted side air bag. The driver's seat side air bag may have been improperly mounted to the seatback. |
+| 24V251000 | 2023-2024 | Air bags: sensor: occupant classification: front passenger - electrical connection in the front passenger system (ODS) control module may loosen and deactivate the front passenger air bag. |
+| 25V900000 | 2019-2026 | Back over prevention: sensing system: camera - rearview image that does not display. Volkswagen Group of America, Inc. (Audi) is recalling certain 2019-2026 vehicles. |
 
 ### Platform Defects
-- Faulty door locks: Class action lawsuit filed in California alleging faulty door locks in certain 2019-2026 Audi vehicles, including the RS Q8. The electronic locking mechanisms and software intermittently fail, locking people inside the cars. Audi has allegedly been aware of the problem since 2019 and has issued eight technical service bulletins (TSBs) to dealers about the issue.
-
+- **Faulty door locks:** A class action lawsuit has been filed in California alleging faulty door locks in certain 2019-2026 Audi vehicles, including the RS Q8. The electronic locking mechanisms and software intermittently fail, potentially locking people inside the cars. Audi has allegedly been aware of the problem since 2019 and has issued eight technical service bulletins (TSBs) to dealers about the issue.
 
 ## Market Data
 
@@ -88,13 +83,12 @@ PPI Reminder: Always get a Pre-Purchase Inspection from a qualified independent 
 
 Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.
 
-
 ## Conclusion
 The Audi RS Q8 is a **strong hack candidate** for those seeking a high-performance luxury SUV at a significant discount. Its main risk lies in the potential for expensive repairs, particularly with the complex air suspension and advanced electronics. Best ownership logic involves thorough pre-purchase inspection and budgeting for potential maintenance, leveraging early depreciation to enjoy a premium vehicle experience.
 
 ## Car Hacking Shortcuts
 * Years to buy: 2020-2025
 * Options to look for: Driver Assistance Package, Executive Package, Carbon Optic Package, Bang & Olufsen Advanced Sound System
-* PPI focus: Adaptive air suspension, electrical system, engine coolant system, transmission, door locks.
+* PPI focus: Adaptive air suspension, electrical system (48-volt mild-hybrid system), engine coolant system, transmission, door locks.
 * Known recalls: Verify all NHTSA recalls are addressed by VIN.
 * Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.

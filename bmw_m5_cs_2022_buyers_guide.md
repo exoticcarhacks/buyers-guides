@@ -1,3 +1,6 @@
+# REWRITE TASK: bmw_m5_cs_2022_buyers_guide.md
+
+## ORIGINAL GUIDE CONTENT
 # BMW M5 CS 2022 Buyer Guide
 
 ## Introduction
@@ -7,7 +10,7 @@ The 2022 BMW M5 CS stands as the pinnacle of the F90 M5 generation, a limited-pr
 
 | Model Year | Version/Body Style | Base MSRP | Key Details | Buyer Takeaway |
 |---|---|---|---|---|
-| 2022 | M5 CS Sedan | $142,000 | All-new variant; 627 hp, 230 lbs lighter than M5 Competition, four-passenger capacity. Chassis enhancements include stiffer engine mounts, lower ride height, and more negative front camber. Wireless charging deleted due to chip shortages. | This is the only model year for the CS, making it a unique and highly collectible variant. Its performance upgrades and weight reduction make it the most desirable F90 M5. |
+| 2022 | M5 CS Sedan | $142,000 plus $995 destination charge | All-new variant; 627 hp, 230 lbs lighter than M5 Competition, four-passenger capacity. Chassis enhancements include stiffer engine mounts, lower ride height, and more negative front camber. Wireless charging deleted due to chip shortages, a global deletion affecting all 2022 models. | This is the only model year for the CS, making it a unique and highly collectible variant. Its performance upgrades and weight reduction make it the most desirable F90 M5. |
 
 ## Factory Options
 
@@ -22,9 +25,13 @@ The 2022 BMW M5 CS stands as the pinnacle of the F90 M5 generation, a limited-pr
 
 | Priority | Factory Option/Package | Pricing/Status | Why It Matters |
 |---|---|---|---|
-| Must Have | Carbon Ceramic Brakes | Standard | Essential for track performance and a key differentiator of the CS model. High replacement cost, but superior stopping power and reduced unsprung weight. |
+| Must Have | Carbon Ceramic Brakes | Standard Equipment | Essential for track performance and a key differentiator of the CS model. High replacement cost, but superior stopping power and reduced unsprung weight. |
 | Strongly Preferred | Frozen Brands Hatch Grey metallic or Frozen Deep Green metallic paint | No-cost option | These exclusive matte finishes are unique to the CS and enhance its visual appeal and collectibility. |
 | Spec-Dependent | Pirelli P Zero Corsa high-performance tires | Optional, price varies | While excellent for track use, these tires have a shorter lifespan and higher replacement cost. Consider if primary use is track-focused. |
+
+## Powertrain & Performance
+
+The 2022 BMW M5 CS is powered by a 4.4-liter twin-turbo V8 engine, producing 627 horsepower and 553 lb-ft of torque. Power is sent to all four wheels via an 8-speed M Steptronic automatic transmission. This formidable powertrain allows the M5 CS to accelerate from 0-60 mph in just 2.9 seconds and reach a top speed of 190 mph.
 
 ## Known Problems and Recalls
 
@@ -65,3 +72,5 @@ The BMW M5 CS 2022 is a **strong hack candidate** for those seeking a limited-pr
 * PPI focus: Thorough inspection of carbon ceramic brakes, suspension components, and transmission behavior.
 * Known recalls: No model-specific NHTSA recalls found. Verify by VIN before purchase.
 * Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.
+
+

@@ -6,12 +6,12 @@ The Mercedes-Benz SL63 AMG from 2013-2019, part of the R231 generation, represen
 ## Model Year Changes and MSRP
 | Model Year | Version/Body Style | Base MSRP | Key Details | Buyer Takeaway |
 |---|---|---|---|---|
-| 2013 | SL63 AMG Roadster | $145,800 | Introduction of the R231 generation with 5.5L biturbo V8 (M157 engine). | First year of the new generation, strong performance. |
-| 2014 | SL63 AMG Roadster | $146,000 | Minor updates, no significant changes. | Essentially identical to 2013 model. |
-| 2015 | SL63 AMG Roadster | $149,700 | Minor updates, no significant changes. | Minor price increase, no functional changes. |
-| 2016 | SL63 AMG Roadster | $150,700 | Facelift (R231.2), new 9-speed automatic transmission (MCT 9G-Tronic), updated exterior styling, revised interior, and new technology features. Engine output increased to 577 hp. | Significant refresh, improved transmission and power. Highly desirable. |
+| 2013 | SL63 AMG Roadster | $146,695 | Introduction of the R231 generation with 5.5L biturbo V8 (M157 engine). | First year of the new generation, strong performance. |
+| 2014 | SL63 AMG Roadster | $147,700 | Minor updates, no significant changes. | Essentially identical to 2013 model. |
+| 2015 | SL63 AMG Roadster | $148,975 | Minor updates, no significant changes. | Minor price increase, no functional changes. |
+| 2016 | SL63 AMG Roadster | $150,625 | Facelift (R231.2), retained the AMG SPEEDSHIFT MCT 7-speed transmission, updated exterior styling, revised interior, and new technology features. The 577 hp output became standard, replacing the previous standard 530 hp and optional 557 hp. | Significant refresh, standardized higher power output. Highly desirable. |
 | 2017 | SL63 AMG Roadster | $151,350 | Minor updates, no significant changes. | Carries over 2016 improvements. |
-| 2018 | SL63 AMG Roadster | $152,350 | Minor updates, no significant changes. | Continued refinement. |
+| 2018 | SL63 AMG Roadster | $153,845 | Minor updates, no significant changes. | Continued refinement. |
 | 2019 | SL63 AMG Roadster | $154,450 | Final year of the R231 generation for the SL63 AMG. | Last chance for this generation, likely well-equipped. |
 
 ## Factory Options
@@ -69,3 +69,5 @@ The Mercedes SL63 AMG 2013-2019 is a **strong hack candidate**. Its main risk li
 * PPI focus: Active Body Control (ABC) system, retractable hardtop mechanism, electrical system, oil leaks around camshaft sensors.
 * Known recalls: 19V-787, 19V-571, 12V-490, 13V-590
 * Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.
+
+

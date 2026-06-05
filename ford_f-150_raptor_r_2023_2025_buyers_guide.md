@@ -10,7 +10,7 @@ The Raptor R has seen targeted enhancements across its production years, primari
 
 *   **2023 Model Year:** The Raptor R debuted with a robust 5.2-liter supercharged V8 engine, delivering an impressive 700 horsepower. Its base MSRP was $107,350, which included a $1,795 destination and delivery charge.
 *   **2024 Model Year:** This year brought a significant power increase, boosting the supercharged V8's output to 720 horsepower. Alongside this, the 2024 model received cosmetic tweaks, including a refreshed headlight design and wider front tow hooks. The advanced Fox Dual Live Valve Shox, optional on the standard Raptor, remained a standard feature on the Raptor R. The base MSRP for 2024 was $111,550, including a $1,995 destination and delivery fee.
-*   **2025 Model Year:** For its final anticipated model year, the Raptor R maintained its 720 horsepower output. No major changes in trim levels were noted, with the Raptor R continuing its role as the top-tier performance option. Speculation suggests 2025 might be the last year for the Raptor R, potentially making it a future collector's item. The base MSRP for 2025 was cited at $112,725 as of July 31, 2025.
+*   **2025 Model Year:** For the 2025 model year, the Raptor R maintained its 720 horsepower output. No major changes in trim levels were noted, with the Raptor R continuing its role as the top-tier performance option. The 2025 model year pricing has not been officially released by Ford as of June 2024. The stated MSRP is speculative.
 
 ## 3. Trim Levels / Special Editions
 
@@ -38,3 +38,4 @@ Given the Raptor R's nature as a highly specialized, top-tier trim, many feature
 ## 5. Must-Have Factory Options
 
 For the Ford F-150 Raptor R, the concept of
+

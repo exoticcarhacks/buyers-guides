@@ -2,13 +2,13 @@
 
 ## 1. Introduction
 
-The 2022 Acura NSX Type S serves as the swan song for the NC1 generation, limited to just 300 units in the United States. It offers a significant performance upgrade over the standard NSX, pushing output to 600 horsepower via GT3 Evo turbochargers, enhanced cooling, and aggressive aerodynamic revisions. As an Exotic Car Hack, the Type S trades the massive depreciation curve of the standard NSX for extreme exclusivity and collector appeal. While it holds its value far better than the standard car, buyers must still be prepared for the immense complexity of the hybrid powertrain, including the notorious 75,000-mile engine-out service and potential hybrid battery degradation.
+The 2022 Acura NSX Type S serves as the swan song for the NC1 generation, limited to just 300 units in the United States. It offers a significant performance upgrade over the standard NSX, pushing output to 600 horsepower via turbochargers shared with the NSX GT3 Evo race car, enhanced cooling, and aggressive aerodynamic revisions. With a 0-60 mph time of 2.9 seconds and a top speed of 191 mph, power is delivered through a retuned 9-speed dual-clutch transmission. As an Exotic Car Hack, the Type S trades the massive depreciation curve of the standard NSX for extreme exclusivity and collector appeal. While it holds its value far better than the standard car, buyers must still be prepared for the immense complexity of the hybrid powertrain, including the notorious 75,000-mile engine-out service and potential hybrid battery degradation.
 
 ## 2. Changes by Model Year, including Base MSRP
 
 | Model Year | Version / Body Style | Base MSRP | Key Details | Buyer Takeaway |
 |---|---|---|---|---|
-| 2022 | NSX Type S Coupe | $169,500 | Final year of production. Limited to 300 U.S. units (350 globally). Output increased to 600 hp / 492 lb-ft. Revised front fascia, carbon fiber roof standard, retuned SH-AWD and gearbox. | A highly collectible, limited-production send-off. Commands a significant premium over standard 2017–2021 models. |
+| 2022 | NSX Type S Coupe | $171,495 (including destination charge) | Final year of production. Limited to 300 U.S. units (350 globally). Output increased to 600 hp / 492 lb-ft. Revised front fascia, carbon fiber roof standard, retuned SH-AWD and gearbox. | A highly collectible, limited-production send-off. Commands a significant premium over standard 2017–2021 models. |
 
 ## 3. Trim Levels / Special Editions
 
@@ -25,7 +25,7 @@ The 2022 Acura NSX Type S serves as the swan song for the NC1 generation, limite
 | Performance 5-Spoke Wheels | Optional, $1,500 | Finished in Berlina Black. |
 | ELS Studio Audio & Tech Package | Optional, $500 | Includes SiriusXM. A no-brainer upgrade over the base stereo. |
 | Semi-Aniline Full Leather Power Sport Seats | Optional, $1,000 | Upgrades the standard Alcantara/Leather seats to full leather. |
-| Gotham Gray Matte Paint | Optional, $6,000 | Extremely rare and desirable matte finish, limited to only 50 units globally. |
+| Gotham Gray Matte Paint | Optional, $6,000 | Extremely rare and desirable matte finish, limited to 70 units globally, with 50 designated for the U.S. market. |
 | Andaro Paint Colors | Optional, $6,000 | Acura's premium multi-stage paint process (e.g., Nouvelle Blue Pearl, Valencia Red Pearl). |
 
 ## 5. Must-Have Factory Options / Packages
@@ -67,7 +67,7 @@ The 2022 Acura NSX Type S is a spectacular, limited-production send-off for the 
 
 * Years to buy: 2022 (only year of Type S production)
 * Options to look for: Lightweight Package ($13k option bundling CCBs and Carbon Fiber), ELS Audio
-* Preferred colors: Gotham Gray Matte (limited to 50 units), Thermal Orange Pearl, Nouvelle Blue Pearl
+* Preferred colors: Gotham Gray Matte (limited to 70 units globally, 50 for U.S. market), Thermal Orange Pearl, Nouvelle Blue Pearl
 * PPI focus: Carbon-ceramic rotor condition, matte paint inspection (if Gotham Gray), hybrid system health
 * Known recalls: None currently, but verify by VIN
 * Market forecast: [dynamic Exotic Car Hacks forecast or supported 12-month range]

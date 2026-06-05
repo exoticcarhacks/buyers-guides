@@ -26,7 +26,7 @@ During the 2004-2008 period, the Lamborghini Gallardo was available in several t
 
 *   **SE (Special Edition):** A limited production model (250 units worldwide) released in 2005. The SE featured unique aesthetic enhancements, such as a two-tone paint scheme, special wheels, and minor technical upgrades.
 
-*   **Nera Special:** Another limited edition (185 units worldwide) launched in 2007. The Nera was primarily a styling package, showcasing extensive personalization options with a matte black exterior and contrasting interior accents.
+*   **Nera Special:** Another limited edition (185 units worldwide, 60 for the U.S. market) launched in 2007. The Nera was primarily a styling package, showcasing extensive personalization options with a matte black exterior and contrasting interior accents.
 
 *   **Superleggera:** Unveiled in 2007, the Superleggera was a highly sought-after lightweight, higher-performance variant. With only 618 units produced globally and 172 for the U.S. market, it featured significant weight reduction and a power bump, making it the most track-focused version of the early Gallardo.
 

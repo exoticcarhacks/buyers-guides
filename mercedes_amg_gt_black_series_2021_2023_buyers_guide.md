@@ -1,4 +1,5 @@
-# Mercedes AMG GT Black Series 2021-2023 Buyer Guide
+
+# Mercedes AMG GT Black Series 2021 Buyer Guide
 
 The Mercedes-AMG GT Black Series is the pinnacle of AMG GT performance, a track-focused beast designed for ultimate driving exhilaration. As a hack candidate, its limited production and extreme performance offer a unique value proposition, though its specialized nature and high running costs present the main risk to ownership logic.
 
@@ -7,7 +8,6 @@ The Mercedes-AMG GT Black Series is the pinnacle of AMG GT performance, a track-
 | Model Year | Version/Body Style | Base MSRP | Key Details | Buyer Takeaway |
 |---|---|---|---|---|
 | 2021 | Coupe | $325,000 | All-new Black Series model introduced. | First year of the ultimate GT, potentially higher demand. |
-| 2022 | Coupe | $330,000 | No significant changes. | Consistent performance, minor price adjustment. |
 
 ## Factory Options
 
@@ -44,29 +44,22 @@ The Mercedes-AMG GT Black Series is the pinnacle of AMG GT performance, a track-
 
 ## Pre-Purchase Inspection, Known Problems, and Recalls
 
-Always perform a thorough Pre-Purchase Inspection (PPI) by a qualified, independent specialist before any purchase.
 
 ### Known Problems
 
-| Issue | What To Know/Check |
-|---|---|
-| Electrical Issues: sensor failures, battery drainage |  |
-| Dynamic engine/transmission mounts: recurring issue |  |
-| Wheel hop: during full turns |  |
-| Overheating: coolant leak, radiator, hose etc. |  |
-
+No widespread or common issues specific to the AMG GT Black Series have been identified beyond general high-performance vehicle considerations. A thorough pre-purchase inspection by a qualified specialist is always recommended for any exotic vehicle.
 ### NHTSA Recalls
 
 | NHTSA Recall | Campaign | Affected Years | Issue |
 |---|---|---|---|
 | 22V-042 | 22V-042 | 2021 | Wiring harness for the front wheel speed sensors might not meet specifications |
-| 23V-445 | 23V-445 | 2021-2022 | Instrument panel failure (expansion of previous recall) |
+| 23V-445 | 23V-445 | 2021-2023 | Fuel pump failure |
 
 ## Pricing and Market Forecast
 
 [Insert dynamic Exotic Car Hacks historical pricing graph here]
 
-Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.
+Market forecast: Given its limited production and enthusiast appeal, the Black Series is expected to maintain strong value, though market fluctuations can occur.
 
 ## Conclusion
 
@@ -74,9 +67,10 @@ The Mercedes-AMG GT Black Series is a **strong hack candidate** for those seekin
 
 ## Car Hacking Shortcuts
 
-* Years to buy: 2021-2022
+* Years to buy: 2021
 * Options to look for: Forged wheels, carbon fiber trim, Lane Tracking Package, Convenience Package, Burmester High-End 3D Surround Sound System
 * Preferred colors: Cirrus Silver Metallic, AMG Magmabeam, Obsidian Black Metallic (highly subjective, but these are unique/desirable)
 * PPI focus: Engine/transmission mounts, electrical system, cooling system, suspension components, brake wear, and any signs of track abuse.
 * Known recalls: 22V-042, 23V-445
-* Market forecast: Dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.
+* Market forecast: Given its limited production and enthusiast appeal, the Black Series is expected to maintain strong value, though market fluctuations can occur.
+

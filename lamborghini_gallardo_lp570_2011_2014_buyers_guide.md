@@ -4,25 +4,25 @@ The Lamborghini Gallardo LP570, produced from 2011 to 2014, represents the pinna
 
 ## Model Year / MSRP Overview
 
-| Model Year | Version/Body Style | Base MSRP | Key Details | Buyer Takeaway |
+| Model Year | Version/Body Style | Base MSRP (U.S.) | Key Details | Buyer Takeaway |
 |---|---|---|---|---|
-| 2011 | LP570-4 Superleggera | $237,600 | Introduction of lighter-weight LP570-4 Superleggera Coupe and LP570-4 Spyder Performante versions. Superleggera received suspension changes with firmer shock settings and stiffer anti-roll bars. | Focus on well-maintained examples. |
-| 2011 | LP570-4 Performante | $248,000 | Introduction of lighter-weight LP570-4 Superleggera Coupe and LP570-4 Spyder Performante versions. Superleggera received suspension changes with firmer shock settings and stiffer anti-roll bars. | Focus on well-maintained examples. |
-| 2012 | LP570-4 Super Trofeo Stradale | $256,300 | Introduction of the LP570-4 Super Trofeo Stradale. | Focus on well-maintained examples. |
-| 2013 | LP570-4 Superleggera Edizione Tecnica | $243,300 | Introduction of the Edizione Tecnica option on all Gallardo LP 570-4 variants, including the LP 570-4 Superleggera. | Focus on well-maintained examples. |
-| 2013 | LP570-4 Performante Edizione Tecnica | $248,800 | Introduction of the Edizione Tecnica option on all Gallardo LP 570-4 variants, including the LP 570-4 Superleggera. | Focus on well-maintained examples. |
-| 2014 | LP570-4 Squadra Corse | $259,100 | The Lamborghini Gallardo was replaced by the Lamborghini Huracán. No significant changes for LP570-4 models in 2014 as it was the final production year for the Gallardo. | Focus on well-maintained examples. |
+| 2011 | LP570-4 Superleggera Coupe | $237,600 | Introduction of lighter-weight LP570-4 Superleggera Coupe. Received suspension changes with firmer shock settings and stiffer anti-roll bars. | Focus on well-maintained examples. |
+| 2011 | LP570-4 Spyder Performante | $253,095 | Introduction of the lighter-weight LP570-4 Spyder Performante. | Focus on well-maintained examples. |
+| 2012 | LP570-4 Super Trofeo Stradale | $249,995 | Introduction of the LP570-4 Super Trofeo Stradale (15 units for U.S. market). | Focus on well-maintained examples. |
+| 2013 | LP570-4 Superleggera Edizione Tecnica | $246,295 | Introduction of the Edizione Tecnica option on LP 570-4 Superleggera. | Focus on well-maintained examples. |
+| 2013 | LP570-4 Spyder Performante Edizione Tecnica | $248,000 | Introduction of the Edizione Tecnica option on LP 570-4 Spyder Performante. | Focus on well-maintained examples. |
+| 2014 | LP570-4 Squadra Corse | N/A (Limited Edition) | The Lamborghini Gallardo was replaced by the Lamborghini Huracán. Limited edition (15 units for U.S. market) based on the Super Trofeo race car. | Focus on well-maintained examples. |
 
 ## Trims and Special Editions
 
 | Version | U.S. Years | Engine/Output | Notes |
 |---|---|---|---|
-| LP570-4 Superleggera | 2011 | 5.2L V10 | 2011: Introduction of lighter-weight LP570-4 Superleggera Coupe and LP570-4 Spyder Performante versions. Superleggera received suspension changes with firmer shock settings and stiffer anti-roll bars. |
-| LP570-4 Performante | 2011 | 5.2L V10 |  |
-| LP570-4 Super Trofeo Stradale | 2012 | 5.2L V10 | 2012: Introduction of the LP570-4 Super Trofeo Stradale. |
-| LP570-4 Superleggera Edizione Tecnica | 2013 | 5.2L V10 | Introduction of the Edizione Tecnica option on all Gallardo LP 570-4 variants, including the LP 570-4 Superleggera. |
-| LP570-4 Performante Edizione Tecnica | 2013 | 5.2L V10 | Introduction of the Edizione Tecnica option on all Gallardo LP 570-4 variants, including the LP 570-4 Superleggera. |
-| LP570-4 Squadra Corse | 2014 | 5.2L V10 |  |
+| LP570-4 Superleggera Coupe | 2011 | 5.2L V10 (562 hp SAE net) | 2011: Introduction of lighter-weight LP570-4 Superleggera Coupe. Received suspension changes with firmer shock settings and stiffer anti-roll bars. |
+| LP570-4 Spyder Performante | 2011 | 5.2L V10 (562 hp SAE net) | Convertible version of the Superleggera. |
+| LP570-4 Super Trofeo Stradale | 2012 | 5.2L V10 (562 hp SAE net) | 2012: Introduction of the LP570-4 Super Trofeo Stradale (15 units for U.S. market). |
+| LP570-4 Superleggera Edizione Tecnica | 2013 | 5.2L V10 (562 hp SAE net) | Introduction of the Edizione Tecnica option on LP 570-4 Superleggera. |
+| LP570-4 Spyder Performante Edizione Tecnica | 2013 | 5.2L V10 (562 hp SAE net) | Introduction of the Edizione Tecnica option on LP 570-4 Spyder Performante. |
+| LP570-4 Squadra Corse | 2014 | 5.2L V10 (562 hp SAE net) | Limited edition (15 units for U.S. market) based on the Super Trofeo race car. |
 
 ## Comprehensive Factory Options
 
@@ -57,21 +57,19 @@ The Lamborghini Gallardo LP570, produced from 2011 to 2014, represents the pinna
 
 ## Known Problems & Recalls
 
-Always get a Pre-Purchase Inspection (PPI) from a qualified, independent specialist before purchase.
-
 ### Known Problems
 
 | Issue | What To Know/Check |
 |---|---|
 | Transmission issues (E-gear) | Slipping gears, difficulty shifting, worn components, or problems with the transmission control module. E-gear clutch replacement cost: $5,000 (independent mechanics) to $7,000 (dealers). |
 | Brake pad squealing | Squeaky brakes, requiring cleaning of brake pads, application of noise-reduction lubricant, and deglazing of brake rotors. |
-| Oil leaks | Particularly around the oil pan and rear main seal in early Gallardo models. |
+| Oil leaks | Common leak points include valve cover gaskets, front/rear main seals, and oil cooler lines. Inspect for visible drips or residue, especially around the lower engine and transmission bell housing. |
 | Paintwork issue | Mismatch between panels or shoddy repairs, especially in door jams and hinges. |
 | Wheels and tires | Sensitivity to tire pressure differences and issues with aftermarket wheels causing premature clutch wear, slippage, and differential wear. A set of high-performance tires costs around $2,000. |
 | Aftermarket sound system | Potential negative effects on ECUs located behind seats due to magnets, and improper wiring leading to rapid battery depletion. |
-| Front-end scrape | Due to low ground clearance, especially in models without the front-end lift feature (pre-2005), leading to scrapes and cracks on the front bumper. |
+| Front-end scrape | Due to low ground clearance, especially in models without the front-end lift feature, leading to scrapes and cracks on the front bumper. |
 | Mirrors | Windshield-mounted rearview mirrors are susceptible to leaks of auto-dimming fluid. Replacement with a non-dimming version costs less than $150. |
-| Electrical System | Car unexpectedly shut off completely while driving, with all electrical power gone, suggesting faulty software. |
+| Electrical System | While a recall exists for ECU software, some owners have reported broader electrical issues, such as unexpected complete power loss while driving. This can manifest as the car shutting off entirely with all electrical power gone. Inspect for proper battery voltage, alternator function, and any signs of corrosion or loose connections in the wiring harness. |
 | Engine Compartment Fire | Reported during refueling. |
 | Fuel System, Gasoline | Vehicle caught fire while refueling. |
 | Steering | Main driveshaft breaking apart, bolts holding driveshaft to gearbox getting loose and falling off, causing rear wheel locking and exploding tires. |
@@ -80,7 +78,7 @@ Always get a Pre-Purchase Inspection (PPI) from a qualified, independent special
 
 | NHTSA Recall | Campaign | Affected Years | Issue |
 |---|---|---|---|
-| 18V-833 | N/A | 2011-2014 | The Engine Control Unit (ECU) software may erase trouble codes after the ignition is turned off, not illuminating warning lamps and preventing drivers from being warned of safety system problems the next time that they are driving. |
+| 18V-833 | ECU Software Reprogramming | 2011-2014 | The affected vehicles might have followed an incorrect procedure to reflash the engine software of the Engine Control Unit (ECU). As a consequence, the ECU software may erase trouble codes after the ignition is turned off, not illuminating warning lamps and preventing drivers from being warned of safety system problems the next time that they are driving. |
 
 ## Market Analysis
 
@@ -93,9 +91,9 @@ The Lamborghini Gallardo LP570 is a **strong hack candidate** for those seeking 
 
 ## Car Hacking Shortcuts
 
-* Years to buy: 2011-2014 (LP570-4 Superleggera, Performante, Super Trofeo Stradale, Edizione Tecnica, Squadra Corse)
+* Years to buy: 2011-2014 (LP570-4 Superleggera Coupe, Spyder Performante, Super Trofeo Stradale, Edizione Tecnica, Squadra Corse)
 * Options to look for: Front-end lift system, Carbon-ceramic brakes, Multimedia System with Navigation & Bluetooth
 * Preferred colors: Matte finishes (Bianco Canopus, Marrone Apus, Nero Nemesis) for unique appeal, but verify condition.
-* PPI focus: E-gear transmission health, oil leaks, brake system, electrical system, steering components, and evidence of front-end scrapes.
-* Known recalls: 18V-833 (ECU software for trouble codes).
+* PPI focus: E-gear transmission health, oil leaks (specifically valve cover gaskets, main seals, oil cooler lines), brake system, electrical system (battery, alternator, wiring), steering components, and evidence of front-end scrapes.
+* Known recalls: NHTSA Campaign 18V-833 (ECU software for trouble codes).
 * Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.

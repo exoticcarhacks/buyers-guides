@@ -1,13 +1,13 @@
 # Porsche 911 Turbo 997.2 2010-2012 Buyer Guide
 
-The Porsche 911 Turbo 997.2, produced from 2010 to 2012, represents a sweet spot in the 911 lineage, offering a blend of modern performance and analog driving feel. It stands as a prime hack candidate due to its robust Mezger-derived engine (for the 997.1, but the 997.2 introduced the DFI engine which is still very strong), exceptional performance capabilities, and relative value compared to newer generations. The main risk lies in potential high maintenance costs for neglected examples, particularly concerning engine-related issues and specific known problems.
+The Porsche 911 Turbo 997.2, produced from 2010 to 2012, represents a sweet spot in the 911 lineage, offering a blend of modern performance and analog driving feel. It stands as a prime hack candidate due to its exceptional performance capabilities, and relative value compared to newer generations. The main risk lies in potential high maintenance costs for neglected examples, particularly concerning engine-related issues and specific known problems.
 
 ## Model Year Overview
 
 | Model Year | Version/Body Style | Base MSRP | Key Details | Buyer Takeaway |
 |---|---|---|---|---|
-| 2010 | 911 Turbo Coupe/Cabriolet | $132,800 | Introduction of the 997.2 generation Turbo with a new 3.8L direct-injection twin-turbo flat-six engine (500 hp), new 7-speed PDK dual-clutch transmission option (replacing 5-speed Tiptronic), recalibrated AWD and PASM, updated exterior with LED lighting, and optional Porsche Torque Vectoring (PTV) and dynamic engine mounts with Sport Chrono Package. | Strong performance and modern features for the era. |
-| 2011 | 911 Turbo S Coupe/Cabriolet | $135,500 | Introduction of the 911 Turbo S model (530 hp, PDK only). Standard Turbo model continued with 500 hp. | Top-tier performance with PDK only. Higher output. |
+| 2010 | 911 Turbo Coupe/Cabriolet | $133,750 | Introduction of the 997.2 generation Turbo with a new 3.8L direct-injection twin-turbo flat-six engine (500 hp), new 7-speed PDK dual-clutch transmission option (replacing 5-speed Tiptronic), recalibrated AWD and PASM, updated exterior with LED lighting, and optional Porsche Torque Vectoring (PTV) and dynamic engine mounts with Sport Chrono Package. Introduced for the U.S. market in the 2010 model year. | Strong performance and modern features for the era. |
+| 2011 | 911 Turbo S Coupe/Cabriolet | $160,050 | Introduction of the 911 Turbo S model (530 hp, PDK only). Standard Turbo model continued with 500 hp. | Top-tier performance with PDK only. Higher output. |
 | 2012 | 911 Turbo Coupe/Cabriolet | $137,500 | No significant changes for the 997.2 Turbo model as the 991 generation was introduced concurrently. | Final year of the 997.2, potentially good value. |
 
 ## Trims and Special Editions
@@ -20,7 +20,7 @@ The Porsche 911 Turbo 997.2, produced from 2010 to 2012, represents a sweet spot
 ## Factory Options
 
 | Factory Option/Package | Pricing/Status | Notes |
-|---|---|---|
+|---|---|---|---|
 | 7 Speed Porsche Doppelkupplung (PDK) Automatic Transmission | Optional, $4,550 | Available in 2010, 2011 |
 | Carrara White | Optional, $0 | Available in 2010, 2011 |
 | Black (Top) | Optional, $0 | Available in 2010 |
@@ -78,7 +78,7 @@ A thorough Pre-Purchase Inspection (PPI) by a Porsche specialist is critical.
 | Rear lights | Condensation and eventual failure due to plastic housing separation — expensive |
 | Coolant cross-over pipes | Leaks due to perishing rubber sections or corroded metal connectors, leading to engine overheating and potential engine failure — significant cost if engine failure occurs |
 | DFI / High-pressure fuel pumps | Can fail, causing limp mode or total shutdown — expensive due to pump cost |
-| Bore scoring | Can occur on 997.2 engines, recommended to get a boroscope inspection during PPI. |
+| Bore scoring | While technically possible, bore scoring is significantly less prevalent in the 997.2 DFI engines compared to the earlier 997.1 Mezger engines. A boroscope inspection during a PPI is still recommended, especially for higher mileage examples, to ensure peace of mind. |
 | Degeneration of suspension components, heat shields, and brackets | Parts prone to rust may need replacement. |
 | Class-action lawsuit | Porsche is facing a class-action lawsuit alleging monopolization of repairs by forcing owners to use dealerships. |
 
@@ -92,17 +92,13 @@ A thorough Pre-Purchase Inspection (PPI) by a Porsche specialist is critical.
 
 [Insert dynamic Exotic Car Hacks historical pricing graph here]
 
-Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.
-
 ## Conclusion
 
-The Porsche 911 Turbo 997.2 is a **strong hack candidate**. Its combination of robust engineering, exhilarating performance, and relative market stability makes it an attractive proposition for the discerning enthusiast. The main risk remains the potential for significant repair costs if a poorly maintained example is acquired. The best ownership logic involves diligent pre-purchase inspection, proactive maintenance, and enjoying one of the last truly engaging analog-feel Turbos.
+The Porsche 911 Turbo 997.2 is a **strong hack candidate**. Its combination of robust engineering, exhilarating performance, and relative market stability makes it an attractive proposition for the discerning enthusiast. The best ownership logic involves diligent pre-purchase inspection, proactive maintenance, and enjoying one of the last truly engaging analog-feel Turbos.
 
 ## Car Hacking Shortcuts
 
 * Years to buy: 2010-2012
 * Options to look for: Sport Chrono Package, PTV, Adaptive Sport Seats
-* Preferred colors: Black, White, Guards Red (verify market data for specific trends)
 * PPI focus: Engine bore scoring, coolant pipes, DFI/HPFP, rear lights, suspension components.
 * Known recalls: 11V285000 (Wheels: Center locking hub and wheel assemblies)
-* Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.

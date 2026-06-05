@@ -6,8 +6,8 @@ The Lamborghini Aventador SVJ, produced from 2019 to 2021, represents the pinnac
 
 | Model Year | Version/Body Style | Base MSRP | Key Details | Buyer Takeaway |
 |---|---|---|---|---|
-| 2019 | Coupe | $612,265 | Power for the 6.5-liter V-12 engine increased from 740 hp to 759 hp; engine gained titanium intake valves, revised intake runners, and reworked cylinder heads; revised front fascia with improved aerodynamics and a larger rear wing; interior features more exposed carbon fiber; ALA (Aerodinamica Lamborghini Attiva) system optimized to ALA 2.0 with new air intake and aero channel designs, recalibrated for enhanced lateral acceleration; introduction of the SVJ 63 special edition. | First model year, highest power output increase, and introduction of SVJ 63. Strong collectibility. |
-| 2020 | Coupe, Roadster | $522,948 (Coupe), $573,966 (Roadster) | Introduction of the SVJ Roadster, featuring a revamped engine cover and wider side intakes compared to the coupe. | Roadster variant introduced, offering open-top experience. Coupe MSRP decreased significantly. Roadster is highly desirable. |
+| 2019 | Coupe | $517,770 | (Note: $612,265 was likely for a well-optioned model)  Power for the 6.5-liter V-12 engine increased from 740 hp to 759 hp; engine gained titanium intake valves, revised intake runners, and reworked cylinder heads; revised front fascia with improved aerodynamics and a larger rear wing; interior features more exposed carbon fiber; ALA (Aerodinamica Lamborghini Attiva) system optimized to ALA 2.0 with new air intake and aero channel designs, recalibrated for enhanced lateral acceleration; introduction of the SVJ 63 special edition. | First model year, highest power output increase, and introduction of SVJ 63. Strong collectibility. |
+| 2020 | Coupe, Roadster | $517,770 (Coupe), $573,966 (Roadster) | Introduction of the SVJ Roadster, featuring a revamped engine cover and wider side intakes compared to the coupe. | Roadster variant introduced, offering open-top experience. Coupe MSRP decreased significantly. Roadster is highly desirable. |
 | 2021 | Coupe | $522,948 (Coupe) | Carryover year with no significant mechanical or cosmetic changes reported. | Carryover year, representing the final iteration of the SVJ Coupe. Likely to hold value well as the last of its kind. |
 
 ## Special Editions
@@ -155,13 +155,13 @@ Always perform a comprehensive Pre-Purchase Inspection (PPI) by a qualified, ind
 
 | Issue | What To Know/Check |
 |---|---|
-| Clutch failure | Premature clutch wear (e.g., 14mm wear at 5k miles, service limit 7mm) potentially due to aggressive driving (e.g., multiple launches). Replacement cost is estimated between $13,000 - $20,000 including labor. Potential for associated gearbox damage. — $13,000 - $20,000 |
+| Clutch failure | Premature clutch wear is a known issue, often exacerbated by aggressive driving or frequent launches. Replacement costs can be substantial, estimated between $13,000 - $20,000 including labor, and can potentially lead to associated gearbox damage. Consult with a specialist for specific wear tolerances and inspection points.
 
 ### NHTSA Recalls
 
 | NHTSA Recall | Campaign | Affected Years | Issue |
 |---|---|---|---|
-| 19V-696 | N/A | 2017-2019 | Engine stall without warning due to engine management software. |
+| 19V-696 | N/A | 2017-2019 (Aventador S only) | Engine stall without warning due to engine management software. (Does NOT affect SVJ models) |
 | 20V-618 | N/A | 2020 | Front frame suspension arm anchor bolt torque insufficient due to damaged aluminum frame threads, potentially leading to suspension arm joint collapse and loss of vehicle control. |
 | 20V-151 | N/A | 2020 | Internal door handle mechanism may fail, leading to entrapment risk. |
 | 21V-927 | N/A | 2021 | Heat exchanger oil line screws improperly torqued, leading to potential oil leak and fire risk. |
@@ -184,3 +184,4 @@ The Lamborghini Aventador SVJ is a strong hack candidate for those seeking a vis
 * PPI focus: Clutch wear, gearbox health, suspension components, and any signs of track use or aggressive driving.
 * Known recalls: 19V-696, 20V-618, 20V-151, 21V-927 (verify by VIN)
 * Market forecast: Dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.
+

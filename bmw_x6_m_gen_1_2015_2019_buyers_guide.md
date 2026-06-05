@@ -6,25 +6,24 @@ The BMW X6 M Gen 1 (2015-2019) is a high-performance luxury SUV that combines ag
 
 | Model Year | Version/Body Style | Base MSRP | Key Details | Buyer Takeaway |
 |---|---|---|---|---|
-| 2015 | SUV | $107,595 | Second generation (F16) X6 M unveiled, with an 8-speed M Steptronic gearbox with Drivelogic. More powerful engine in V8 versions (4.4L V8 boosted to 445 hp, X6 M comes with 567 hp). | First year of the new generation, powerful but may have early production quirks. |
-| 2016 | SUV | $107,695 | Enhanced USB and Bluetooth package is now standard equipment. Otherwise, no major changes. | Minor updates, good value if priced right. |
-| 2017 | SUV | $107,895 | Updated iDrive system to version 5.0 with touchscreen functionality. Executive option package now includes Wireless Charging and Wi-Fi Hotspot. An extra USB port is added at the bottom of the center console, and the iDrive controller knob is updated. | Significant tech upgrade, highly desirable. |
-| 2018 | SUV | $104,100 | Changes are minimal. | Lower base MSRP, solid choice. |
+| 2015 | SUV | $103,050 | Second generation (F86) X6 M unveiled, featuring an 8-speed M Steptronic gearbox with Drivelogic and a 4.4L twin-turbo V8 producing 567 hp. The 445 hp figure refers to the non-M X6 xDrive50i (F16) model. | First year of the new generation, powerful but may have early production quirks. |
+| 2016 | SUV | $102,200 | Enhanced USB and Bluetooth package is now standard equipment. Otherwise, no major changes. | Minor updates, good value if priced right. |
+| 2017 | SUV | $104,100 | Updated iDrive system to version 5.0 with touchscreen functionality. The iDrive controller knob was also updated. Executive option package now includes Wireless Charging and Wi-Fi Hotspot, and an extra USB port is added at the bottom of the center console. | Significant tech upgrade, highly desirable. |
+| 2018 | SUV | $105,100 | Changes are minimal. | Lower base MSRP, solid choice. |
 | 2019 | SUV | $106,695 | BMW's Active Driving Assistant is now standard. This includes Lane Departure Warning, Frontal Collision Warning, and Pedestrian Warning with City Mitigation and braking. | Best safety features, likely the most expensive. |
 
 ## Factory Options
 
 | Factory Option/Package | Pricing/Status | Notes |
 |---|---|---|
-| Driver Assistance package (rearview camera, head-up display) | Optional | 2015-2019 |
+| Driver Assistance package (rearview camera, head-up display) | Optional (Rearview camera became standard in 2018) | 2015-2017 |
 | Driver Assistance Plus package (blind-spot monitoring, bird’s-eye-view camera system, active cruise control, lane-departure warning) | Optional | 2015-2019 |
 | Ventilated front seats | Optional | 2015-2019 |
 | Satellite radio | Optional | 2015-2019 |
 | Heated rear seats | Optional | 2015-2019 |
 | Heated steering wheel | Optional | 2015-2019 |
 | 4-zone climate control | Optional | 2015-2019 |
-| M Sport package (20-inch wheels, unique interior and exterior aesthetics) | Optional | 2015-2019 |
-| X Line package (20-inch wheels, unique interior and exterior aesthetics) | Optional | 2015-2019 |
+| M Sport styling and 20-inch wheels | Standard | 2015-2019 |
 | Harman/Kardon sound system | Optional | 2015-2019 |
 | Bang & Olufsen sound system | Optional | 2015-2019 |
 | Full Merino Leather option (leather dash) | Optional | 2015-2019 |
@@ -48,7 +47,7 @@ The BMW X6 M Gen 1 (2015-2019) is a high-performance luxury SUV that combines ag
 | Strongly Preferred | Bang & Olufsen Sound System | Optional, $3,700 | Premium audio is a major selling point for luxury SUV buyers. |
 | Spec-Dependent | Driver Assistance Plus package | Optional | Desirable for safety tech, but not a dealbreaker for all buyers. |
 
-Always get a Pre-Purchase Inspection (PPI) from a qualified independent specialist before buying.
+
 
 ### Known Problems
 
@@ -74,11 +73,9 @@ Always get a Pre-Purchase Inspection (PPI) from a qualified independent speciali
 
 [Insert dynamic Exotic Car Hacks historical pricing graph here]
 
-Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.
-
 ## Conclusion
 
-The BMW X6 M Gen 1 is a medium hack candidate. While it offers incredible performance and aggressive styling, the main risk is the high cost of potential repairs, particularly engine oil leaks and transfer case failures. The best ownership logic is to find a well-optioned model (like one with the Executive Package) that has already experienced the steepest part of its depreciation curve, ensuring you get a lot of car for the money while minimizing future loss.
+The BMW X6 M Gen 1 is a compelling hack candidate for those seeking sports car performance in a practical package. Its main risk lies in the potential for expensive engine and drivetrain repairs, particularly concerning oil leaks and transfer case issues. The best ownership logic is to find a well-optioned model (like one with the Executive Package) that has already experienced the steepest part of its depreciation curve, ensuring you get a lot of car for the money while minimizing future loss.
 
 ## Car Hacking Shortcuts
 
@@ -87,4 +84,4 @@ The BMW X6 M Gen 1 is a medium hack candidate. While it offers incredible perfor
 * Preferred colors: N/A
 * PPI focus: Engine oil leaks, transfer case operation, air suspension
 * Known recalls: 19V-823 (Backrest Frame Weld)
-* Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.
+

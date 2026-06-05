@@ -12,33 +12,33 @@ The Mercedes S63 AMG, spanning the 2014-2020 model years, represents the pinnacl
 | 2016 | S63 AMG Sedan (W222) | $143,250 | Active Blind Spot Assist and Active Lane Keeping Assist became standard. Optional Night View Assist Plus. COMAND infotainment updated. | Enhanced safety features, improved tech. |
 | 2017 | S63 AMG Sedan (W222) | N/A | Final year before mid-cycle refresh. Introduction of S63 Cabriolet. | Last of the pre-facelift models, potentially good value. |
 | 2018 | S63 AMG Sedan (W222) | $148,500 | Significant mid-cycle refresh. New 4.0L twin-turbo V8 (M177), 603 hp, 664 lb-ft torque. New 9-speed AMG SPEEDSHIFT MCT. 0-60 mph in 3.4s. Updated LED headlights, revised grille, new bumpers, fresh taillight design. Redesigned steering wheel. Enhanced driver assistance. | Major performance and tech upgrade, desirable model year. |
-| 2019 | S63 AMG Sedan (W222) | $151,600 | AMG Night Package optional. AMG Performance Seats optional. MBUX infotainment system replaced COMAND. | Modernized infotainment, more customization options. |
-| 2020 | S63 AMG Sedan (W222) | $151,600 | S63 Final Edition released. Exclusive bronze accents, high-end interior materials, AMG forged wheels, exclusive paint options, commemorative badges. | Collectible final edition, likely holds value better. |
+| 2019 | S63 AMG Sedan (W222) | $151,600 | AMG Night Package optional. AMG Performance Seats optional. COMAND infotainment system continued. | More customization options. |
+| 2020 | S63 AMG Sedan (W222) | $152,595 | S63 Final Edition released. Exclusive bronze accents, high-end interior materials, AMG forged wheels, exclusive paint options, commemorative badges. | Collectible final edition, likely holds value better. |
 
 ## Factory Options
 
 | Factory Option/Package | Pricing/Status | Notes |
 |---|---|---|
-| Black/Black Nappa Leather | Optional, $2,290 | 2015 |
+| Black/Black Nappa Leather | Standard | 2015 |
 | Black/Black Exclusive Nappa Leather | Optional, $4,450 | 2015 |
-| Silk Beige/Espresso Brown Nappa Leather | Optional, $2,290 | 2015 |
+| Silk Beige/Espresso Brown Nappa Leather | Standard | 2015 |
 | Silk Beige/Espresso Brown Exclusive Nappa Leather | Optional, $4,450 | 2015 |
-| Nut Brown/Black Nappa Leather | Optional, $2,290 | 2015 |
+| Nut Brown/Black Nappa Leather | Standard | 2015 |
 | Nut Brown/Black Exclusive Nappa Leather | Optional, $4,450 | 2015 |
-| Crystal Grey/Seashell Grey Nappa Leather | Optional, $2,290 | 2015 |
+| Crystal Grey/Seashell Grey Nappa Leather | Standard | 2015 |
 | Crystal Grey/Seashell Grey Exclusive Nappa Leather | Optional, $4,450 | 2015 |
-| Porcelain/Black Nappa Leather | Optional, $2,290 | 2015 |
+| Porcelain/Black Nappa Leather | Standard | 2015 |
 | Porcelain/Black Exclusive Nappa Leather | Optional, $4,450 | 2015 |
-| designo Deep-Sea Blue/Silk Beige Exclusive Nappa Leather | Optional, $5,550 | 2015 |
-| designo Silk Beige/Titanium Pearl Semi-Aniline Leather | Optional, $6,550 | 2015 |
-| designo Silk Beige/Satin Red Pearl Semi-Aniline Leather | Optional, $6,550 | 2015 |
+
+| designo Silk Beige/Titanium Pearl Semi-Aniline Leather | Optional, $1,000 | 2015 |
+| designo Silk Beige/Satin Red Pearl Semi-Aniline Leather | Optional, $1,000 | 2015 |
 | designo Brown Myrtle Sunburst Wood Trim | Optional, $800 | 2015 |
 | designo Metallized Ash Wood Trim | Optional, $800 | 2015 |
-| Premium 1 Package | Optional, $4,500 | 2014 |
+| Premium 1 Package | Standard | 2014 |
 | Surround View Camera | Optional, $900 | 2014 |
 | Driver Assistance Package | Optional, $2,800 | 2014 |
-| Air Balance Package | Optional, $350 | 2014 |
-| Warmth Comfort Package | Optional, $2,350 | 2014 |
+| Air Balance Package | Standard | 2014 |
+| Warmth Comfort Package | Optional, $2,600 | 2014 |
 | Rear Seat Package | Optional, $3,000 | 2014 |
 | Rear Seat Entertainment Package | Optional, $2,650 | 2014 |
 | Executive Rear Seat Package | Optional, $3,500 | 2014 |
@@ -91,12 +91,12 @@ The Mercedes S63 AMG, spanning the 2014-2020 model years, represents the pinnacl
 | Issue | What To Know/Check |
 |---|---|
 | Suspension Issues: Active Body Control (ABC) | Leaks, uneven ground clearance, loss of height. Costly repairs. |
-| Transmission Problems (7G-Tronic and 9G-Tronic) | Rough shifting, grinding noises, occasional slippage. |
-| Oil Leaks | Around turbocharger and valve gaskets. Inspect for visible leaks. |
-| Overheating and Heat-Related Issues | Water pump, fuel hoses. Check cooling system performance. |
+| Transmission Problems (7G-Tronic and 9G-Tronic) | Rough shifting, particularly 3rd to 2nd downshifts and 2nd to 1st upshifts in Sport mode, or jerking under light acceleration. Often linked to outdated software or adaptation issues. Inspect for smooth shifts across all modes; verify software updates and transmission adaptation have been performed. |
+| Oil Leaks | **M157 Engines (2014-2017):** Common leaks from valve cover gaskets, oil filter housing, and upper front timing covers. Inspect these areas thoroughly for visible oil residue. **M177 Engines (2018-2020):** Leaks often stem from valve cover gaskets, front crank seal, and failed oil separators, which can lead to oil in spark plug wells and turbos. Check for oil in spark plug wells and around the front of the engine. |
+| Overheating and Heat-Related Issues | **Water Pump Failure (M157/M177 Engines):** Common symptoms include coolant leaks (look for puddles under the car), whining or grinding noises from the front of the engine, engine overheating (indicated by dashboard warnings), or a wobbly water pump pulley. Inspect the water pump for leaks and listen for unusual noises. **Fuel Hoses:** Inspect the rubber hoses, particularly near the fuel heat exchanger, for cracks, wear, or signs of fuel leakage. |
 | Crankshaft Breather Valve Issues | Deterioration of breather diaphragm valve or hose. |
-| Electrical Failures | Failing e-call systems, software glitches, sensor problems. Test all electronics. |
-| Engine Rattle | Faulty chain tensioners or low oil pressure. Listen for unusual engine noises. |
+| Electrical Failures | **e-Call System:** Malfunctions can lead to incorrect location transmission or system disablement due to network connection failure (NHTSA recalls 21V-058, 22V-365). **COMAND Infotainment:** Issues include black screens, freezing, continuous rebooting, or complete failure. Often resolved by a system reset (hold CD eject button for 20 seconds) or software updates. **Sensors:** Various sensor problems, including parking sensors (often a single failed sensor), blind spot assist (faulty radars or wiring), and steering wheel sensors (hands-off detection malfunction, NHTSA recall 18V-910). Test all electronic functions and check for warning messages on the dashboard. |
+| Engine Rattle | **M157 Engines (2014-2017):** Often manifests as a ticking or clacking noise, especially at idle or when engaging a gear, and can become louder under acceleration. This is frequently attributed to worn camshaft adjusters, chain tensioners, or issues related to oil draining from cylinder heads starving the tensioner. Listen for unusual engine noises, particularly at cold start. **M177 Engines (2018-2020):** Reports of broken timing guides causing a 'tek tek tek' sound. Low oil pressure can exacerbate these issues. A thorough inspection of the timing components and oil pressure is recommended. |
 | Rear Main Seal (RMS) and Oil Vapor Separator (OVS) failures (M177 engines) | Significant repair, $5,000-$7,000. |
 | Rough idle problems (2018 models) | Resolved with ECU software update. Verify update status. |
 | Faulty rear radar sensor (2019 models) | Caused random brake lock-ups and swerving. Fixed under warranty, verify repair. |
@@ -138,3 +138,4 @@ The Mercedes S63 AMG 2014-2020 is a **strong hack candidate** for those seeking 
 * PPI focus: Active Body Control (ABC) suspension, transmission health, oil leaks, and all electronic systems.
 * Known recalls: Verify all NHTSA recalls have been addressed, especially roof panel detachment and eCall system issues.
 * Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.
+

@@ -6,7 +6,7 @@ The Lamborghini Murcielago LP640, produced from 2007 to 2009, represents the pin
 | Model Year | Version/Body Style | Base MSRP | Key Details | Buyer Takeaway |
 |---|---|---|---|---|
 | 2007 | Coupe, Roadster | Coupe: $311,100, Roadster: $345,000 | Completely re-done Murcielago LP640; faster engine (632 hp), new exhaust, modified suspension, revised programming, upgraded clutch, larger front spoiler, new mirrors, exterior and interior facelift. First official use of LP nomenclature. | The initial LP640 model year offers significant upgrades over its predecessor, making it a strong starting point for buyers seeking modern performance and aesthetics. |
-| 2008 | Coupe, Roadster | Coupe: $333,000, Roadster: $365,800 | No major changes to standard coupe or roadster. Anticipated new options: iPod preparation or USB interface. | A stable year with minor tech additions. Focus on condition and options rather than model year specific changes. |
+| 2008 | Coupe, Roadster | Coupe: $334,400, Roadster: $367,200 | No major changes to standard coupe or roadster. Anticipated new options: iPod preparation or USB interface. | A stable year with minor tech additions. Focus on condition and options rather than model year specific changes. |
 | 2009 | Coupe, Roadster | Coupe: $354,000, Roadster: $382,400 | No significant changes. Hard top deletion option introduced for Roadster. | The final year of the LP640 offers the most refined version, with potential for unique options like the hard top deletion on Roadsters. |
 
 ## Factory Options
@@ -17,9 +17,9 @@ The Lamborghini Murcielago LP640, produced from 2007 to 2009, represents the pin
 | Hands Free Phone | Optional | 2008 |
 | Premium Radio | Optional | 2008 |
 | Leather Interior Trim | Optional | 2008-2009 |
-| iPod preparation | Optional | 2008 |
-| USB interface | Optional | 2008 |
-| CD loader | Still available | 2008 |
+| iPod preparation | Optional | 2008-2009 |
+| USB interface | Optional | 2008-2009 |
+| CD loader | Still available | 2008-2009 |
 | E-gear transmission | $10,000 (estimated) | 2007-2009 |
 | Carbon ceramic brakes | $15,000 (estimated) | 2007-2009 |
 | Transparent engine cover | $7,000 (estimated) | 2007-2009 |
@@ -79,3 +79,4 @@ The Lamborghini Murcielago LP640 is a **strong hack candidate** for those seekin
 * PPI focus: Clutch wear, E-gear actuator function, front lift system leaks, door strut integrity, mirror gear operation, signs of fluid leaks, and overall mechanical health, especially engine and transmission. Check for brake rotor screw issues.
 * Known recalls: 10V215000
 * Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.
+

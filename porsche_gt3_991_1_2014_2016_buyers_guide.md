@@ -6,9 +6,9 @@ The Porsche 991.1 GT3, produced from 2014 to 2016, represents a pinnacle of natu
 ## Model Year Overview
 | Model Year | Version/Body Style | Base MSRP | Key Details | Buyer Takeaway |
 |---|---|---|---|---|
-| 2014 | 991.1 GT3 Coupe | $130,400 | First year of the 991 GT3, replacing the 997.2 GT3. Featured a 3.8-liter engine producing 475 hp and 325 lb-ft of torque. Improved downforce on the front wheels. | Early models are subject to engine recall, ensure all remedies are performed. |
-| 2015 | 991.1 GT3 Coupe | $130,400 | No significant changes from the 2014 model year. | Essentially identical to 2014 models; focus on condition and maintenance history. |
-| 2016 | 991.1 GT3 Coupe | $130,400 | Engine updates including DLC coated finger followers and revised oiling. | Later models benefit from engine revisions, potentially reducing risk of original engine issues. |
+| 2014 | 991.1 GT3 Coupe | $130,400 | First year of the 991 GT3, replacing the 997.2 GT3. Featured a 3.8-liter engine producing 469 bhp and 325 lb-ft of torque. 0-60 mph in 3.1 seconds (MotorTrend tested). Improved downforce on the front wheels. | Early models are subject to engine recall, ensure all remedies are performed. |
+| 2015 | 991.1 GT3 Coupe | $132,395 | No significant changes from the 2014 model year. | Essentially identical to 2014 models; focus on condition and maintenance history. |
+| 2016 | 991.1 GT3 Coupe | $130,400 | The recall (NHTSA 14V-090) involved engine replacement for affected vehicles. | Ensure recall work has been performed; later models are not inherently immune to the original issue without the recall remedy. |
 
 ## Factory Options
 | Factory Option/Package | Pricing/Status | Notes |
@@ -52,7 +52,7 @@ Always perform a Pre-Purchase Inspection (PPI) by a qualified Porsche specialist
 Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.
 
 ## Conclusion
-The Porsche 991.1 GT3 is a **strong hack candidate** for those who appreciate its analog driving feel and naturally aspirated engine. The main risk remains the potential for engine and PDK transmission issues, which, while largely addressed by recalls and extended warranties, still warrant thorough inspection. The best ownership logic involves diligent pre-purchase inspection, verification of all recall work, and understanding the long-term maintenance costs, especially for options like PCCB. This is a driver's car with appreciating value, provided its specific mechanical vulnerabilities are understood and managed.
+The Porsche 991.1 GT3 is a **strong hack candidate** for those who appreciate its analog driving feel and naturally aspirated engine. The main risk remains the potential for engine and PDK transmission issues, which, while largely addressed by recalls and extended warranties, still warrant thorough inspection. The best ownership logic involves diligent pre-purchase inspection, verification of all recall work, and understanding the long-term maintenance costs, especially for options like PCCB. This is a driver's car, provided its specific mechanical vulnerabilities are understood and managed.
 
 ## Car Hacking Shortcuts
 * Years to buy: 2014-2016

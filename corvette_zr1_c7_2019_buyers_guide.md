@@ -69,7 +69,8 @@ The 2019 Corvette ZR1 C7 represents the pinnacle of front-engine Corvette perfor
 | Satin Black Hood Stinger Stripe & Jake Logo | Optional, $500 | |
 | Shark Gray Hood Stinger Stripe | Optional, $500 | |
 | Satin Black Hood Stinger Stripe | Optional, $500 | |
-| 8-Speed Paddle Shift Automatic with Remote Start | Optional, $1,725 | |
+| 7-Speed Manual Transmission | Standard | The standard transmission, offering direct driver engagement. |
+| 8-Speed Paddle Shift Automatic with Remote Start | Optional, $1,725 | Optional automatic transmission for quicker shifts and convenience. |
 | Wheels, ZR1 Carbon Flash Painted Aluminum | Optional, $495 | |
 | Wheels, ZR1 Satin Graphite Painted Aluminum | Optional, $595 | |
 | Wheels, ZR1 Chrome Aluminum | Optional, $1,995 | |
@@ -131,13 +132,8 @@ The 2019 Corvette ZR1 C7 represents the pinnacle of front-engine Corvette perfor
 #### Known Problems
 | Issue | What To Know/Check |
 |---|---|
-| Engine Misfiring/ECM Control Issues | Investigate any rough idling or hesitation; could indicate complex electronic or fuel system issues. |
-| Engine Knock or Ping | Listen for unusual engine noises, especially under load; may point to fuel quality or internal engine problems. |
-| Fuel Leaks | Inspect fuel lines and tank for any signs of leakage or strong fuel odors. |
-| Oil Leaks | Check for oil stains under the vehicle or on engine components, particularly around seals and gaskets. |
 | 8-Speed Automatic Transmission Problems | Test for smooth shifts and listen for clunks or delays; common issue on C7s, can be costly to repair. |
 | Wheel Bending/Cracking | Carefully inspect all wheels for bends, cracks, or curb rash, especially if the car has been tracked or driven on poor roads. |
-| Electrical Failures | Verify all electronic systems, lights, and infotainment work correctly; intermittent issues can be hard to diagnose. |
 | Supercharger-induced Heat Issues | Monitor engine temperatures during extended driving; excessive heat can lead to performance degradation and component wear. |
 | Leather Trim Separating from Dash | Common cosmetic issue on C7s; inspect dashboard for lifting or peeling leather. |
 | TSB: Mobil 1 15W-50 oil required for tracking | Ensure correct oil weight was used if the car was tracked; improper oil can lead to engine wear. |
@@ -146,7 +142,7 @@ The 2019 Corvette ZR1 C7 represents the pinnacle of front-engine Corvette perfor
 #### NHTSA Recalls
 | NHTSA Recall | Campaign | Affected Years | Issue |
 |---|---|---|---|
-| 18V-360 | Hard Braking and Acceleration may Disable Air Bags | 2019 | Under certain conditions, hard braking or acceleration may disable the frontal airbags. |
+| 18V-360 | Hard Braking and Acceleration may Disable Air Bags | 2019 | The Sensing Diagnostic Module (SDM) may enter a fault state during hard braking or acceleration, which could prevent frontal airbag deployment in a crash. |
 
 ### Pricing and Market Forecast
 [Insert dynamic Exotic Car Hacks historical pricing graph here]
@@ -160,6 +156,7 @@ The Corvette ZR1 C7 2019 is a **strong hack candidate** for those seeking extrem
 * Years to buy: 2019
 * Options to look for: ZR1 Track Performance Package (ZTK), ZR1 Premium Equipment Group, Ceramic Brakes Rotors (if track-focused)
 * Preferred colors: Sebring Orange Tintcoat (for unique visual appeal and potential collectibility)
-* PPI focus: Engine health (supercharger, oil leaks, misfires), transmission function, wheel integrity, dashboard leather condition, and verification of proper oil for track use.
+* PPI focus: Supercharger health, transmission function, carbon ceramic brake condition (if equipped), wheel integrity, dashboard leather condition, and verification of proper oil for track use.
 * Known recalls: 18V-360
 * Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.
+

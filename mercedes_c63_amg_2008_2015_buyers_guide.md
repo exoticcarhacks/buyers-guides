@@ -6,36 +6,38 @@ The Mercedes C63 AMG 2008-2015 is a high-performance luxury sedan that offers a 
 
 | Model Year | Version/Body Style | Base MSRP | Key Details | Buyer Takeaway |
 |---|---|---|---|---|
-| 2008 | Sedan | $63,000 | Introduced with a naturally aspirated 6.2-liter V8 (M156), 451 hp, 443 lb-ft of torque, 7-speed AMG SPEEDSHIFT MCT automatic transmission. Equipped with 18-inch AMG wheels, AMG sport suspension, high-performance brakes, AMG-tuned ESP. Interior featured leather and Alcantara sport seats, COMAND infotainment system with navigation. Optional packages included Multimedia Package, Premium Package, Lighting Package. Limited-slip differential was optional. | Solid performance value |
-| 2009 | Sedan | $63,000 | Minor refinements, transmission software tweaks for improved shift response, additional interior trim choices. | Solid performance value |
-| 2010 | Sedan | $57,350 | AMG Performance Package Plus became available globally, increasing power to 481 hp (30 hp boost), and included a carbon fiber spoiler, upgraded brakes with red calipers, and lightweight crankshaft and connecting rods. COMAND infotainment system received a slightly improved interface, updated interior materials, and new color options. | AMG Performance Package Plus available |
+| 2008 | Sedan | $63,225 | Introduced with a naturally aspirated 6.2-liter V8 (M156), 451 hp, 443 lb-ft of torque, 7-speed AMG SPEEDSHIFT MCT automatic transmission. Equipped with 18-inch AMG wheels, AMG sport suspension, high-performance brakes, AMG-tuned ESP. Interior featured leather and Alcantara sport seats, COMAND infotainment system with navigation. Optional packages included Multimedia Package, Premium Package, Lighting Package. Limited-slip differential was optional. | Solid performance value |
+| 2009 | Sedan | $63,225 | Minor refinements, transmission software tweaks for improved shift response, additional interior trim choices. | Solid performance value |
+| 2010 | Sedan | $59,375 | AMG Performance Package Plus (P30) became available, increasing power to 480 hp (487 PS), and included a carbon fiber spoiler, upgraded brakes with red calipers, and lightweight crankshaft and connecting rods. COMAND infotainment system received a slightly improved interface, updated interior materials, and new color options. | AMG Performance Package Plus available |
 | 2011 | Sedan | $58,200 | Largely unchanged as it awaited its facelift. | Solid performance value |
-| 2012 | Sedan/Coupe (Facelift) | $61,175 | Mid-cycle facelift with redesigned front bumper, headlights, and grille, and added LED daytime running lights. Interior received an upgraded COMAND infotainment system, new dashboard layout, and a multi-function steering wheel with aluminum shift paddles. AMG Development Package (P31) introduced, increasing power to 481 hp, adding a carbon-fiber trunk lip spoiler, removing the top speed limiter (174 mph), and including AMG sports suspension tuning and optional 19-inch AMG wheels. C63 AMG Black Series Coupe introduced (510 hp, 457 lb-ft, wide-body, flared fenders, aggressive aerodynamics, AMG coil-over suspension, larger carbon-ceramic brakes, standard limited-slip differential). | Facelifted model, consider AMG Development Package |
-| 2013 | Sedan/Coupe | $59,800 | No significant changes to the standard C63 AMG sedan and coupe. C63 AMG Black Series Coupe continued production, with new optional AMG forged wheels. This was the last year for the naturally aspirated M156 6.2L V8. | Last year for M156 V8, Black Series continued |
+| 2012 | Sedan/Coupe (Facelift) | Sedan: $59,965, Coupe: $62,365 | Mid-cycle facelift with redesigned front bumper, headlights, and grille, and added LED daytime running lights. Interior received an upgraded COMAND infotainment system, new dashboard layout, and a multi-function steering wheel with aluminum shift paddles. AMG Development Package (P31) introduced, increasing power to 480 hp (487 PS), adding a carbon-fiber trunk lip spoiler, removing the top speed limiter (174 mph), and including AMG sports suspension tuning and optional 19-inch AMG wheels. C63 AMG Black Series Coupe introduced (510 hp, 457 lb-ft, wide-body, flared fenders, aggressive aerodynamics, AMG coil-over suspension, larger carbon-ceramic brakes, standard limited-slip differential). | Facelifted model, consider AMG Development Package |
+| 2013 | Sedan/Coupe | Sedan: $60,205, Coupe: $62,705 | No significant changes to the standard C63 AMG sedan and coupe. C63 AMG Black Series Coupe continued production, with new optional AMG forged wheels. The M156 6.2L V8 continued to be used until the end of W204 C63 AMG production in 2015. | Black Series continued, M156 V8 continued |
+| 2014 | Sedan/Coupe | N/A | C63 AMG Edition 507 available (507 hp, 450 lb-ft). | Edition 507 available |
+| 2015 | Sedan/Coupe | N/A | Final year of W204 C63 AMG production. Edition 507 continued. | Final year of W204, Edition 507 continued |
 
 ## Trims and Special Editions
 
 | Version | U.S. Years | Engine/Output | Notes |
 |---|---|---|---|
 | C63 AMG Black Series Coupe | 2012-2013 | 510 hp, 457 lb-ft (M156) | Wide-body, aggressive aero, track-focused, limited production. |
-| C63 AMG Edition 507 | 2014 | 507 hp, 450 lb-ft (M156) | Lighter forged internals, vented hood, increased power. |
-| AMG Performance Package Plus | 2010 | 481 hp (M156) | Increased power, carbon fiber spoiler, upgraded brakes. |
-| AMG Development Package (P31) | 2012 | 481 hp (M156) | Increased power, carbon-fiber trunk lip spoiler, higher top speed. |
+| C63 AMG Edition 507 | 2013-2015 | 507 hp, 450 lb-ft (M156) | Lighter forged internals, vented hood, increased power. |
+| AMG Performance Package Plus (P30) | 2008-2010 | 480 hp (M156) | Increased power, carbon fiber spoiler, upgraded brakes. |
+| AMG Development Package (P31) | 2011-2015 | 480 hp (M156) | Increased power, carbon-fiber trunk lip spoiler, higher top speed. |
 
 ## Factory Options
 
 | Factory Option/Package | Pricing/Status | Notes |
 |---|---|---|
 | Multimedia Package | Optional, $2,950 | Offered in 2008, 2009, 2011, 2014 |
-| Premium Package (P01) | Standard | Offered in 2008 |
-| Premium 2 Package (P02) | Optional, $1,080 | Offered in 2008 |
+| Premium Package (P01) | Optional | Offered in 2008 |
+| Premium 2 Package (P02) | Optional, $1,080 (verify price) | Offered in 2008 |
 | Leather Package (318) | Optional, $2,950 | Offered in 2008, 2010 |
 | iPod Integration Kit | Optional, $375 | Offered in 2008, 2009, 2011 |
 | TeleAid | Optional, $650 | Offered in 2008, 2009 |
 | 6-Disc In-Dash CD Changer | Optional, $450 | Offered in 2008 |
 | Premium Package (P2) | Optional, $1,100 | Offered in 2009 |
 | AMG Leather Package | Optional, $2,980 | Offered in 2009 |
-| Gas Guzzler | Optional, $2,100 | Offered in 2009 |
+| Gas Guzzler Tax | N/A | Federal tax, not an option. Amount varies by year and model. |
 | AMG Performance Package (030) | Optional, $3,990 | Offered in 2009 |
 | AMG Performance Package (P30) | Optional, $4,050 | Offered in 2010 |
 | Multimedia Package (320) | Optional, $2,650 | Offered in 2010 |
@@ -50,8 +52,8 @@ The Mercedes C63 AMG 2008-2015 is a high-performance luxury sedan that offers a 
 | Carbon Fiber Trim | Optional, $2,590 | Offered in 2011 |
 | Mercedes-Benz mbrace with Search and Send | Optional, $660 | Offered in 2011 |
 | Keyless Go | Optional, $1,140 | Offered in 2011 |
-| P01pkg – Premium 1 Package | Standard | Offered in 2012 |
-| 318pkg – Full Leather Seating Package | Standard | Offered in 2012 |
+| P01pkg – Premium 1 Package | Optional | Offered in 2012 |
+| 318pkg – Full Leather Seating Package | Optional | Offered in 2012 |
 | 319pkg – Lighting Package | Optional, $1,180 | Offered in 2012 |
 | 320pkg – Multimedia Package | Optional, $2,790 | Offered in 2012 |
 | P31pkg – AMG Development Package | Optional, $6,050 | Offered in 2012 |
@@ -60,10 +62,10 @@ The Mercedes C63 AMG 2008-2015 is a high-performance luxury sedan that offers a 
 | 293 – Rear Side Airbags | Optional, $420 | Offered in 2012 |
 | 359 – mbrace | Optional, $660 | Offered in 2012 |
 | 471 – Limited Slip Differential | Optional, $2,030 | Offered in 2012 |
-| 518 – iPod/MP3 Media Interface | Standard | Offered in 2012 |
-| 536 – SIRIUS Satellite Radio | Standard | Offered in 2012 |
+| 518 – iPod/MP3 Media Interface | Optional | Offered in 2012 |
+| 536 – SIRIUS Satellite Radio | Optional | Offered in 2012 |
 | 731 – Burl Walnut Wood Trim | No-cost option | Offered in 2012 |
-| 786 – 18” AMG 5-Twin Spoke Alloy Wheel | Optional, $1,040 | Offered in 2012 |
+| 786 – 18” AMG 5-Twin Spoke Alloy Wheel | Optional, $1,040 (verify price) | Offered in 2012 |
 | AMG Development Package | Optional, $6,050 | Offered in 2013 |
 | Panorama Sunroof | Optional, $1,090 | Offered in 2013 |
 | Chrome Door Handle Inserts | Optional, $90 | Offered in 2013 |
@@ -112,10 +114,10 @@ A thorough Pre-Purchase Inspection (PPI) by a qualified independent Mercedes-Ben
 
 | NHTSA Recall | Campaign | Affected Years | Issue |
 |---|---|---|---|
-| 15V-711 | N/A | 2008-2009 | SRS control unit function could be compromised due to corrosion in the semiconductor material, leading to deactivation of SRS components or inadvertent deployment. |
-| 17V-017 | N/A | 2008-2012 | Passenger-side front airbags provided by Takata may have a potential defect in some inflators, which could lead to inflator rupture and cause metal fragments to pass into the vehicle interior at high speed. |
-| 19V-787 | N/A | 2013-2014 | Inaccurate Vehicle Location for Emergency Services (eCall system) due to software fault. |
-| 16V-363 | N/A | 2008-2011 | Passenger-side front airbags (Takata) may have a potential defect in some inflators, which could lead to inflator rupture and cause metal fragments to pass into the vehicle interior at high speed. |
+| 15V-711 | Takata Airbag Inflator | 2008-2009 C-Class | The Takata airbag inflator may rupture, propelling metal fragments into the vehicle interior. |
+| 17V-017 | Takata Airbag Inflator | 2008-2012 C-Class (verify specific VINs) | Passenger-side front airbags provided by Takata may have a potential defect in some inflators, which could lead to inflator rupture and cause metal fragments to pass into the vehicle interior at high speed. |
+| 19V-787 | eCall System | 2013-2014 C-Class (verify specific VINs) | Inaccurate Vehicle Location for Emergency Services (eCall system) due to software fault. |
+| 16V-363 | Takata Airbag Inflator | 2008-2011 C-Class (verify specific VINs) | Passenger-side front airbags (Takata) may have a potential defect in some inflators, which could lead to inflator rupture and cause metal fragments to pass into the vehicle interior at high speed. |
 
 ## Market Data
 
@@ -135,4 +137,3 @@ The Mercedes C63 AMG 2008-2015 is a **strong hack candidate** for enthusiasts se
 * PPI focus: Engine (head bolts, camshaft/lifters), transmission, suspension components, subframe corrosion
 * Known recalls: SRS control unit, Takata airbags, eCall system (verify by VIN)
 * Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.
-

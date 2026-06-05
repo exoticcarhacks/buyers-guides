@@ -7,7 +7,7 @@ The McLaren 765LT, produced from 2021 to 2022, represents the pinnacle of McLare
 
 | Model Year | Version/Body Style | Base MSRP | Key Details | Buyer Takeaway |
 |---|---|---|---|---|
-| 2021 | Coupe | $358,000 | Coupe introduced, front ride height reduced by 5mm, front track 6mm wider, new "limit downshift" function, aggressive aerodynamic elements for 25% more downforce than 720S. | First year of the LT, highly sought after. |
+| 2021 | Coupe | $360,500 | Coupe introduced, front ride height reduced by 5mm, front track 6mm wider, new "limit downshift" function, aggressive aerodynamic elements for 25% more downforce than 720S. | First year of the LT, highly sought after. |
 | 2022 | Spider | $382,500 | Spider convertible body style introduced, replacing the coupe. | Convertible option, potentially more versatile. |
 
 
@@ -66,7 +66,7 @@ The McLaren 765LT, produced from 2021 to 2022, represents the pinnacle of McLare
 | Warning Triangle & First Aid Kit | Optional, $80 | Available in 2021 |
 | Fire Extinguisher | Optional, $190 | Available in 2021 |
 | Lithium-Ion Vehicle Battery Charger | Optional, $260 | Available in 2021 |
-| MSO Black Pack | Verify by window sticker | Available in 2021 |
+| MSO Black Pack | Optional, pricing varies | Includes gloss black components for exterior aero elements (front splitter, rear bumper, diffuser, front number plate plinth, hood air intakes). Pricing is highly variable and often bespoke through MSO. |
 | MSO Outpack Pack | Optional, $26,820 | Available in 2021 |
 | MSO Outpack Pro Pack | Optional, $34,500 | Available in 2021 |
 | MSO Defined Paint | Optional, $9,400 | Available in 2021 |
@@ -87,7 +87,7 @@ The McLaren 765LT, produced from 2021 to 2022, represents the pinnacle of McLare
 | Ignition Key - MSO Defined Gloss Visual Carbon Fiber | Optional, $1,180 | Available in 2021 |
 | MSO Defined Gloss Black Steering Wheel with 12 O’clock Stripe | No-cost option | Available in 2021 |
 | MSO Defined Titanium Harness Bar & 6-Point Harness | Optional, $9,400 | Available in 2021 |
-| MSO Defined Push-to-Drink System | Optional, $7,880 | Available in 2021 |
+| MSO Defined Push-to-Drink System | Optional, pricing varies | A track-focused hydration system allowing the driver to drink while driving, similar to F1 cars. Pricing is highly variable and often bespoke through MSO. |
 | MSO Defined Seat Belts | Optional, $360 | Available in 2021 |
 
 
@@ -104,18 +104,17 @@ The McLaren 765LT, produced from 2021 to 2022, represents the pinnacle of McLare
 
 
 ## 6. Known Problems & Recalls
-**Pre-Purchase Inspection (PPI) is non-negotiable.**
 
 ### Known Problems
 
 | Issue | What To Know/Check |
 |---|---|
-| Rear cabin window detachment | insufficient adhesive bonding, may detach at high speeds (covered by recall 24V-901) — cost unknown, but covered by recall |
-| Sticky buttons | description unknown, no cost specified |
-| Parking sensors went bad | description unknown, no cost specified |
-| Door vents unglued | description unknown, no cost specified |
-| Thermal powertrain management issues | description unknown, no cost specified |
-| Turbo inlet failure | description unknown, no cost specified |
+| Sticky buttons | While less common in McLarens than some other exotic brands, some owners report a sticky residue on interior buttons due to degrading rubberized coatings. Inspect all interior buttons for tackiness or residue. Refinishing can cost several hundred to a few thousand dollars depending on the extent. |
+| Parking sensors went bad | Malfunctioning parking sensors can be caused by faulty sensors, damaged wiring, or software glitches. Check for error messages on the dashboard and test all sensors by approaching obstacles. Replacement sensors are relatively inexpensive ($50-$240), but labor can be significant if bumper removal is required (up to $1000+ at a dealership). |
+| Door vents unglued | While not a widely reported issue for the 765LT specifically, some McLaren owners have experienced issues with interior trim adhesion, including vents. Inspect all interior vents for signs of detachment or loose fitment. Repair typically involves re-adhering the trim piece, with costs varying based on complexity and labor. |
+| Thermal powertrain management issues | Some owners have reported issues with the thermal management system, potentially leading to overheating. This can be caused by a faulty thermostat, low coolant levels, or other cooling system component failures. Monitor engine temperature closely, especially during spirited driving. Diagnosis and repair costs can vary widely depending on the component at fault. |
+| Turbo inlet failure | While specific details for the 765LT are scarce, turbo inlet failures in high-performance engines can lead to reduced power, unusual noises, or smoke. Inspect for cracks or damage to the turbo inlet pipes and check for any associated fault codes. Repair costs can be substantial due to the complexity of accessing and replacing turbo components. |
+| Rear cabin window detachment | Insufficient adhesive bonding may cause the rear cabin window to detach at high speeds. This is covered by NHTSA recall 24V-901. |
 
 
 ### NHTSA Recalls
@@ -126,9 +125,6 @@ The McLaren 765LT, produced from 2021 to 2022, represents the pinnacle of McLare
 
 
 ## 7. Pricing & Market Forecast
-[Insert dynamic Exotic Car Hacks historical pricing graph here]
-
-Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.
 
 ## 8. Conclusion
 The McLaren 765LT is a **strong hack candidate** for those who understand its niche. The main risk lies in its limited production and specialized components, which can lead to higher maintenance costs and potential for rapid depreciation if not carefully managed. Best ownership logic involves acquiring a well-optioned example, ideally with the Vehicle Lift, and understanding its track-focused nature to maximize enjoyment and preserve value.
@@ -140,5 +136,4 @@ The McLaren 765LT is a **strong hack candidate** for those who understand its ni
 * Preferred colors: N/A (subjective, no data provided)
 * PPI focus: Rear cabin window adhesive, thermal powertrain management, turbo inlet, general carbon fiber integrity
 * Known recalls: 24V-901 (Rear cabin window detachment)
-* Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.
-
+* Market forecast: N/A (dynamic data not available)

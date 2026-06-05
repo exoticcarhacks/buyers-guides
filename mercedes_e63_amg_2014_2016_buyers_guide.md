@@ -10,18 +10,17 @@ The Mercedes E63 AMG from 2014-2016, available in both sedan and wagon forms wit
 | 2014       | E63 AMG Sedan      | $92,770   | Major facelift, mechanical overhaul, new "twin blade" grille and "A wing" design. | First year of the updated W212, strong value. |
 | 2014       | E63 AMG S-Model Sedan | $99,770   | Introduction of the "S" model with more power and standard 4MATIC AWD. | "S" model offers enhanced performance and AWD. |
 | 2014       | E63 AMG S-Model Wagon | $103,295  | "S" model wagon introduced. | Rare and highly desirable "S" model wagon. |
-| 2015       | E63 AMG S-Model Sedan | $100,600  | No significant changes. | Carryover year, consistent performance. |
-| 2015       | E63 AMG S-Model Wagon | $103,200  | No significant changes. | Carryover year, consistent performance. |
-| 2016       | E63 AMG Sedan      | $101,700  | New COMAND system with additional features and a new keyboard. | Improved infotainment, last year of this generation. |
-| 2016       | E63 AMG S 4MATIC Sedan | $102,625  | New COMAND system. | Improved infotainment, last year of this generation. |
+| 2015       | E63 AMG S-Model Sedan | $100,600  | From 2014 onwards, all U.S. E63 AMG models were 4MATIC, with the S-Model being the primary offering. | Carryover year, consistent performance, non-S models were rare or unavailable in the U.S. |
+| 2015       | E63 AMG S-Model Wagon | $103,200  | From 2014 onwards, all U.S. E63 AMG models were 4MATIC, with the S-Model being the primary offering. | Carryover year, consistent performance, non-S models were rare or unavailable in the U.S. |
+| 2016       | E63 AMG S 4MATIC Sedan | $102,625  | New COMAND system with additional features and a new keyboard. | Improved infotainment, last year of this generation. |
 | 2016       | E63 AMG S Wagon    | $104,300  | New COMAND system. | Improved infotainment, last year of this generation. |
 
 ## Trims and Special Editions
 
 | Version | U.S. Years | Engine/Output | Notes |
 |:--------|:-----------|:--------------|:------|
-| E63 AMG | 2014-2016  | 5.5L Biturbo V8 (M157) | Standard model, high performance. |
-| E63 AMG S | 2014-2016  | 5.5L Biturbo V8 (M157) | Increased power output, standard 4MATIC all-wheel drive. |
+| E63 AMG | 2014       | 5.5L Biturbo V8 (M157) | Standard model, high performance. All U.S. models were 4MATIC from 2014. |
+| E63 AMG S | 2014-2016  | 5.5L Biturbo V8 (M157) | Increased power output, standard 4MATIC all-wheel drive. Primary offering in the U.S. from 2014. |
 
 ## Comprehensive Factory Options
 
@@ -59,16 +58,16 @@ Always get a thorough Pre-Purchase Inspection (PPI) from a reputable independent
 
 | Issue | What To Know/Check |
 |:------|:-------------------|
-| Timing chain issues (M157 engine) | Some early versions of the M157 engine experienced timing chain issues. Listen for abnormal engine noises, especially at startup. |
-| Rough shifting transmission | Vehicles with 7-speed automatic transmission may develop rough shifting, especially between 1st and 2nd gear. Test drive thoroughly, paying attention to gear changes. |
-| Worn suspension bushes | At high mileage, various suspension bushes may need replacement. Check for clunking noises over bumps or loose steering feel. |
-| Electrical niggles | Issues with windows in cold weather. Test all electrical components, especially windows. |
+| Timing chain issues (M157 engine) | Some early versions of the M157 engine experienced timing chain issues, specifically wear on the timing chain tensioners and guides. Listen for abnormal engine noises, especially a rattling sound at startup that persists. A comprehensive PPI should include inspection of timing chain components. |
+| Rough shifting transmission | Vehicles with 7-speed automatic transmission (AMG SPEEDSHIFT MCT 7-speed) may develop rough shifting, especially between 1st and 2nd gear. Test drive thoroughly, paying attention to gear changes and any hesitation or harshness. |
+| Worn suspension bushes | At high mileage, various suspension bushes may need replacement. Check for clunking noises over bumps, excessive play in the steering, or a loose feeling in the suspension. |
+| Electrical niggles | Issues with windows in cold weather. Test all electrical components, especially windows, power seats, and infotainment system. |
 | Oil Pump Solenoid | Replacement is a 5/5 difficulty job, labor costs between $1,700-$3,500+. Total replacement cost can be $2,204 - $2,953. Some quotes as high as $24,000 for repair. Check for warning lights or abnormal oil pressure readings. |
-| Oil in Wire Harnesses | Oil can wick through wiring harnesses, leading to electrical issues and potential ECU damage. Inspect wiring harnesses for oil saturation, especially near sensors. |
-| Cylinder Scuffing | Known concern, likely very expensive to repair. A comprehensive PPI should include a cylinder leak-down test or bore scope inspection if possible. |
-| Rear subframe corrosion | Reported on W212 platform. Inspect the rear subframe for rust and structural integrity. |
-| Radiator damage from debris | Lawsuit filed alleging front bumper covers and air inlets allow rocks to damage radiators. Inspect the radiator for damage. |
-| Exhaust Valve Assembly | TSB Number: CL-EXHAUST VALVE ASSEMBLY; NHTSA Number: 11031736; TSB Date: September 6, 2023. Check service records for this TSB. |
+| Oil in Wire Harnesses | Oil can wick through wiring harnesses, leading to electrical issues and potential ECU damage. Inspect wiring harnesses for oil saturation, especially near sensors like the camshaft position sensor. |
+| Cylinder Scuffing | Known concern, likely very expensive to repair. A comprehensive PPI should include a cylinder leak-down test or bore scope inspection if possible, especially if there are signs of excessive oil consumption or misfires. |
+| Rear subframe corrosion | Reported on W212 platform. Inspect the rear subframe for rust and structural integrity, particularly in regions where road salt is used. |
+| Radiator damage from debris | Lawsuit filed alleging front bumper covers and air inlets allow rocks to damage radiators. Inspect the radiator for damage, especially bent fins or punctures. |
+| Exhaust Valve System Extended Warranty | Mercedes-Benz USA, LLC issued a News Channel Update (March 10, 2023) extending the warranty for the exhaust valve system on certain MY2011-2016 vehicles, including the E-Class. This addresses potential wear in valve guides/seat rings leading to combustion misfires and check engine light activation. Check service records and Mercedes-Benz VMI for coverage. |
 
 ### NHTSA Recalls
 
@@ -78,6 +77,13 @@ Always get a thorough Pre-Purchase Inspection (PPI) from a reputable independent
 | 17V-627      | 2014-2016 | Driver's Frontal Air Bag Unexpectedly Deploys |
 | 15V-088      | 2014-2016 | Rubber Seal Under Hood Detaches And Causes Fire Hazard |
 
+## Performance Figures (U.S. Models)
+
+| Model | 0-60 mph | Top Speed |
+|:------|:---------|:----------|
+| E63 AMG (2014) | 3.5 seconds | 155 mph (electronically limited) |
+| E63 AMG S (2014-2016) | 3.4 seconds | 186 mph (electronically limited) |
+
 ## Market Analysis
 
 [Insert dynamic Exotic Car Hacks historical pricing graph here]
@@ -86,14 +92,13 @@ Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pri
 
 ## Conclusion
 
-The Mercedes E63 AMG 2014-2016 is a **strong hack candidate**. Its combination of brutal performance, luxurious appointments, and significant depreciation makes it an attractive proposition for those seeking high-end motoring value. The main risk, however, is the potential for high-cost repairs associated with its complex engineering and specific known issues. The best ownership logic involves acquiring a well-maintained 
-example, with a comprehensive PPI and a reserve for potential maintenance. 
+The Mercedes E63 AMG 2014-2016 is a **strong hack candidate**. Its combination of brutal performance, luxurious appointments, and significant depreciation makes it an attractive proposition for those seeking high-end motoring value. The main risk, however, is the potential for high-cost repairs associated with its complex engineering and specific known issues. The best ownership logic involves acquiring a well-maintained example, with a comprehensive PPI and a reserve for potential maintenance. 
 
 ## Car Hacking Shortcuts
 
 * Years to buy: 2014-2016
 * Options to look for: E63 AMG S Model, Driver Assistance Package
 * Preferred colors: (not supported by data)
-* PPI focus: Engine (timing chain, oil pump solenoid, cylinder scuffing), transmission, suspension, electrical, subframe corrosion, radiator damage.
+* PPI focus: Engine (timing chain, oil pump solenoid, cylinder scuffing), transmission, suspension, electrical, subframe corrosion, radiator damage, exhaust valve system.
 * Known recalls: 19V-787, 17V-627, 15V-088
 * Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.

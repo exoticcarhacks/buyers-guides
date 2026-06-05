@@ -8,9 +8,9 @@ The Aston Martin DBS (2009–2012) is the quintessential modern classic V12 gran
 
 | Model Year | Version / Body Style | Base MSRP | Key Details | Buyer Takeaway |
 |---|---|---|---|---|
-| 2009 | Coupe / Volante | $269,000 (Coupe) / $286,500 (Volante) | Introduction of Touchtronic 2 six-speed automatic transmission as an option. Adaptive Damping System (ADS) becomes standard. Volante (convertible) introduced. | The first year of broader availability and the Volante. Manual transmission cars are the most desirable. |
-| 2010 | Coupe / Volante | $269,000 (Coupe) / $286,500 (Volante) | Garmin-based satellite navigation replaces the terrible older unit. Upgraded Bang & Olufsen stereo. Rear parking camera option added. | The 2010+ infotainment update makes these cars significantly more livable. |
-| 2011 | Coupe / Volante | $271,660 (Coupe) / $286,500 (Volante) | Minor cabin trim updates, revised wheel designs, carbon fiber mirror caps added as options. "Quantum Silver" paint option introduced. | Minor refinements; buy based on condition and spec rather than year. |
+| 2009 | Coupe | $269,000 (Coupe) | Introduction of Touchtronic 2 six-speed automatic transmission as an option. Adaptive Damping System (ADS) becomes standard. | The first year of broader availability. Manual transmission cars are the most desirable. |
+| 2010 | Coupe / Volante | $269,000 (Coupe) / $286,500 (Volante) | Introduction of Volante (convertible). Garmin-based satellite navigation replaces the terrible older unit. Upgraded Bang & Olufsen stereo. Rear parking camera option added. | The 2010+ infotainment update makes these cars significantly more livable. |
+| 2011 | Coupe / Volante | $271,660 (Coupe) / $295,576 (Volante) | Minor cabin trim updates, revised wheel designs, carbon fiber mirror caps added as options. "Quantum Silver" paint option introduced. | Minor refinements; buy based on condition and spec rather than year. |
 | 2012 | Coupe / Volante | $280,576 (Coupe) / $295,576 (Volante) | Final year. Introduction of Carbon Edition and Ultimate Edition limited models. | The ultimate collector years, especially the Ultimate Edition. |
 
 ## 3. Trim Levels / Special Editions
@@ -30,14 +30,14 @@ The Aston Martin DBS (2009–2012) is the quintessential modern classic V12 gran
 | Carbon Fiber Gear Shift Paddles | N/A (2010+) | For Touchtronic models. |
 | Glass Key Fob ("Emotional Control Unit") | N/A (2010+) | A signature Aston Martin feature. |
 | 2+2 Rear Seating | N/A | Replaces the rear parcel shelf with small jump seats. |
-| Bang & Olufsen Audio | N/A | Became standard/upgraded in later years. |
+| Bang & Olufsen Audio | Standard (2010+) | Became standard equipment in later model years (e.g., 2010+). Not always an option. |
 
 ## 5. Must-Have Factory Options / Packages
 
 | Priority | Factory Option / Package | Why It Matters |
 |---|---|---|
 | Must Have | 6-Speed Manual Transmission | The manual DBS is a unicorn. It transforms the driving experience and commands a massive premium on the resale market compared to the sluggish Touchtronic 2 automatic. |
-| Must Have | Bang & Olufsen Audio | The signature pop-up tweeters and sound quality are essential for the grand touring experience. |
+| Strongly Preferred | Bang & Olufsen Audio | The signature pop-up tweeters and sound quality are essential for the grand touring experience. Became standard in 2010+. |
 | Strongly Preferred | 2+2 Seating | While the rear seats are tiny, having them broadens the resale market to buyers with small children. |
 
 ## 6. Common Problems / Recalls
@@ -60,7 +60,7 @@ PPI reminder: Use an Aston Martin specialist. Focus on the V12 engine health, pr
 | NHTSA Recall | Campaign | Affected Years | Issue |
 |---|---|---|---|
 | 17V-796 | Transmission Park Pawl | 2009–2012 | A communication error between the ECM and TCM can cause the automatic transmission park pawl to not engage, leading to a roll-away risk. |
-| 17V-795 | Battery Supply Cable | 2005–2009 | The battery supply cable may become damaged when the driver seat is moved fully rearward, increasing fire risk. |
+| 17V-795 | Battery Supply Cable | 2009-2016 DB9, 2009-2012 DBS, 2010-2015 Rapide, 2012 Virage, 2014 Vanquish | The battery supply cable may become damaged when the driver seat is moved fully rearward, increasing fire risk. |
 
 ## 7. Market Analysis and Future Forecast
 
@@ -70,7 +70,7 @@ Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pri
 
 ## 8. Conclusion
 
-The Aston Martin DBS is a stunning, analog V12 supercar that has bottomed out on its depreciation curve. Manual transmission coupes are the holy grail and will likely appreciate as collector items. The Touchtronic automatics are cheaper to buy but harder to sell. The primary mechanical risk is V12 engine destruction from catalytic converter ingestion, making a meticulous PPI and exhaust inspection mandatory. Avoid rusty subframes and damaged carbon ceramic brakes.
+The Aston Martin DBS is a stunning, analog V12 supercar that has bottomed out on its depreciation curve. Manual transmission coupes are the holy grail and will likely appreciate as collector items, commanding a significant premium due to their rarity and engaging driving experience. The Touchtronic automatics are cheaper to buy but harder to sell. The primary mechanical risk is V12 engine destruction from catalytic converter ingestion, making a meticulous PPI and exhaust inspection mandatory. Avoid rusty subframes and damaged carbon ceramic brakes.
 
 ## 9. Car Hacking Shortcuts
 
@@ -80,3 +80,4 @@ The Aston Martin DBS is a stunning, analog V12 supercar that has bottomed out on
 * PPI focus: Primary catalytic converters (risk of engine ingestion), carbon ceramic rotor condition, rear subframe rust
 * Known recalls: 17V-796 (Park Pawl), 17V-795 (Battery Cable)
 * Market forecast: [dynamic Exotic Car Hacks forecast or supported 12-month range]
+

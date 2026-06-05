@@ -2,19 +2,19 @@
 
 ## 1. Introduction
 
-The Lamborghini Huracan, introduced as the formidable successor to the iconic Gallardo, has cemented its place as a quintessential modern supercar. Spanning model years 2016 through 2024 in the U.S. market, the Huracan lineup has continuously evolved, offering a diverse range of variants including the EVO, RWD, and Spyder models. This guide delves into the nuances of owning a Huracan, covering everything from model year changes and trim levels to essential factory options, common issues, and market insights, all designed to equip the discerning Exotic Car Hacks enthusiast with the knowledge needed to make an informed purchase.
+The Lamborghini Huracan, introduced as the formidable successor to the iconic Gallardo, has cemented its place as a quintessential modern supercar. Spanning model years 2015 through 2024 in the U.S. market, the Huracan lineup has continuously evolved, offering a diverse range of variants including the EVO, RWD, and Spyder models. This guide delves into the nuances of owning a Huracan, covering everything from model year changes and trim levels to essential factory options, common issues, and market insights, all designed to equip the discerning Exotic Car Hacks enthusiast with the knowledge needed to make an informed purchase.
 
 ## 2. Changes by Model Year
 
 The Huracan has seen a dynamic evolution throughout its production run, with Lamborghini consistently introducing enhancements and new variants:
 
-*   **2016:** The Huracan Spyder debuted, offering an open-top driving experience. Interior refinements included upgraded materials and expanded customization via the Ad Personam program. New features such as the Sensonum audio system, sport exhaust, LED engine compartment lighting, and cruise control became available.
-*   **2017:** The rear-wheel-drive (RWD) LP 580-2 variant was introduced, providing a purer driving experience with a slightly detuned 580hp engine. This year also brought a cylinder deactivation system for improved efficiency and subtle aerodynamic changes. The Techno Package, bundling parking sensors, rearview camera, Bluetooth, and a lifting system, was made available.
-*   **2018:** The track-focused Huracan Performante LP640-4 was launched, boasting a more powerful 631 hp engine, active aerodynamics (ALA system), upgraded suspension, and enhanced braking. It extensively utilized forged carbon material. Apple CarPlay support and a higher-resolution rearview camera were introduced for other Huracan models.
+*   **2016:** The Huracan Spyder (LP 610-4 Spyder) and the LP 580-2 RWD variant debuted, offering an open-top driving experience and a purer driving experience respectively. Interior refinements included upgraded materials and expanded customization via the Ad Personam program. New features such as the Sensonum audio system, sport exhaust, LED engine compartment lighting, and cruise control became available.
+*   **2017:** This year brought a cylinder deactivation system for improved efficiency and subtle aerodynamic changes. The Techno Package, bundling parking sensors, rearview camera, Bluetooth, and a lifting system, was made available.
+*   **2018:** The track-focused Huracan Performante LP640-4 was launched, boasting a 631 hp and 443 lb-ft of torque engine, active aerodynamics (ALA system), upgraded suspension, and enhanced braking. It achieved a 0-60 mph time of 2.4-2.9 seconds and a top speed of 205 mph. It extensively utilized forged carbon material. Apple CarPlay support and a higher-resolution rearview camera were introduced for other Huracan models.
 *   **2019:** The Performante Spyder combined the Performante's performance with an open-top design. This year also marked the debut of the Huracan EVO, a significant mid-life update for both coupe and spyder. The EVO retained the Performante's 631hp engine and introduced four-wheel steering, an updated exterior design, and an 8.4-inch touchscreen infotainment system.
-*   **2020:** The Huracan EVO RWD was launched in coupe and spyder forms, featuring a 610hp engine and a recalibrated Performance Traction Control System (P-TCS) for a more engaging RWD experience. Exterior styling was subtly differentiated from the AWD EVO. Lifestyle and Driver packages were introduced.
-*   **2021:** The extreme Huracan STO (Super Trofeo Omologata) was introduced, a road-legal version of Lamborghini's GT3 racing car. It featured increased power (631hp), significant weight reduction, aggressive aerodynamics, and specialized driving modes (STO, Trofeo, Pioggia).
-*   **2022:** The Huracan Tecnica was introduced, positioned as a blend of the STO's agility and the EVO's comfort, with updated aerodynamics and infotainment. It also featured a 631hp engine.
+*   **2020:** The Huracan EVO RWD was launched in coupe and spyder forms, featuring a 602 hp engine and a recalibrated Performance Traction Control System (P-TCS) for a more engaging RWD experience. Exterior styling was subtly differentiated from the AWD EVO. Lifestyle and Driver packages were introduced.
+*   **2021:** The extreme Huracan STO (Super Trofeo Omologata) was introduced, a road-legal version of Lamborghini's GT3 racing car. It featured increased power (631 hp and 417 lb-ft of torque), significant weight reduction, aggressive aerodynamics, and specialized driving modes (STO, Trofeo, Pioggia). It achieved a 0-60 mph time of 2.8-3.0 seconds and a top speed of 199 mph.
+*   **2023:** The Huracan Tecnica was introduced, positioned as a blend of the STO's agility and the EVO's comfort, with updated aerodynamics and infotainment. It also featured a 631 hp and 417 lb-ft of torque engine, with a 0-60 mph time of 2.8 seconds.
 *   **2023:** The unique Huracan Sterrato was launched, an off-road variant with raised suspension, protective cladding, and a specially tuned LDVI (Lamborghini Dinamica Veicolo Integrata) system for off-pavement driving. It produced 602hp.
 *   **2024:** The Huracan STJ, a limited edition (10 units) model, was introduced as a final celebration of the V10 Huracan, featuring unique aero and chassis tuning. Other models like the Tecnica, Sterrato, EVO Spyder, and STO were carried over.
 
@@ -22,7 +22,7 @@ The Huracan has seen a dynamic evolution throughout its production run, with Lam
 
 The Lamborghini Huracan has been offered in a variety of trim levels and special editions, each catering to different performance and exclusivity desires:
 
-*   **LP610-4:** The original all-wheel-drive coupe (2014-2019).
+*   **LP610-4:** The original all-wheel-drive coupe (2015-2019).
 *   **LP580-2:** The rear-wheel-drive variant, offering a more purist driving experience (2016-2019).
 *   **Spyder:** Convertible versions available across various trims, including LP610-4, LP580-2, Performante, and EVO.
 *   **Performante LP640-4:** A track-focused, higher-performance variant with active aerodynamics (2017-2019).
@@ -96,7 +96,7 @@ Lamborghini provides extensive customization options for the Huracan, allowing b
 For any Lamborghini Huracan, certain factory options significantly enhance the ownership experience, driving dynamics, and potential resale value. While personal preference plays a role, the following are often considered must-haves for Exotic Car Hacks enthusiasts:
 
 *   **Front Lift System:** Given the Huracan's low ground clearance, this is arguably the most crucial option. It allows the front of the car to be raised to clear speed bumps, steep driveways, and other obstacles, preventing costly undercarriage damage. This system is a necessity for daily usability and preserving the vehicle's condition.
-*   **Carbon Ceramic Brakes (CCB):** While standard brakes are competent, CCBs offer superior stopping power, reduced brake fade during spirited driving or track use, and significantly longer pad and rotor life. They are a highly desirable performance upgrade and contribute to the car's overall value.
+*   **Carbon Ceramic Brakes (CCB):** While standard brakes are competent, CCBs offer superior stopping power, reduced brake fade during spirited driving or track use, and significantly longer pad and rotor life. It's important to note that CCBs were standard equipment on LP610-4 models but optional on LP580-2 models. They are a highly desirable performance upgrade and contribute to the car's overall value.
 *   **Magneto-rheological Suspension (MRS):** Often bundled with the lifting system, MRS provides adaptive damping, allowing the suspension to adjust in real-time to road conditions and driving modes. This enhances both ride comfort and handling dynamics, making the car more versatile.
 *   **Transparent Engine Bonnet:** This aesthetic option showcases the Huracan's magnificent V10 engine, a centerpiece of its engineering and design. It adds visual drama and is highly sought after by enthusiasts.
 *   **Sport Exhaust System:** While the Huracan's V10 sounds incredible from the factory, the optional sport exhaust amplifies its symphony, providing a more visceral and engaging auditory experience.
@@ -113,12 +113,10 @@ Several NHTSA (National Highway Traffic Safety Administration) recall campaigns 
 
 | Year | Model | Recalls | NHTSA Recall IDs |
 |---|---|---|---|
-| 2016 | Lamborghini Huracan | 2 | 23V826000, 22V081000 |
-| 2017 | Lamborghini Huracan | 2 | 23V826000, 22V081000 |
-| 2018 | Lamborghini Huracan | 3 | 23V826000, 22V081000, 21V466000 |
-| 2019 | Lamborghini Huracan | 3 | 23V826000, 22V081000, 21V466000 |
-| 2020 | Lamborghini Huracan | 4 | 23V826000, 22V220000, 22V081000, 21V466000 |
-| 2021 | Lamborghini Huracan | 3 | 23V826000, 22V220000, 21V466000 |
+| 2015-2024 | Lamborghini Huracan | - | 23V826000 |
+| 2020-2022 | Huracan EVO / 2022 STO | - | 22V220000 |
+| 2015-2020 | Lamborghini Huracan | - | 22V081000 |
+| 2018-2021 | Lamborghini Huracan | - | 21V466000 |
 | 2024 | Huracan EVO Spyder | 1 | 24V701 |
 
 **Detailed Recall Information:**
@@ -127,13 +125,13 @@ Several NHTSA (National Highway Traffic Safety Administration) recall campaigns 
     *   **Issue:** A right front frame bracket may have been installed on the wrong side of the vehicle. In the event of a crash, an incorrectly installed frame bracket may not provide adequate protection to an unbelted passenger, increasing the risk of injury.
     *   **Remedy:** Affected vehicles will be inspected, and if necessary, the wrongly installed bracket will be removed and reassembled on the correct side, free of charge. The operation is estimated to take approximately 2 hours.
 
-*   **NHTSA CAMPAIGN NUMBER: 23V826000 (Affects 2016-2021 Huracan models)**
+*   **NHTSA CAMPAIGN NUMBER: 23V826000 (Affects 2015-2024 Huracan models)**
     *   **Issue:** Incorrectly Adjusted Headlights/FMVSS 108. Incorrectly adjusted headlights can reduce the visibility of oncoming traffic, increasing the risk of a crash.
 
-*   **NHTPA CAMPAIGN NUMBER: 22V220000 (Affects 2020-2021 Huracan models)**
+*   **NHTSA CAMPAIGN NUMBER: 22V220000 (Affects 2020-2022 Huracan EVO and 2022 Huracan STO models)**
     *   **Issue:** Insufficient Transmission Oil in Gearbox. Clutch slippage can cause a loss of drive power and increase the risk of a crash. A transmission oil leak in the presence of hot exhaust components can increase the risk of fire.
 
-*   **NHTSA CAMPAIGN NUMBER: 22V081000 (Affects 2016-2020 Huracan models)**
+*   **NHTSA CAMPAIGN NUMBER: 22V081000 (Affects 2015-2020 Huracan models)**
     *   **Issue:** Headlight Adjustment Screw Missing Cover/FMVSS 108. Improperly adjusted headlights can reduce visibility, increasing the risk of a crash.
 
 *   **NHTSA CAMPAIGN NUMBER: 21V466000 (Affects 2018-2021 Huracan models)**
@@ -149,13 +147,13 @@ While the Lamborghini Huracan is generally considered a reliable supercar, certa
 
 **General Lamborghini Problems (Potentially Applicable to Huracan):**
 
-*   **Battery Problems:** Common issues include dead batteries, corroded terminals, or faulty electrical components.
-*   **Suspension Problems:** Can occur due to low ground clearance and wear from aggressive driving or rough road conditions.
-*   **Electrical System Failures:** General electrical gremlins can affect various components.
-*   **Transmission Errors:** May stem from hydraulic actuator leaks or gear-shifting malfunctions.
-*   **Faulty Brakes:** Issues with software alerts for worn brake discs or general wear on high-performance braking systems.
-*   **Unstable Engine Performance:** Can be caused by faulty sensors, dirty filters, or ignition system problems.
-*   **Exhaust System Malfunctions:** General issues related to the exhaust system.
+*   **Battery Problems:** Owners have reported rapid battery drain when the vehicle is parked for extended periods, often necessitating a trickle charger. Issues can also include corroded terminals or premature failure of the factory battery.
+*   **Suspension Problems:** Due to the Huracan's low ground clearance and high-performance nature, owners may encounter issues such as squeaky noises from bushings, sudden clunking sounds over bumps, or premature wear of adaptive dampers (Magneto-rheological Suspension). Regular inspection of suspension components, especially after spirited driving or encountering rough roads, is recommended.
+*   **Electrical System Failures:** While less common, some owners have reported general electrical gremlins, including faulty sensors leading to warning lights, malfunctioning digital dashboards, or issues with the infotainment system (e.g., freezing, unresponsive touchscreens). Inspection should include checking all electronic functions and scanning for fault codes.
+*   **Transmission Errors:** The Huracan's dual-clutch transmission (LDF - Lamborghini Doppia Frizione) is generally robust, but potential issues can include hydraulic actuator leaks, leading to slow or rough gear changes, or in rare cases, complete gear-shifting malfunctions. Any hesitation or unusual noises during shifts warrant further investigation.
+*   **Faulty Brakes:** While the Huracan's braking system is high-performance, owners might encounter software alerts for worn brake discs or pads, especially with carbon-ceramic brakes. Premature wear can occur with aggressive driving or track use, leading to increased stopping distances or unusual noises. Always inspect brake components for wear and tear.
+*   **Unstable Engine Performance:** While the V10 engine is a highlight, some owners have reported instances of unstable engine performance, often manifesting as rough idling, misfires, or reduced power. Common culprits can include faulty oxygen sensors, clogged fuel injectors, dirty air filters, or issues with the ignition system (spark plugs, coils). A diagnostic scan can help pinpoint the exact cause.
+
 
 **Technical Service Bulletins (TSBs):**
 
@@ -167,9 +165,9 @@ Research indicates no widespread class-action lawsuits specifically targeting me
 
 ## 7. Market Analysis & Forecast
 
-[Insert dynamic Exotic Car Hacks historical pricing graph here]
 
-Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.
+
+
 
 ## 8. Conclusion
 
@@ -191,3 +189,5 @@ Ultimately, the "best" Huracan is the one that aligns with your specific driving
 *   **Track Day Usage:** If the car has been tracked, look for signs of excessive wear on brakes, tires, and clutch (if applicable). A track-focused car like the Performante or STO might have more wear and tear, but also potentially more robust maintenance.
 *   **Insurance Costs:** Obtain insurance quotes before purchasing, as exotic car insurance can be substantial and vary widely based on location, driving record, and agreed value.
 *   **Long-Term Storage:** If the car will be stored for extended periods, consider a trickle charger to maintain battery health, as battery issues are common in exotics.
+
+

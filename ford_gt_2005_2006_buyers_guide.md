@@ -12,12 +12,12 @@ Despite being produced for only two years, there were subtle differences and ref
 *   **Debut Year:** The 2005 model marked the reintroduction of the Ford GT, celebrating the company's centennial anniversary [3].
 *   **Production Numbers:** A total of 2,022 units were built for the 2005 model year [3].
 *   **Initial Color Options:** Available in Mark IV Red, Midnight Blue, Centennial White, and Quick Silver, all typically paired with white racing stripes [3].
-*   **Early Production Issues:** Some early 2005 models were subject to a recall concerning potential failure of the suspension control arms [3].
+*   **Early Production Issues:** While there were reports of suspension control arm issues, the NHTSA recall 06V462000 was for 'Incorrect Park Position Assembly' and not directly for suspension control arms. However, Ford did implement stronger suspension components in 2006 models based on feedback.
 
 **2006 Ford GT:**
 *   **Final Production Year:** The 2006 model year concluded the production run for the first-generation Ford GT, with 2,011 units manufactured, making it slightly rarer than the 2005 model [3].
 *   **New Color Options:** Introduced new exterior colors, including Tungsten Grey Metallic with white stripes and the highly iconic Heritage Blue with Epic Orange Gulf Livery, which paid tribute to the Le Mans-winning GT40s. The original four colors from 2005 remained available [3].
-*   **Refinements and Improvements:** Ford implemented subtle refinements based on feedback from early 2005 production. Notably, stronger suspension components were installed to address the control arm issues identified in the previous year [3].
+*   **Refinements and Improvements:** Ford implemented subtle refinements based on feedback from early 2005 production, including stronger suspension components.
 
 ## 3. Trim Levels / Special Editions
 
@@ -45,15 +45,15 @@ For collectors and enthusiasts, certain factory options significantly enhance th
 Potential buyers should be aware of several safety recalls and common mechanical issues associated with the 2005-2006 Ford GT. It is crucial to ensure all recalls have been addressed.
 
 **NHTSA Recall Campaign Numbers:**
-*   **05V378000:** Airbag inflator issue (Takata) [3]
-*   **05V379000:** Airbag inflator issue (Takata) [3]
-*   **06V462000:** Airbag inflator issue (Takata) [3]
-*   **07V010000:** Airbag inflator issue (Takata) [3]
-*   **07V011000:** Airbag inflator issue (Takata) [3]
-*   **07V012000:** Airbag inflator issue (Takata) [3]
+*   **05V378000:** Fuel Return Hose
+*   **05V379000:** Unwanted ABS Activation
+*   **06V462000:** Incorrect Park Position Assembly
+*   **07V010000:** Tow Hitch Failure
+*   **07V011000:** Fuel Tanks
+
 
 **Common Mechanical Issues:**
-*   **Suspension Control Arms:** Early 2005 models were subject to a recall concerning potential failure of the suspension control arms. The 2006 models received stronger components to address this [3]. Buyers should verify that any 2005 model has had this recall remedied.
+*   **Suspension Control Arms:** While there were reports of suspension control arm issues in early 2005 models, it was not a formal NHTSA recall. Ford did, however, implement stronger suspension components in 2006 models based on feedback. Buyers should still verify the condition of these components in any 2005 model.
 *   **Airbag Inflators:** Multiple recalls related to Takata airbag inflators affect both model years. Verification of these repairs is paramount for safety.
 *   **Clutch Issues:** Some owners have reported premature clutch wear, especially in cars driven aggressively. A thorough inspection of the clutch and transmission is advisable.
 *   **Fuel Pump Issues:** While less common, some instances of fuel pump failures have been noted, which can lead to drivability problems.

@@ -6,9 +6,9 @@ The Ferrari 458 Speciale, a track-focused evolution of the already potent 458 It
 
 | Model Year | Version/Body Style | Base MSRP | Key Details | Buyer Takeaway |
 |---|---|---|---|---|
-| 2014 | Speciale Coupe | $288,000 | Unveiled as high-performance 458 Italia variant; forged wheels, active aero, 597 hp, 398 lb-ft, SSC, quicker F1 shifts. | First year of a legendary naturally aspirated Ferrari. |
-| 2015 | Speciale Coupe | $291,744 | Continued production of the coupe. | Last year for the coupe, potentially more refined. |
-| 2015 | Speciale A (Aperta) | $318,060 | Speciale A (Aperta) introduced, convertible, 499 examples, shares engine/performance with coupe. | Highly collectible, limited production convertible. |
+| 2014 | Speciale Coupe | $298,000 | Unveiled as high-performance 458 Italia variant; forged wheels, active aero, 597 hp, 398 lb-ft, SSC, quicker F1 shifts. 0-60 mph in 2.8-2.9 seconds, top speed 202 mph. | First year of a legendary naturally aspirated Ferrari. |
+| 2015 | Speciale Coupe | $295,494 | Continued production of the coupe. Some late production models may be titled as 2016 in the U.S. | Last year for the coupe, potentially more refined. |
+| 2015 | Speciale A (Aperta) | ~$400,000+ | Speciale A (Aperta) introduced, convertible, 499 examples, shares engine/performance with coupe. Some late production models may be titled as 2016 in the U.S. | Highly collectible, limited production convertible. |
 
 ## Trims and Special Editions
 
@@ -58,11 +58,8 @@ The Ferrari 458 Speciale, a track-focused evolution of the already potent 458 It
 
 | Issue | What To Know/Check |
 |---|---|
-| Brake system leak | Loss of braking ability due to brake fluid leak. Cost: (Likely covered by recall, but potential repair costs if not addressed or out of warranty could be significant for brake system components) |
-| Clutch issues | Often related to electronics, requiring resetting or repair. Cost: Significant, as clutch replacement in a Ferrari is expensive. |
-| Engine blows/electronics issues | Reported mainly during track use. Cost: Extremely high, engine replacement or major repair. |
-| Camshaft wear | Reported in high-mileage 458s. Cost: High, as it involves engine internals. |
-| Faulty fuel senders | Reported in high-mileage 458s. Cost: Moderate to high, depending on accessibility and parts. |
+| Brake system leak (NHTSA Recall 21V-833) | Loss of braking ability due to brake fluid leak from the brake fluid reservoir cap. Cost: (Likely covered by recall, but potential repair costs if not addressed or out of warranty could be significant for brake system components) |
+
 
 ### NHTSA Recalls
 
@@ -85,6 +82,9 @@ The Ferrari 458 Speciale is a **strong hack candidate**. Its main risk is the po
 * Years to buy: 2014-2015 (Speciale Coupe), 2015 (Speciale A Aperta)
 * Options to look for: Carbon Fiber Racing Seats, Titanium Sports Exhaust Pipes, Scuderia Ferrari Shields
 * Preferred colors: Rosso Corsa, Nero (Standard options, often command strong resale)
-* PPI focus: Brake system integrity, clutch wear, engine electronics, evidence of track use, structural checks (e.g., cracked floor). 
-* Known recalls: NHTSA Recall 21V-833 (Brake system leak)
-* Market forecast: Strong appreciation potential for well-maintained, low-mileage examples, especially the Aperta. 
+* PPI focus: Brake system integrity, evidence of track use, structural checks (e.g., cracked floor). 
+* Known recalls: NHTSA Recall 21V-833 (Brake system leak from brake fluid reservoir cap)
+* Market forecast: Appreciation potential for well-maintained, low-mileage examples, especially the Aperta, though prices have fluctuated. 
+
+
+

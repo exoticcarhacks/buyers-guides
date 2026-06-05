@@ -1,13 +1,13 @@
 # McLaren 650S 2015-2016 Buyer Guide
 
-The McLaren 650S 2015-2016 is a high-performance supercar that succeeded the MP4-12C, offering enhanced aerodynamics, power, and an improved driving experience. It stands as a compelling hack candidate due to its depreciation curve, making it accessible to a broader market while retaining much of its exotic appeal. The primary risk associated with ownership is the potential for electronic and transmission issues, which can be costly to address.
+The McLaren 650S 2015-2016 is a high-performance supercar that succeeded the MP4-12C, offering enhanced aerodynamics, power, and an improved driving experience. Introduced to the U.S. market in 2014 as a 2015 model, it addressed many of the criticisms leveled at the 12C, particularly regarding styling and suspension tuning. It stands as a compelling hack candidate due to its depreciation curve, making it accessible to a broader market while retaining much of its exotic appeal. The primary risk associated with ownership is the potential for electronic and transmission issues, which can be costly to address. No truly U.S.-exclusive trims were offered, with the core lineup consisting of the Coupe and Spider.
 
 ## 2. Model Year Overview
 
 | Model Year | Version/Body Style | Base MSRP | Key Details | Buyer Takeaway |
 |---|---|---|---|---|
-| 2015 | Coupe | $269,200 | First production year for the McLaren 650S, replacing the MP4-12C. Features a revised front end resembling the P1, increased downforce, updated M838T V8 engine with 641 hp, recalibrated 7-speed dual-clutch transmission, new forged wheels with Pirelli P-Zero Corsa tires, and ProActive Chassis Control (PCC). Interior includes Alcantara upholstery and an improved infotainment system. | Early models offer best value |
-| 2015 | Spider | $283,925 | First production year for the McLaren 650S, replacing the MP4-12C. Features a revised front end resembling the P1, increased downforce, updated M838T V8 engine with 641 hp, recalibrated 7-speed dual-clutch transmission, new forged wheels with Pirelli P-Zero Corsa tires, and ProActive Chassis Control (PCC). Interior includes Alcantara upholstery and an improved infotainment system. | Early models offer best value |
+| 2015 | Coupe | $265,500 | First production year for the McLaren 650S, replacing the MP4-12C. Features a revised front end resembling the P1, increased downforce, updated M838T V8 engine with 641 hp, recalibrated 7-speed dual-clutch transmission, new forged wheels with Pirelli P-Zero Corsa tires, and ProActive Chassis Control (PCC). Interior includes Alcantara upholstery and an improved infotainment system. | Early models offer best value |
+| 2015 | Spider | $280,225 | First production year for the McLaren 650S, replacing the MP4-12C. Features a revised front end resembling the P1, increased downforce, updated M838T V8 engine with 641 hp, recalibrated 7-speed dual-clutch transmission, new forged wheels with Pirelli P-Zero Corsa tires, and ProActive Chassis Control (PCC). Interior includes Alcantara upholstery and an improved infotainment system. | Early models offer best value |
 | 2016 | Coupe | $269,500 | Soft close doors added as an option. No base spec changes. Pack content and prices changed. | Minor updates, check options |
 | 2016 | Spider | $284,500 | Soft close doors added as an option. No base spec changes. Pack content and prices changed. | Minor updates, check options |
 
@@ -25,20 +25,20 @@ No meaningful trims or special editions beyond Coupe and Spider body styles were
 | Carbon Fibre Airbrake Panel | Optional, $4,420 | 2016 |
 | Carbon Fibre Diffuser | Optional, $4,420 | 2016 |
 | Carbon Fibre Engine Covers | Optional, $3,160 | 2016 |
-| Carbon Fibre Front Splitter | No-cost option | 2016 |
-| Carbon Fibre Mirror Casings | No-cost option | 2016 |
-| Carbon Fibre Rear Bumper Centre | No-cost option | 2016 |
-| Carbon Fibre Door Blades | No-cost option | 2016 |
-| Carbon Fibre Side Intakes | No-cost option | 2016 |
+| Carbon Fibre Front Splitter | No-cost option (2016 Spider) | 2016 |
+| Carbon Fibre Mirror Casings | No-cost option (2016 Spider) | 2016 |
+| Carbon Fibre Rear Bumper Centre | No-cost option (2016 Spider) | 2016 |
+| Carbon Fibre Door Blades | No-cost option (2016 Spider) | 2016 |
+| Carbon Fibre Side Intakes | No-cost option (2016 Spider) | 2016 |
 | Sport Exhaust | Optional, $6,650 | 2016 |
 | Alloy Oil and Coolant Caps | Optional, $710 | 2016 |
-| Silver Finisher Pack | No-cost option | 2016 |
+| Silver Finisher Pack | No-cost option (2016 Spider) | 2016 |
 | Soft Close Doors | Optional, $830 | 2016 |
 | Carbon Fibre Racing Seats | Optional, $7,110 | 2016 |
 | Electric & Heated Memory Seats | Optional, $3,790 | 2016 |
-| Full Leather Interior | No-cost option | 2016 |
-| Leather Sport Interior | No-cost option | 2016 |
-| Alcantara & Leather Interior | No-cost option | 2016 |
+| Full Leather Interior | No-cost option (2016 Spider) | 2016 |
+| Leather Sport Interior | No-cost option (2016 Spider) | 2016 |
+| Alcantara & Leather Interior | No-cost option (2016 Spider) | 2016 |
 | Custom Zoned Interior | Optional, $1,900 | 2016 |
 | Semi Aniline Sport Interior | Optional, $3,790 | 2016 |
 | Contrast Colour Piping | Optional, $710 | 2016 |
@@ -53,12 +53,12 @@ No meaningful trims or special editions beyond Coupe and Spider body styles were
 | Carbon Fiber Engine Covers | Optional, $3,080 | 2015 |
 | Alloy Oil & Coolant Caps | Optional, $490 | 2015 |
 | Sport Exhaust | Optional, $6,490 | 2015 |
-| Stealth Pack | No-cost option | 2015 |
-| Stealth Badge Set | No-cost option | 2015 |
+| Stealth Pack | No-cost option (2015 pricing) | 2015 |
+| Stealth Badge Set | No-cost option (2015 pricing) | 2015 |
 | Super-Lightweight Forged Wheels | Optional, $1,230 | 2015 |
 | Stealth Wheel Finish | Optional, $1,540 | 2015 |
 | Special Color Brake Calipers (Standard are Black) | Optional, $1,240 | 2015 |
-| Full Alcantara Interior | No-cost option | 2015 |
+| Full Alcantara Interior | No-cost option (2015 pricing) | 2015 |
 | Alcantara Steering Wheel | Optional, $620 | 2015 |
 | Contrast Stitching on Dashboard & Steering Wheel | Optional, $490 | 2015 |
 | Carbon Fiber Interior Upgrade | Optional, $4,310 | 2015 |
@@ -68,7 +68,7 @@ No meaningful trims or special editions beyond Coupe and Spider body styles were
 | Meridian Surround Sound System | Optional, $4,170 | 2015 |
 | Rear View Camera + Parking Sensors | Optional, $2,220 | 2015 |
 | Vehicle lifter | Optional, $4,930 | 2015 |
-| Branded Floor Mat Set | No-cost option | 2015 |
+| Branded Floor Mat Set | No-cost option (2015 pricing) | 2015 |
 | Car Cover | Optional, $620 | 2015 |
 | Ashtray | No-cost option | 2015 |
 | Paint to Sample Exterior Color (Excludes Satin Finishes) - SPIDER | Optional, $15,913 | 2015 |
@@ -99,12 +99,10 @@ Pre-Purchase Inspection (PPI) is critical for any exotic. Ensure a McLaren speci
 ### Known Problems
 | Issue | What To Know/Check |
 |---|---|
-| Coolant leaks | Described as a common issue by owners. |
-| Electronic Component Failures | Includes dashboard error codes, malfunctions in active aerodynamics or suspension, and general electrical problems. |
-| Transmission Issues | Symptoms include engine revving without acceleration, delayed gear engagement, and inconsistent performance, often requiring clutch replacement. Driveline damper failure is also noted. |
-| Suspension Issues | Undisclosed suspension problems have been reported. |
+| Coolant leaks | Owners report common leaks from the coolant pipes, particularly those near the turbos, and the water pump. Inspect for visible leaks, low coolant levels, and unusual odors. Repair can be labor-intensive due to engine bay access. |
+| Electronic Component Failures | Common issues include dashboard warning lights (e.g., 'Check Powertrain'), malfunctions in the active aerodynamics (DRS flap), and ProActive Chassis Control (PCC) suspension errors. Inspect all electronic systems, active aero functionality, and ensure no persistent warning lights are present. Diagnostic scans are crucial. |
+| Transmission Issues | The 7-speed dual-clutch transmission (SSG) can exhibit symptoms such as delayed gear engagement, harsh shifts, or a complete loss of drive. A common culprit is the driveline damper, which can fail, leading to excessive drivetrain play and transmission damage if not addressed. Inspect for unusual noises during gear changes, vibrations, or any warning lights related to the transmission. A specialist diagnostic scan is essential to identify specific fault codes. |
 | Carbon ceramic brakes | Known to squeal, which is a characteristic rather than a defect. |
-| Driveline Damper Failure | Diagnosed as a recurring issue in some 650S models. |
 
 
 ### NHTSA Recalls
@@ -130,4 +128,3 @@ The McLaren 650S is a strong hack candidate. Its rapid initial depreciation make
 * PPI focus: Thorough electronic system scan, transmission health, coolant system integrity, active aero functionality.
 * Known recalls: 19V-141 (Passenger frontal airbag inflator may rupture)
 * Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.
-

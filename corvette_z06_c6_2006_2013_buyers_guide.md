@@ -4,16 +4,16 @@ The C6 Corvette Z06 is a raw, naturally aspirated American supercar that pairs a
 
 ## Model Year Breakdown
 
-| Model Year | Version/Body Style | Base MSRP | Key Details | Buyer Takeaway |
-|---|---|---|---|---|
-| 2006 | Z06 Coupe | $65,800 | First year of C6 Z06. 505hp LS7, aluminum frame, carbon fiber fenders, 8-quart dry-sump. | Rawest iteration, but highest risk for valve guide issues. Ensure heads are fixed. |
-| 2007 | Z06 Coupe | $66,465 | No major changes. Optional two-tone interior added. | Similar to 2006. Focus on condition and valve guide documentation. |
-| 2008 | Z06 Coupe | $71,000 | TR-6060 transmission introduced, new steering rack for improved feel. | Better shifting and steering make this a notable upgrade over 06-07. |
-| 2009 | Z06 Coupe | $72,405 | Larger 10.5-quart dry-sump oiling system, power hatch pull-down standard, new "spider" wheels. | Increased oil capacity is a major plus for track use. |
-| 2010 | Z06 Coupe | $75,235 | Launch Control standard. Side airbags standard. | Minor tech and safety updates. |
-| 2011 | Z06 Coupe | $74,305 | Z07 Ultimate Performance Package and CFZ Carbon Fiber Package introduced. | Z07 package cars are highly desirable and command a premium. |
-| 2012 | Z06 Coupe | $75,525 | Centennial Special Edition available. Optional carbon fiber hood. | Centennial editions are rare and hold value well. |
-| 2013 | Z06 Coupe | $76,575 | 60th Anniversary packages available. Final year of C6 Z06. | Last model year carries a premium. 60th Anniversary cars are highly sought after. |
+| Model Year | Version/Body Style | Base MSRP | 0-60 mph | Top Speed | Key Details | Buyer Takeaway |
+|---|---|---|---|---|---|---|
+| 2006 | Z06 Coupe | $65,800 | 3.7s | 198 mph | First year of C6 Z06. 505hp LS7, aluminum frame, carbon fiber fenders, 8-quart dry-sump. | Rawest iteration, but highest risk for valve guide issues. Ensure heads are fixed. |
+| 2007 | Z06 Coupe | $70,000 | 3.7s | 198 mph | No major changes. Optional two-tone interior added. | Similar to 2006. Focus on condition and valve guide documentation. |
+| 2008 | Z06 Coupe | $72,125 | 3.7s | 198 mph | TR-6060 transmission introduced, new steering rack for improved feel. | Better shifting and steering make this a notable upgrade over 06-07. |
+| 2009 | Z06 Coupe | $74,875 | 3.7s | 198 mph | Larger 10.5-quart dry-sump oiling system, power hatch pull-down standard, new "spider" wheels. | Increased oil capacity is a major plus for track use. |
+| 2010 | Z06 Coupe | $75,235 | 3.7s | 198 mph | Launch Control standard. Side airbags standard. | Minor tech and safety updates. |
+| 2011 | Z06 Coupe | $75,325 | 3.7s | 198 mph | Z07 Ultimate Performance Package and CFZ Carbon Fiber Package introduced. | Z07 package cars are highly desirable and command a premium. |
+| 2012 | Z06 Coupe | $76,575 | 3.7s | 198 mph | Centennial Special Edition available. Optional carbon fiber hood. | Centennial editions are rare and hold value well. |
+| 2013 | Z06 Coupe | $76,595 | 3.7s | 198 mph | 60th Anniversary packages available. Final year of C6 Z06. | Last model year carries a premium. 60th Anniversary cars are highly sought after. |
 
 ## Factory Options & Pricing
 
@@ -23,12 +23,12 @@ The C6 Corvette Z06 is a raw, naturally aspirated American supercar that pairs a
 | 3LZ Premium Equipment Group | Optional, $6,515 - $8,860 | Available 2008+. Adds premium leather and interior appointments. |
 | Z07 Ultimate Performance Package | Optional, $7,500 - $9,495 | Available 2011+. Adds carbon ceramic brakes, magnetic ride, and Michelin Cup tires. |
 | CFZ Carbon Fiber Package | Optional, $3,995 | Available 2011+. Adds carbon fiber splitter, rockers, and roof. |
-| F55 Magnetic Selective Ride Control | Optional, $1,995 - $2,495 | Available 2009+. Enhances ride quality and handling. |
+| F55 Magnetic Selective Ride Control | Not available on Z06 models. | This option was not offered on the C6 Z06. |
 | B92 Carbon Fiber Hood | Optional, $2,495 - $4,495 | Available 2012+. Reduces weight and adds aggressive styling. |
 | ZLC Chevrolet Centennial Special Edition | Optional, $4,950 | 2012 only. Black metallic paint, unique wheels and graphics. |
 | Z25 60th Anniversary 4LT Package | Optional, $1,075 | 2013 only. Unique interior and exterior badging. |
 | Z30 60th Graphics Package | Optional, $750 | 2013 only. Adds racing stripes to 60th Anniversary cars. |
-| NPP Dual Mode Exhaust System | Optional, $1,195 | Available 2009+. Highly desirable for adjustable exhaust note. |
+| NPP Dual Mode Exhaust System | Optional, $1,195 (standard from 2011) | Highly desirable for adjustable exhaust note. |
 | U3U Navigation System | Optional, $1,600 - $1,795 | Outdated tech, but common on higher-spec cars. |
 | Q44 Competition Gray Wheels | Optional, $295 - $395 | Popular wheel option. |
 | Q76 Chrome Wheels | Optional, $1,495 - $1,995 | Common on earlier models. |
@@ -50,7 +50,7 @@ The C6 Corvette Z06 is a raw, naturally aspirated American supercar that pairs a
 | Must Have | Z07 Ultimate Performance Package | Optional, $7,500 - $9,495 | Transforms the car's capabilities and commands a massive premium on the secondary market. Highly liquid. |
 | Strongly Preferred | 3LZ Premium Equipment Group | Optional, $6,515 - $8,860 | Significantly improves the interior quality, making the car much easier to sell. |
 | Strongly Preferred | CFZ Carbon Fiber Package | Optional, $3,995 | Adds aggressive styling that buyers actively seek out. |
-| Strongly Preferred | NPP Dual Mode Exhaust System | Optional, $1,195 | Essential for the V8 experience; cars without it are harder to move. |
+| Strongly Preferred | NPP Dual Mode Exhaust System | Optional, $1,195 (standard from 2011) | Essential for the V8 experience; cars without it are harder to move. |
 | Spec-Dependent | ZLC Centennial / Z25 60th Anniversary | Optional, $1,075 - $4,950 | Special editions hold value exceptionally well and are highly desirable to collectors. |
 
 ## Known Problems & Recalls
@@ -73,9 +73,9 @@ Always secure a specialized Pre-Purchase Inspection (PPI) focusing on the engine
 |---|---|---|---|
 | 06V-181 | Roof Panels Coming Off | 2005-2006 | Adhesive failure may cause the roof panel to separate from the vehicle. |
 | 09V-491 | Roof Panels Coming Off | 2005-2007 | Adhesive failure may cause the roof panel to separate from the vehicle. |
-| 10V-172 | Steering Column Causing Handling System Problem | 2005-2006 | Steering column movement may cause active handling system to apply brakes unexpectedly. |
+| 10V-172 | Steering Column Causing Handling System Problem | 2005-2007 | Steering column movement may cause active handling system to apply brakes unexpectedly. |
 | 11V-491 | Rear Hatch May Disengage During A Crash | 2011-2012 | Rear hatch hinges may fail in a crash, increasing risk of injury. |
-| 14V-251 | Wiring Problem Causing Low Beam Loss | 2005-2007 | Underhood electrical center wire may bend and break, causing loss of low beam headlights. |
+| 14V-251 | Wiring Problem Causing Low Beam Loss | 2005-2007 (specific VINs); 2008-2013 (other wiring issues) | Underhood electrical center wire may bend and break, causing loss of low beam headlights. Other wiring issues may affect later years. |
 
 ## Market & Pricing Dynamics
 
@@ -93,5 +93,5 @@ The C6 Corvette Z06 is a strong hack candidate due to its incredible performance
 * Options to look for: Z07 Ultimate Performance Package, 3LZ Premium Equipment Group, CFZ Carbon Fiber Package, NPP Dual Mode Exhaust
 * Preferred colors: Velocity Yellow, Jetstream Blue, Special Edition colors (Centennial Black, 60th Anniversary White)
 * PPI focus: LS7 valve guide documentation/inspection, harmonic balancer wobble, clutch fluid condition, magnetic ride shock leaks
-* Known recalls: 06V-181/09V-491 (Roof Panels), 10V-172 (Steering Column), 11V-491 (Rear Hatch), 14V-251 (Low Beam Loss)
+* Known recalls: 06V-181/09V-491 (Roof Panels), 10V-172 (Steering Column, 2005-2007), 11V-491 (Rear Hatch), 14V-251 (Low Beam Loss, 2005-2013)
 * Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.

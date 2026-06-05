@@ -2,17 +2,17 @@
 
 ## 1. Introduction
 
-The Aston Martin Vanquish (2014–2018) replaced the DBS as the brand's flagship V12 grand tourer. It features a full carbon-fiber body and an upgraded 5.9L V12 (AM11) engine. As an Exotic Car Hack, the Vanquish is highly desirable because it combines stunning aesthetics with a significantly improved interior over the older VH platform cars. The critical dividing line for buyers is the transmission: 2014 models use the sluggish 6-speed Touchtronic II, while 2015+ models feature the vastly superior 8-speed Touchtronic III. The biggest risks are expensive electronic faults, adaptive damper leaks, and carbon ceramic brake replacement.
+The Aston Martin Vanquish (2014–2018) replaced the DBS as the brand's flagship V12 grand tourer. It features a full carbon-fiber body and an upgraded 5.9L V12 (AM29) engine. As an Exotic Car Hack, the Vanquish is highly desirable because it combines stunning aesthetics with a significantly improved interior over the older VH platform cars. The critical dividing line for buyers is the transmission: 2014 models use the sluggish 6-speed Touchtronic II, while 2015+ models feature the vastly superior 8-speed Touchtronic III. The biggest risks are expensive electronic faults, adaptive damper leaks, and carbon ceramic brake replacement.
 
 ## 2. Changes by Model Year, including Base MSRP
 
 | Model Year | Version / Body Style | Base MSRP | Key Details | Buyer Takeaway |
 |---|---|---|---|---|
-| 2014 | Coupe / Volante | $279,995 (Coupe) / $296,295 (Volante) | Initial U.S. launch. 6-speed Touchtronic II transmission. Infotainment updates. | Avoid. The 6-speed transmission holds the car back significantly. |
+| 2014 | Coupe / Volante | $279,995 (Coupe) / $296,295 (Volante) | Initial U.S. launch. 6-speed Touchtronic II transmission. 565 hp. Infotainment updates. | Avoid. The 6-speed transmission holds the car back significantly. |
 | 2015 | Coupe / Volante | $283,295 (Coupe) / $301,000 (Volante) | Massive mechanical update: 8-speed Touchtronic III automatic transmission introduced. Engine output increased to 568 hp. | The sweet spot. The 8-speed gearbox transforms the driving experience. |
-| 2016 | Coupe / Volante | $320,000 (Carbon Edition) | Introduction of the Vanquish Carbon Edition (black or white) with gloss-black wheels and carbon-fiber trim. | Carbon Editions carry a premium but are mechanically identical to 2015. |
-| 2017 | Vanquish S | $287,000 (Coupe) / $305,000 (Volante) | Major update: Introduction of the Vanquish S. Output increased to 580 hp. Revised suspension, new carbon aero kit, quad exhaust. | The ultimate Vanquish. The S model is the most desirable and aggressive version. |
-| 2018 | Vanquish S | $293,000 (Coupe) / $311,000 (Volante) | Final year. Lineup streamlined to only the Vanquish S. | Highly collectible final production year. |
+| 2016 | Carbon Edition Coupe / Volante | $302,695 (Coupe) / $320,695 (Volante) | Introduction of the Vanquish Carbon Edition (black or white) with gloss-black wheels and carbon-fiber trim. | Carbon Editions carry a premium but are mechanically identical to 2015. |
+| 2017 | Vanquish S Coupe / Volante | $312,950 (Coupe) / $330,950 (Volante) | Major update: Introduction of the Vanquish S. Output increased to 580 hp. Revised suspension, new carbon aero kit, quad exhaust. | The ultimate Vanquish. The S model is the most desirable and aggressive version. |
+| 2018 | Vanquish S Coupe / Volante | $295,000 (Coupe) / $312,950 (Volante) | Final year. Lineup streamlined to only the Vanquish S. | Highly collectible final production year. |
 
 ## 3. Trim Levels / Special Editions
 

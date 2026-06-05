@@ -1,17 +1,18 @@
 # Lamborghini Gallardo Superleggera (2008) Buyer's Guide
 
 ## 1. Introduction
-The Lamborghini Gallardo Superleggera, primarily offered in the U.S. market for the 2008 model year, represents a significant evolution from the standard Gallardo. With a focus on weight reduction and increased performance, the Superleggera was introduced to provide a more raw and track-focused driving experience. The base MSRP for the 2008 model year was $225,040.
+The Lamborghini Gallardo Superleggera, primarily offered in the U.S. market for the 2008 model year, represents a significant evolution from the standard Gallardo. With a focus on weight reduction and increased performance, the Superleggera was introduced to provide a more raw and track-focused driving experience. The base MSRP for the 2008 model year was $224,800.
 
 ## 2. Changes by Model Year
 The Superleggera variant itself was a major change from the standard Gallardo. Key distinctions included:
 *   **Exterior Enhancements:** An engine bonnet crafted from visible carbon fiber and transparent polycarbonate, thinner front windscreen, and rear side and rear windows made of polycarbonate. Other carbon fiber elements included the rear spoiler, rearview mirrors, rear diffuser, underbody covering, and side skirts. It also featured newly designed forged Speedline “Scorpius” lightweight rims fitted with Pirelli P Zero Corsa tires, and a lightweight exhaust system.
 *   **Interior Modifications:** Sparco sport seats constructed from carbon fiber and upholstered in Alcantara. Carbon fiber was extensively used for the door panels and central tunnel. The dashboard, pillars, and headliner were trimmed in black Alcantara, complemented by a suede leather steering wheel, and distinctive "Superleggera" kick plates and floor mats.
-*   **Performance Upgrades:** The Superleggera achieved a weight reduction of approximately 70 kg (154 lbs) for USA cars compared to the standard Gallardo. Its 4,961 cm³ V10 engine, with a reprogrammed ECU and a new throttle body, produced 530 hp, a 10 hp increase. This contributed to a 0-60 mph acceleration time of 3.8 seconds.
+*   **Performance Upgrades:** The Superleggera achieved a weight reduction of approximately 70 kg (154 lbs) for USA cars compared to the standard Gallardo. Its 4,961 cm³ V10 engine, with a reprogrammed ECU and a new throttle body, produced 530 hp, a 10 hp increase. This contributed to a 0-60 mph acceleration time of 3.5 seconds. It also boasted 398 lb-ft of torque and a top speed of 199 mph (320 km/h).
 *   For the 2008 model year, matte color and trim selections became available.
+*   **Weight-Saving Deletions:** To achieve its lighter curb weight, the Superleggera saw the removal of several standard features, including sound deadening, the radio, navigation system, power seats, carpeting, and the passenger airbag. These deletions were crucial for its track-focused design.
 
 ## 3. Trim Levels / Special Editions
-The Lamborghini Gallardo Superleggera is itself a special edition of the Gallardo. For the 2008 model year, the Superleggera was the primary special edition offered, designed as a lighter, more powerful, and track-focused variant. A total of 172 units of the 2008 Superleggera were produced for the U.S. market.
+The Lamborghini Gallardo Superleggera is itself a special edition of the Gallardo. For the 2008 model year, the Superleggera was the primary special edition offered, designed as a lighter, more powerful, and track-focused variant. A total of 172 units of the 2008 Superleggera were produced for the U.S. market, with the following color breakdown: 10 White, 34 Gray, 37 Black, 45 Yellow, and 46 Orange.
 
 Other notable special editions of the broader Gallardo line available in the U.S. market include:
 *   **2006 Gallardo “SE Edition”:** Limited to 250 units worldwide, featuring a high gloss black roof, dark titanium wheels, and a two-tone interior design.
@@ -59,7 +60,7 @@ From an enthusiast and value appreciation perspective, the **6-speed gated manua
 Other highly desirable options include the **Superleggera rear wing (high rear wing)** and the **Interior Carbon Package "Superleggera"**, which further enhance the car's aggressive styling and lightweight ethos.
 
 ## 6. Common Problems / Recalls
-While no specific NHTSA recalls were found for the 2008 Lamborghini Gallardo Superleggera, a relevant recall (18V-833) was issued for later model years of the standard Gallardo (2011-2014), which shares some components. This recall involved an incorrect engine software reflash procedure that could lead to a system failure where trouble codes are not stored after the ignition is turned off.
+While no specific NHTSA recalls were found for the 2008 Lamborghini Gallardo Superleggera, NHTSA recall 18V-833 was issued for 2012-2014 Gallardo and Aventador models. This recall pertains to the engine control unit (ECU) software, which could cause the engine to stall at low speeds. It is important to note that this recall does not directly apply to the 2008 Superleggera.
 
 Common mechanical and reliability problems reported for the Gallardo platform include:
 *   **Battery and starting issues:** Often traced to a corroded ground bolt at the front base of the battery.

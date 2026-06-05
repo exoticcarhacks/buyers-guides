@@ -1,7 +1,7 @@
 # 2022–2023 Ferrari 812 Competizione Buyer Guide
 
 ## 1. Introduction
-The Ferrari 812 Competizione (and its open-top sibling, the Competizione A) is the ultimate, track-focused evolution of the 812 Superfast. Unveiled in 2021 as the successor to the F12tdf, it represents the absolute pinnacle of Ferrari's naturally aspirated front-engine V12 lineage. With power bumped to 819 horsepower and the redline raised to an ear-piercing 9,500 rpm, it is a visceral, extreme machine. Production was strictly limited—999 coupes and 599 Aperta models—and every single allocation was sold out before the car was even revealed. This is not a car you casually cross-shop; it is a blue-chip collector asset, trading for massive premiums over its original MSRP.
+The Ferrari 812 Competizione (and its open-top sibling, the Competizione A) is the ultimate, track-focused evolution of the 812 Superfast. Unveiled in 2021, the 812 Competizione is the track-focused evolution of the 812 Superfast, which itself succeeded the F12berlinetta. The F12tdf was a limited edition of the F12berlinetta. It represents the absolute pinnacle of Ferrari's naturally aspirated front-engine V12 lineage. With power bumped to 819 horsepower and the redline raised to an ear-piercing 9,500 rpm, achieving 0-60 mph in approximately 2.8 seconds and a top speed of approximately 211 mph (340 km/h), it is a visceral, extreme machine. Production was strictly limited—999 coupes and 599 Aperta models—and every single allocation was sold out before the car was even revealed. This is not a car you casually cross-shop; it is a blue-chip collector asset, trading for massive premiums over its original MSRP.
 
 ## 2. Changes by Model Year
 
@@ -41,8 +41,8 @@ Given the exclusive nature of the Competizione, most were ordered through Ferrar
 
 Given the limited production and the fact that these cars are rarely driven high miles, long-term reliability data is sparse. However, buyers must be aware of:
 
-*   **Brake Fluid Reservoir Recall (NHTSA 25V716000 / 22V536000):** A critical recall affecting many modern Ferraris, including the 812 platform. The brake fluid reservoir cap may not vent properly, potentially leading to a loss of brake function. The fix involves replacing the cap and updating the software. **Ensure this has been performed.**
-*   **Rear Window Recall (812 Superfast platform):** Early 812s had issues with incorrect bonding of the rear window. While the Competizione Coupe lacks a rear window, the Aperta and general platform bonding should be inspected.
+*   **Brake Fluid Reservoir Recall (NHTSA 22V536000):** A critical recall affecting many modern Ferraris, including the 812 platform. The brake fluid reservoir cap may not vent properly, potentially leading to a loss of brake function. The fix involves replacing the cap and updating the software. **Ensure this has been performed.**
+*   **Rear Window Recall (NHTSA 21V-600):** This recall specifically affected the 812 Superfast and GTS models due to incorrect bonding of the rear window. While the Competizione Coupe does not have a traditional rear window, the Aperta model's bonding should be inspected, and the general platform bonding for all 812 variants should be considered during a PPI.
 *   **Extreme Aerodynamics Vulnerability:** The vortex generators, massive diffusers, and carbon splitters are incredibly expensive to replace. A thorough PPI must inspect for any underside damage or track abuse.
 
 ## 7. Market Analysis & Forecast
@@ -64,3 +64,4 @@ The Ferrari 812 Competizione is a guaranteed future classic. As one of the final
 *   **Verify the Brake Recall:** The brake fluid reservoir recall is a serious safety issue. Do not drive the car hard until you confirm it has been addressed by a Ferrari dealer.
 *   **Zero Miles vs. Driven:** Cars with delivery mileage command the highest prices. If you plan to actually drive the car, look for one with 1,000-2,000 miles where the initial "delivery mile premium" has slightly softened.
 *   **Global Market Arbitrage:** Be aware that European and Middle Eastern market cars often trade for ~20% less than North American/US spec cars. Ensure you are comparing US cars when evaluating comps.
+

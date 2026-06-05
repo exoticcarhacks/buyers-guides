@@ -9,14 +9,14 @@ The C7 Corvette Z06, produced from 2015 to 2019, represents a significant perfor
 | 2015 | Coupe, Convertible | $78,995 (Coupe), $83,995 (Convertible) | Introduction of the C7 Z06. | First model year, watch for early production issues. |
 | 2016 | Coupe, Convertible | $79,400 (Coupe), $83,400 (Convertible) | Front and rear cameras became standard. Power cinch for the trunk and hatch. Optional Spice Red interior. Optional Carbon Fiber hood. Optional flat-bottom steering wheel. Magnetic Ride Control became standard. | Improved standard features, better infotainment. |
 | 2017 | Coupe, Convertible | $79,450 (Coupe), $83,450 (Convertible) | New standard features: Apple CarPlay and Android Auto, new infotainment system with improved performance, new colors (Watkins Glen Gray Metallic, Sterling Blue Metallic), new wheel options. | Further tech upgrades, new color options. |
-| 2018 | Coupe, Convertible | $79,495 (Coupe), $83,495 (Convertible) | New standard features: HD Digital Radio, Performance Data Recorder with Cosworth Toolbox, new wheel options, new exterior colors (Ceramic Matrix Gray Metallic, Satin Black). | Minor updates, PDR with Cosworth Toolbox standard. |
-| 2019 | Coupe, Convertible | $80,490 (Coupe), $84,490 (Convertible) | New standard features: Performance Data Recorder with Cosworth Toolbox, new wheel options, new exterior colors (Elkhart Lake Blue Metallic, Shadow Gray Metallic). | Final year, refined features and new colors. |
+| 2018 | Coupe, Convertible | $80,490 (Coupe), $84,490 (Convertible) | New standard features: HD Digital Radio, Performance Data Recorder with Cosworth Toolbox, new wheel options, new exterior colors (Ceramic Matrix Gray Metallic, Satin Black). | Minor updates, PDR with Cosworth Toolbox standard. |
+| 2019 | Coupe, Convertible | $79,495 (Coupe), $83,495 (Convertible) | New standard features: Performance Data Recorder with Cosworth Toolbox, new wheel options, new exterior colors (Elkhart Lake Blue Metallic, Shadow Gray Metallic). | Final year, refined features and new colors. |
 
 ## Trims and Special Editions
 
 | Version | U.S. Years | Engine/Output | Notes |
 |---|---|---|---|
-| Carbon 65 Edition | 2017 | 6.2L Supercharged LT4 V8 | Special edition celebrating 65 years of Corvette. |
+| Carbon 65 Edition | 2018 | 6.2L Supercharged LT4 V8 | Special edition celebrating 65 years of Corvette. |
 | Grand Sport Collector Edition | 2017 | 6.2L Supercharged LT4 V8 | Special edition with unique interior and exterior touches. |
 
 ## Comprehensive Factory Options
@@ -47,7 +47,7 @@ The C7 Corvette Z06, produced from 2015 to 2019, represents a significant perfor
 | Torch Red Painted Full-Length Dual Racing Stripe | Optional, $950 | 2016 |
 | Cyber Gray Painted Full-Length Dual Racing Stripe | Optional, $950 | 2016 |
 | Yellow Painted Full-Length Dual Racing Stripe | Optional, $950 | 2016 |
-| Carbon 65 Edition (Z06) | Optional, $14,000 | 2017 |
+| Carbon 65 Edition (Z06) | Optional, $14,000 | 2018 |
 | Grand Sport Collector Edition (Z06) | Optional, $4,995 | 2017 |
 | Ceramic Matrix Gray Metallic Paint | Optional, $495 | 2017-2019 |
 | Sterling Blue Metallic Paint | Optional, $495 | 2017 |
@@ -86,14 +86,11 @@ Always perform a Pre-Purchase Inspection (PPI) by a qualified specialist.
 
 | NHTSA Recall | Campaign | Affected Years | Issue |
 |---|---|---|---|
-| 17V437000 | 17V437000 | 2015, 2016, 2017 | Frontal Air Bags May Not Deploy |
-| 16V651000 | 16V651000 | 2015, 2016, 2017 | Frontal Air Bags May Not Deploy |
 | 15V031000 | 15V031000 | 2015 | Improperly Fastened Toe Link Outer Ball Joint |
-| 14V570000 | 14V570000 | 2015 | Driver Air Bag May Separate From Steering Wheel |
-| 14V568000 | 14V568000 | 2015 | Parking Brake May Only Work On One Wheel/FMVSS 135 |
-| 25V175000 | 25V175000 | 2017, 2018 | Loss Of Power Steering Assist |
-| 19V086000 | 19V086000 | 2017 | Loss Of Power Steering Assist |
-| 18V360000 | 18V360000 | 2019 | Hard Braking And Acceleration May Disable Air Bags |
+| 14V570000 | 14V570000 | 2015 | Driver Air Bag Inflator May Explode |
+| 14V568000 | 14V568000 | 2015 | Parking Brake May Not Hold Vehicle |
+| 17V175000 | 17V175000 | 2017, 2018, 2019 | Loss Of Power Steering Assist |
+| 18V360000 | 18V360000 | 2019 | Brake System May Lose Power Assist |
 
 ## Market Analysis
 
@@ -113,3 +110,4 @@ The C7 Corvette Z06 is a **strong hack candidate** due to its exceptional perfor
 * PPI focus: Wheels (cracks/warps), cooling system, automatic transmission function, engine health (especially early models)
 * Known recalls: Check for all active NHTSA recalls by VIN, especially those related to airbags and power steering assist.
 * Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.
+

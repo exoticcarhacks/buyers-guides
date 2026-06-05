@@ -1,15 +1,15 @@
 # Lamborghini Huracan STO 2021-2023 Buyer Guide
 
 ## Introduction
-The Lamborghini Huracan STO (Super Trofeo Omologata) is a track-focused, road-legal homologation special that distills the essence of Lamborghini's Squadra Corse racing heritage into a street-legal package. It's a prime candidate for the Exotic Car Hacks philosophy due to its limited production, extreme performance, and potential for strong market appreciation as a collectible. The main risk associated with the STO is its highly specialized nature, which can lead to higher maintenance costs and a smaller buyer pool if not optioned correctly.
+The Lamborghini Huracan STO (Super Trofeo Omologata) is a track-focused, road-legal homologation special that distills the essence of Lamborghini's Squadra Corse racing heritage into a street-legal package. It's a prime candidate for the Exotic Car Hacks philosophy due to its limited production, extreme performance, and strong market performance for well-maintained, desirable examples. The main risk associated with the STO is its highly specialized nature, which can lead to higher maintenance costs and a smaller buyer pool if not optioned correctly. While historically, limited production homologation specials have shown strong appreciation, future market performance is subject to various economic and collector trends.
 
 ## Model Year Overview
 
-| Model Year | Version/Body Style | Base MSRP | Key Details | Buyer Takeaway |
+| Model Year | Version/Body Style | Base MSRP (U.S.) | Key Details | Buyer Takeaway |
 |---|---|---|---|---|
-| 2021 | STO (Coupe) | $327,838 | Introduction of the STO with significant aerodynamic and weight-reduction measures, including the Cofango, revised rear fender with NACA air intake, and large adjustable rear wing. Interior features extensive carbon fiber and thinner windshield glass. Three new ANIMA driving modes (STO, Trofeo, Pioggia). | First model year, often desirable for collectors. Ensure all original components are present and in excellent condition. |
-| 2022 | STO (Coupe) | $327,838 | No significant updates from the 2021 model year. | Consistent with 2021 models. Focus on condition and options. |
-| 2023 | STO (Coupe) | $334,695 | No significant updates. Expected to be the final production year for the Huracan, with all build slots sold out. | Final production year may command a premium. Verify build slot and delivery status. |
+| 2021 | STO (Coupe) | $331,500 | Introduction of the STO with significant aerodynamic and weight-reduction measures, including the Cofango, revised rear fender with NACA air intake, and large adjustable rear wing. Interior features extensive carbon fiber and thinner windshield glass. Three new ANIMA driving modes (STO, Trofeo, Pioggia). Powered by a 5.2L naturally aspirated V10 engine producing 631 hp (SAE net) paired with a 7-speed LDF (Lamborghini Doppia Frizione) dual-clutch transmission. | First model year, often desirable for collectors. Ensure all original components are present and in excellent condition. |
+| 2022 | STO (Coupe) | $331,500 | No significant updates from the 2021 model year. | Consistent with 2021 models. Focus on condition and options. |
+| 2023 | STO (Coupe) | $340,190 | No significant updates. Expected to be the final production year for the Huracan, with all build slots sold out. Final production year can sometimes command a premium, though market conditions vary. Verify build slot and delivery status. |
 
 ## Factory Options
 
@@ -163,23 +163,23 @@ The Lamborghini Huracan STO (Super Trofeo Omologata) is a track-focused, road-le
 
 ## Known Problems and Recalls
 
-Always perform a Pre-Purchase Inspection (PPI) by a qualified Lamborghini specialist.
-
 ### Known Problems
 
 | Issue | What To Know/Check |
 |---|---|
-| Infotainment system issues: black screens, freezing, Bluetooth dropping | Verify full functionality of the infotainment system, including navigation, Bluetooth, and Apple CarPlay/Android Auto if equipped. |
-| Oxygen sensor or catalytic converter issues | Check for check engine lights or error codes related to emissions. |
-| Engine misfires | Listen for rough idling, hesitation under acceleration, or check for misfire codes. |
-| Front splitter mounting brackets cracking | Inspect the underside of the front splitter for any cracks or damage, especially if the car has been driven aggressively or over uneven surfaces. |
+| **Infotainment System Glitches (2021-2023)** | Owners have reported instances of the infotainment system experiencing black screens, freezing, or intermittent Bluetooth connectivity issues. Verify full functionality of the infotainment system, including navigation, Bluetooth pairing, and Apple CarPlay/Android Auto if equipped. Test all functions thoroughly during a pre-purchase inspection. |
+| **Oxygen Sensor/Catalytic Converter Issues (2021-2023)** | Some vehicles may experience premature wear or malfunction of oxygen sensors or catalytic converters, potentially leading to check engine lights and emissions-related failures. Check for any active or pending diagnostic trouble codes (DTCs) related to the emissions system. |
+| **Engine Misfires (2021-2023)** | Misfires can occur due to various reasons, including faulty spark plugs, ignition coils, or fuel injectors. Listen for rough idling, hesitation under acceleration, or check for misfire codes using an OBD-II scanner. |
+| **Front Splitter Mounting Brackets Cracking (2021-2023)** | The aggressive aerodynamic design of the STO includes a prominent front splitter. The mounting brackets for this component can be susceptible to cracking, especially if the car has encountered speed bumps, steep driveways, or track-day curbing. Inspect the underside of the front splitter and its mounting points for any cracks, stress fractures, or signs of repair. |
 
 ### NHTSA Recalls
 
-| NHTSA Recall | Campaign | Affected Years | Issue |
-|---|---|---|---|
-| 22V-220 | 2020-2022 | 2020-2022 | Gearbox oil quantity too low may lead to clutch slippage and potential fire risk |
-| 22V-422 | 2022 | 2022 | Left door outside handle may not have been properly assembled, leading to inability to open door from outside |
+| NHTSA Recall | Affected Years | Issue |
+|---|---|---|
+| 22V-220 | 2020-2022 | Gearbox oil quantity too low may lead to clutch slippage and potential fire risk. |
+| 22V-422 | 2022 | Left door outside handle may not have been properly assembled, leading to inability to open door from outside. |
+| 23V-484 | 2023 | High pressure fuel pump flange may crack, leading to fuel leak and fire risk. |
+| 23V-659 | 2023 | Rear axle carrier bolts may loosen, leading to loss of vehicle control. |
 
 ## Market Forecast
 
@@ -189,12 +189,12 @@ Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pri
 
 ## Conclusion
 
-The Lamborghini Huracan STO is a **strong hack candidate**. Its limited production, extreme performance, and direct lineage to Lamborghini's racing efforts position it well for future appreciation. The main risk lies in potential over-customization with highly specific livery or color choices that might narrow its appeal, and the inherent high running costs of a track-focused supercar. The best ownership logic involves acquiring a well-optioned example, ideally with desirable carbon fiber and telemetry, and maintaining it meticulously to preserve its value and appeal to discerning collectors.
+The Lamborghini Huracan STO is a **strong hack candidate**. Its limited production, extreme performance, and direct lineage to Lamborghini's racing efforts position it well for future market performance, particularly for well-maintained and desirable examples. The main risk lies in potential over-customization with highly specific livery or color choices that might narrow its appeal, and the inherent high running costs of a track-focused supercar. The best ownership logic involves acquiring a well-optioned example, ideally with desirable carbon fiber and telemetry, and maintaining it meticulously to preserve its value and appeal to discerning collectors.
 
 ## Car Hacking Shortcuts
 
 * Years to buy: 2021-2023
 * Options to look for: Lamborghini Telemetry, Full Exterior Carbon Pack, Full interior carbon package
 * PPI focus: Infotainment system, engine health, front splitter integrity, recall remedies
-* Known recalls: 22V-220 (gearbox oil), 22V-422 (door handle)
+* Known recalls: 22V-220 (gearbox oil), 22V-422 (door handle), 23V-484 (fuel pump flange), 23V-659 (rear axle carrier bolts)
 * Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.

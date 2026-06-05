@@ -1,3 +1,4 @@
+
 # Aston Martin V8 Vantage Gen 1 (2009–2017) Buyer Guide
 
 ## 1. Introduction
@@ -8,15 +9,15 @@ The Aston Martin V8 Vantage Gen 1 (2009–2017) is widely considered one of the 
 
 | Model Year | Version / Body Style | Base MSRP | Key Details | Buyer Takeaway |
 |---|---|---|---|---|
-| 2009 | Coupe / Roadster | $117,400 (Coupe) / $131,650 (Roadster) | Major mechanical update: 4.7L V8 (420 hp) replaces the old 4.3L. Revised center console. | The starting point for any Vantage hack. Do not buy a pre-2009 4.3L car. |
+| 2009 | Coupe / Roadster | $120,850 (Coupe) / $131,650 (Roadster) | Major mechanical update: 4.7L V8 (420 hp) replaces the old 4.3L. Revised center console. | The starting point for any Vantage hack. Do not buy a pre-2009 4.3L car. |
 | 2010 | Coupe / Roadster | $118,650 (Coupe) / $131,650 (Roadster) | Minor trim changes. Introduction of the N420 special edition. | Carryover year. Buy based on condition. |
-| 2011 | Coupe / Roadster | $118,650 (Coupe) / $131,650 (Roadster) | Introduction of the V8 Vantage S (430 hp, 7-speed SportShift II). | The Vantage S is a great upgrade if you want the automated manual. |
-| 2012 | Coupe / Roadster | $118,650 (Coupe) / $131,650 (Roadster) | Base V8 Vantage receives the 7-speed SportShift II transmission, replacing the clunky 6-speed SportShift I. Upgraded brakes and steering. | A major upgrade year for buyers who don't want a true manual. |
-| 2013 | Coupe / Roadster | $121,225 (Coupe) / $135,795 (Roadster) | Minor cosmetic updates. | Carryover year. |
-| 2014 | Coupe / Roadster | $116,700 (Coupe) / $131,200 (Roadster) | Price drop. | Good value year. |
-| 2015 | Coupe / Roadster | $110,295 (Coupe) / $124,795 (Roadster) | Introduction of the V8 Vantage GT (a stripped-down, lower-priced model with Vantage S power). | The GT is one of the best value hacks in the entire lineup. |
-| 2016 | Coupe / Roadster | $121,295 (Coupe) / $135,795 (Roadster) | New infotainment system (AMi III). | The infotainment update is a huge quality-of-life improvement. |
-| 2017 | Coupe / Roadster | $137,820 (Coupe) / $152,320 (Roadster) | Final year. Introduction of the V8 Vantage GTS. | Expensive, but the newest and most refined of the Gen 1 cars. |
+| 2011 | Coupe / Roadster | $118,650 (Coupe) / $131,650 (Roadster) | Introduction of the V8 Vantage S (430 hp, 7-speed SportShift II). V8 Vantage S Coupe: $138,000 / Roadster: $151,000. | The Vantage S is a great upgrade if you want the automated manual. |
+| 2012 | Coupe / Roadster | $122,465 (Coupe) / $137,965 (Roadster) | The 7-speed SportShift II transmission, first introduced on the V8 Vantage S in 2011, became available on the base V8 Vantage, replacing the clunky 6-speed SportShift I. Upgraded brakes and steering. V8 Vantage S Coupe: $139,995 / Roadster: $152,995. | A major upgrade year for buyers who don't want a true manual. |
+| 2013 | Coupe / Roadster | $122,465 (Coupe) / $137,965 (Roadster) | Minor cosmetic updates. V8 Vantage S Coupe: $139,995 / Roadster: $152,995. | Carryover year. |
+| 2014 | Coupe / Roadster | $122,465 (Coupe) / $137,965 (Roadster) | Price drop. V8 Vantage S Coupe: $139,995 / Roadster: $152,995. | Good value year. |
+| 2015 | Coupe / Roadster | $122,465 (Coupe) / $137,965 (Roadster) | Introduction of the V8 Vantage GT (a stripped-down, lower-priced model with 430 hp, while the standard 4.7L V8 has 420 hp). V8 Vantage S Coupe: $139,995 / Roadster: $152,995. | The GT is one of the best value hacks in the entire lineup. |
+| 2016 | Coupe / Roadster | $122,465 (Coupe) / $137,965 (Roadster) | New infotainment system (AMi III). V8 Vantage S Coupe: $139,995 / Roadster: $152,995. | The infotainment update is a huge quality-of-life improvement. |
+| 2017 | Coupe / Roadster | $122,465 (Coupe) / $137,965 (Roadster) | Final year. The V8 Vantage GTS was introduced in 2016 (US model year). V8 Vantage S Coupe: $139,995 / Roadster: $152,995. | Expensive, but the newest and most refined of the Gen 1 cars. |
 
 ## 3. Trim Levels / Special Editions
 
@@ -24,7 +25,7 @@ The Aston Martin V8 Vantage Gen 1 (2009–2017) is widely considered one of the 
 |---|---|---|
 | V8 Vantage S (2011+) | 430 hp, sport exhaust, stiffer suspension, 7-speed SportShift II, carbon fiber exterior accents. | Highly desirable upgrade over the base car. |
 | V8 Vantage GT (2015) | Budget-friendly track-focused model. 430 hp, sport suspension, unique graphics packages. | The ultimate value play. Manual GTs are extremely sought after. |
-| N420 / N430 | Special editions commemorating Nürburgring racing. Sport pack suspension, carbon fiber trim, unique exhausts. | Collectible, but mechanically similar to the S or GT. |
+| N420 / N430 (Europe only) | Special editions commemorating Nürburgring racing. Sport pack suspension, carbon fiber trim, unique exhausts. | Collectible, but mechanically similar to the S or GT. |
 
 ## 4. Available Factory Options / Packages Offered
 
@@ -65,19 +66,19 @@ PPI reminder: Use an Aston Martin specialist. Focus on clutch life (via computer
 
 | NHTSA Recall | Campaign | Affected Years | Issue |
 |---|---|---|---|
-| 17V-390 / 17V-391 | SportShift Transmission Connector | 2010–2013 | Connector failure on 6-speed and 7-speed SportShift transmissions leads to a loss of clutch fluid, inability to select gears, or stalling. |
-| 17V-389 | Transmission Software | 2011–2012 | Software issue causing the transmission to go into neutral without warning or clutch slipping/overheating. |
-| 14V-010 | Throttle Pedal Lever | 2007–2013 | The throttle pedal lever can fracture, leading to a loss of engine speed control. |
+| 17V-390 / 17V-391 | SportShift Transmission Connector | 2011–2014 | Connector failure on 7-speed SportShift II transmission leads to a loss of clutch fluid, inability to select gears, or stalling. |
+| 17V-389 | Transmission Software | 2011–2012 | Software issue causing the 7-speed SportShift II ASM transmission to go into neutral without warning or clutch slipping/overheating. |
+| 14V-010 | Throttle Pedal Lever | 2008–2014 | The throttle pedal lever can fracture, leading to a loss of engine speed control. |
 
 ## 7. Market Analysis and Future Forecast
 
-[Insert dynamic Exotic Car Hacks historical pricing graph here]
 
-Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.
+
+Market forecast: Consult Exotic Car Hacks for current 12-month pricing data.
 
 ## 8. Conclusion
 
-The 4.7L V8 Vantage is a spectacular entry-level exotic. The golden rule is to buy a 6-speed manual; they are reliable, engaging, and hold their value exceptionally well. The 2015 Vantage GT manual is arguably the best hack in the entire Aston Martin portfolio. If you must buy an automated manual, stick to 2012 or newer models with the 7-speed SportShift II, and demand a clutch wear readout before buying. Avoid 2009–2011 SportShift cars unless heavily discounted, and always get a PPI to listen for the dreaded big end bearing knock.
+The 4.7L V8 Vantage is a spectacular entry-level exotic. The golden rule is to buy a 6-speed manual; they are reliable, engaging, and hold their value exceptionally well. The 2015 Vantage GT manual is highly regarded by enthusiasts as one of the best value propositions in the Aston Martin portfolio. If you must buy an automated manual, stick to 2012 or newer models with the 7-speed SportShift II, and demand a clutch wear readout before buying. Avoid 2009–2011 SportShift cars unless heavily discounted, and always get a PPI to listen for the dreaded big end bearing knock.
 
 ## 9. Car Hacking Shortcuts
 
@@ -86,4 +87,6 @@ The 4.7L V8 Vantage is a spectacular entry-level exotic. The golden rule is to b
 * Preferred colors: Tungsten Silver, Mariana Blue, Meteorite Silver
 * PPI focus: Clutch life readout (for SportShift), big end bearing knock (engine), leaking washer fluid reservoir, door struts
 * Known recalls: 17V-390/391 (Transmission Connector), 14V-010 (Throttle Pedal)
-* Market forecast: [dynamic Exotic Car Hacks forecast or supported 12-month range]
+* Market forecast: Consult Exotic Car Hacks for current 12-month pricing data.
+
+

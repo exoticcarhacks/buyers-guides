@@ -1,3 +1,6 @@
+# REWRITE TASK: bmw_m3_m4_g8x_2021_2025_buyers_guide.md
+
+## ORIGINAL GUIDE CONTENT
 # 2021–2025 BMW M3 / M4 (G8X Generation) Buyer Guide
 
 ## 1. Introduction
@@ -7,11 +10,11 @@ The G8X generation (G80 M3 Sedan, G82 M4 Coupe, G83 M4 Convertible) marks a mass
 
 | Year | Base MSRP | Key Changes & Notes |
 |---|---|---|
-| 2021 | $69,900 (M3) / $71,800 (M4) | Initial launch year. Available in Base (manual, 473 hp) and Competition (automatic, 503 hp). Rear-wheel drive only. |
+| 2021 | $70,895 (M3) / $72,795 (M4) | Initial launch year. Available in Base (manual, 473 hp) and Competition (automatic, 503 hp). Rear-wheel drive only. (MSRPs include $995 destination charge) |
 | 2022 | $70,100 (M3) / $72,000 (M4) | **M xDrive AWD introduced** for Competition models (+$4,100). M4 Convertible (G83) introduced (xDrive only). |
 | 2023 | $74,300 (M3) / $74,700 (M4) | Major interior update: iDrive 8 introduced with the massive curved dual-screen display. M4 CSL limited edition launched. |
 | 2024 | $76,000 (M3) / $78,100 (M4) | M3 CS limited edition launched. Minor price bumps across the board. |
-| 2025 | $76,000 (M3) / $79,100 (M4) | LCI (Life Cycle Impulse) update. New headlight design, steering wheel updates, and a 20 hp bump for xDrive Competition models (now 523 hp). |
+| 2025 | $77,350 (M3) / $79,100 (M4) | LCI (Life Cycle Impulse) update. New headlight design, steering wheel updates, and a 20 hp bump for M3/M4 Competition xDrive models (now 523 hp). |
 
 ## 3. Trim Levels / Special Editions
 
@@ -64,3 +67,30 @@ The G8X M3/M4 is a phenomenal performance machine that punches well above its we
 *   **Avoid 2021 Automatics:** The 2021 Competition is RWD only. The 2022+ xDrive models are vastly more desirable, making the 2021s harder to exit unless bought extremely cheap.
 *   **Check the Front End:** The low, aggressive front fascia is prone to rock chips and scraping. PPF (Paint Protection Film) is highly recommended; if buying used, look for a car that already has it.
 *   **Verify Recalls:** Especially on 2024/2025 models, verify the main bearing shell recall has been addressed, as an engine failure is a catastrophic expense.
+
+
+---
+
+## AUDIT FINDINGS (Apply ALL corrections below)
+
+**Verdict:** NEEDS MINOR EDITS
+**Severity Score:** 3/10
+
+**INACCURACIES TO FIX:**
+*   **2021 MSRPs:** Guide states $69,900 (M3) / $71,800 (M4). Should clarify these are base MSRPs without destination, or provide MSRPs including the $995 destination charge (e.g., $70,895 for M3, $72,795 for M4). Source: BMW Press Release, Car and Driver.
+*   **2025 M3 MSRP:** Guide states $76,000. Should be $77,350 (including destination). Source: Car and Driver.
+*   **2025 M4 Competition xDrive Horsepower:** Guide states 523 hp. Should be 523 hp for Competition xDrive models, but the guide implies it's for all xDrive Competition models, which is correct, but the wording could be clearer that it's a specific bump for the Competition xDrive, not just any xDrive. Source: BMW USA, Car and Driver.
+
+**UNSUPPORTED CLAIMS TO FIX:**
+None identified.
+
+**GENERIC/VAGUE PROBLEMS TO MAKE SPECIFIC:**
+None identified.
+
+**RECOMMENDED CORRECTIONS:**
+*   For 2021 MSRPs, add a note that prices exclude a $995 destination charge, or update the figures to include it.
+*   Update the 2025 M3 MSRP to $77,350.
+*   Clarify that the 20 hp bump for 2025 models specifically applies to the M3/M4 Competition xDrive models, bringing them to 523 hp.
+
+**MISSING U.S.-SPECIFIC DETAILS TO ADD:**
+None identified.

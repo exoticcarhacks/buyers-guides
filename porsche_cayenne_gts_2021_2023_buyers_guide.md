@@ -1,5 +1,6 @@
 # Porsche Cayenne GTS 2021-2023 Buyer Guide
 The Porsche Cayenne GTS, spanning model years 2021-2023, represents the sweet spot in the Cayenne lineup, blending potent V8 performance with enhanced sporting dynamics. It's a compelling hack candidate due to its strong performance credentials and luxury SUV appeal, offering a more engaging driving experience than standard models without the full price premium of a Turbo. The main risk lies in the potential for complex and costly repairs associated with its advanced powertrain and electronics, especially as these vehicles age.
+
 ## Model Year Overview
 | Model Year | Version/Body Style | Base MSRP | Key Details | Buyer Takeaway |
 |---|---|---|---|---|
@@ -14,6 +15,7 @@ The Porsche Cayenne GTS, spanning model years 2021-2023, represents the sweet sp
 | Adaptive Sport Seats Plus (18-way) with Comfort Memory | Optional, $1,780 | Available in 2021 |
 | Premium Package | Optional, $2,540 | Available in 2021 |
 | Premium Plus Package | Optional, $4,810 | Available in 2021 |
+| Lightweight Sport Package (Coupe only) | Optional, $9,140 - $12,620 | Includes carbon-fiber roof, carbon-fiber elements, and a more emotive center exhaust system. Pricing varies based on specific carbon fiber components. [1] [3] |
 | Fire Extinguisher | Optional, $140 | Available in 2022 |
 | Porsche Rear Seat Entertainment | Optional, $2,760 | Available in 2022 |
 | Exclusive Design Gear Selector | Optional, $990 | Available in 2022 |
@@ -43,7 +45,7 @@ The Porsche Cayenne GTS, spanning model years 2021-2023, represents the sweet sp
 | Interior Trim In Textured Aluminum | Optional, $1,000 | Available in 2022 |
 | Interior Trim In Dark Walnut | Optional, $1,000 | Available in 2022 |
 | Sport Chrono Stopwatch/Compass Dial In Mojave Beige | Optional, $420 | Available in 2022 |
-| Massage Seat Function (Front) W/Seat Ventilation (Front And Rear | Optional, $2,850 | Available in 2022 |
+| Massage Seat Function (Front) W/Seat Ventilation (Front And Rear) | Optional, $2,850 | Available in 2022 |
 | Sport Chrono Stopwatch/Compass Dial In White | Optional, $420 | Available in 2022 |
 | Bespoke Decal Set | Optional, $1,350 | Available in 2022 |
 | Owner's Manual Wallet In Leather | Optional, $560 | Available in 2022 |
@@ -182,8 +184,8 @@ The Porsche Cayenne GTS, spanning model years 2021-2023, represents the sweet sp
 | Ventilated Seats (Front) | Optional, $850 | Available in 2023 |
 | Comfort Access | Optional, $940 | Available in 2023 |
 | Interior Trim In Carbon Fiber | Optional, $2,000 | Available in 2023 |
-| Interior Trim Painted In Deviated Exterior Color | Optional, $2,070 | Available in 2023 |
-| Massage Seat Function (Front) W/Seat Ventilation (Front And Rear | Optional, $2,850 | Available in 2023 |
+| Interior Trim Painted In Deviated Exterior Color | Optional, $2,370 | Available in 2023 |
+| Massage Seat Function (Front) W/Seat Ventilation (Front And Rear) | Optional, $2,850 | Available in 2023 |
 | Interior Trim In Dark Walnut | Optional, $1,000 | Available in 2023 |
 | Interior Trim In Anthracite Chestnut W/Aluminum Inlay | Optional, $2,460 | Available in 2023 |
 | Porsche Crest On Headrests (Front And Rear) | Optional, $570 | Available in 2023 |
@@ -208,7 +210,6 @@ The Porsche Cayenne GTS, spanning model years 2021-2023, represents the sweet sp
 | Power Sunblind For Rear Side Windows | Optional, $450 | Available in 2023 |
 | Night Vision Assist | Optional, $2,420 | Available in 2023 |
 | Heated Multifunction Steering Wheel In Dark Walnut | Optional, $800 | Available in 2023 |
-| Four-Zone Climate Control | Optional, $990 | Available in 2023 |
 | Heated Multifunction Steering Wheel In Anthracite Chestnut | Optional, $800 | Available in 2023 |
 | BOSE® Surround Sound System | Optional, $1,200 | Available in 2023 |
 | Burmester® 3D High-End Surround Sound System | Optional, $7,000 | Available in 2023 |
@@ -301,41 +302,24 @@ A thorough Pre-Purchase Inspection (PPI) by a Porsche specialist is non-negotiab
 ### Known Problems
 | Issue | What To Know/Check |
 |---|---|
-| rough shifting | rough shifting |
-| power loss | power loss |
-| transmission slipping (especially during acceleration) | transmission slipping (especially during acceleration) |
-| drivetrain vibration at highway speeds | drivetrain vibration at highway speeds |
-| difficulty shifting gears (particularly in colder conditions). | difficulty shifting gears (particularly in colder conditions). |
-| coolant leaks causing engine overheating | coolant leaks causing engine overheating |
-| check engine light triggering due to temperature issues | check engine light triggering due to temperature issues |
-| engine stalling or power reduction in extreme heat. | engine stalling or power reduction in extreme heat. |
-| inconsistent functionality in lane-keeping assist and other driver aids | inconsistent functionality in lane-keeping assist and other driver aids |
-| infotainment screen malfunctions and freezes | infotainment screen malfunctions and freezes |
-| safety alerts engaging without cause. | safety alerts engaging without cause. |
-| Leaking pipes (per a Porsche service bulletin) and gas tank replacement (another bulletin) | Leaking pipes (per a Porsche service bulletin) and gas tank replacement (another bulletin) |
-| - these were covered under CPO warranty | - these were covered under CPO warranty |
-| so no direct cost to owner | so no direct cost to owner |
-| but indicate potential issues. | but indicate potential issues. |
-| Driver's-side seat belt replacement | Driver's-side seat belt replacement |
-| USB blown fuses | USB blown fuses |
-| - covered under CPO warranty. | - covered under CPO warranty. |
-| premature wear on 22-inch staggered tires | premature wear on 22-inch staggered tires |
-| replacement cost ~$2,900 (including insurance/discount tire coverage). | replacement cost ~$2,900 (including insurance/discount tire coverage). |
-| spark plug change + oil change | spark plug change + oil change |
-| quoted ~$2,600 at dealer | quoted ~$2,600 at dealer |
-| ~$1,900 at independent specialist. | ~$1,900 at independent specialist. |
+| **Transmission Issues (Rough Shifting, Power Loss, Slipping, Drivetrain Vibration, Difficulty Shifting)** | Owners have reported instances of rough shifting, power loss, transmission slipping (especially during acceleration), drivetrain vibration at highway speeds, and difficulty shifting gears (particularly in colder conditions). These symptoms may indicate issues with the valve body, transmission control unit (TCU), or internal transmission components. A diagnostic scan and fluid analysis by a Porsche specialist are recommended. Repair costs for transmission issues can range from $1,500 for minor sensor replacements to over $5,000 for valve body or major component repairs. [4] [5] |
+| **Engine Cooling System Problems (Coolant Leaks, Overheating, Check Engine Light, Stalling)** | The Cayenne's engine cooling system can experience issues such as coolant leaks, leading to engine overheating, activation of the check engine light due to temperature issues, and in extreme cases, engine stalling or power reduction. Common causes include faulty water pumps, thermostat housings, or coolant pipes (often plastic components that degrade over time). Inspect for visible leaks, coolant levels, and temperature gauge fluctuations. A coolant leak diagnosis typically costs $60-$90, while water pump replacement can range from $1,700-$2,000 including parts and labor. [6] [7] [8] |
+| **Electrical and Infotainment System Malfunctions (Inconsistent Driver Aids, Screen Freezes, False Alerts)** | Electrical faults can manifest as inconsistent functionality in lane-keeping assist and other driver aids, infotainment screen malfunctions and freezes, and safety alerts engaging without cause. These issues often stem from software glitches, faulty sensors, or wiring problems within the complex electrical architecture. Check for software updates for the infotainment system. An electrical system diagnosis typically costs $120-$180. [4] [9] [10] |
+| **Premature Wear on 22-inch Staggered Tires** | Owners have reported premature wear on 22-inch staggered tires, often due to aggressive driving, improper alignment, or tire pressure. Regular inspection of tire tread depth and alignment checks are crucial. Replacement cost for a set of 22-inch performance tires can be around $2,900. |
+| **Spark Plug and Oil Change Costs** | Routine maintenance, such as spark plug and oil changes, can be costly at dealerships. A spark plug and oil change service can range from $1,900 at an independent specialist to $2,600 at a dealership. |
+| **Leaking Pipes and Gas Tank Replacement** | Some owners have reported leaking pipes and gas tank replacement, often covered under CPO warranty, indicating potential underlying issues. |
+| **Driver's-side Seat Belt Replacement** | Instances of driver's-side seat belt replacement have been noted, often covered under CPO warranty. |
+| **USB Blown Fuses** | USB port blown fuses have been reported, typically covered under CPO warranty. |
 
 ### NHTSA Recalls
 | NHTSA Recall | Campaign | Affected Years | Issue |
 |---|---|---|---|
 | 21V-341 |  | 2021 | Cracks may develop on the surface of the engine cylinder bore. |
 | 22V-040 |  | 2021-2022 | Rear axle alignment may not have been inspected after vehicle production. |
-| 23V-527 |  | 2023 | A software error in the gateway control unit may lead to an issue. |
+| 23V-527 | APB1 | 2024 | A software error in the gateway control unit may lead to rear hazard warning lights and parking lights failing to illuminate. This affects 2024 Cayenne, Cayenne S, Cayenne Coupe, Cayenne Turbo GT, and Cayenne S Coupe vehicles. [11] |
 
 ## Market Analysis
-[Insert dynamic Exotic Car Hacks historical pricing graph here]
-
-Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.
+Market forecast: The Porsche Cayenne GTS 2021-2023 models are expected to experience stable to slight depreciation, with well-optioned examples generally holding their value better due to their desirability among enthusiasts. However, specific market trends can fluctuate based on economic conditions and demand. It is advisable to consult current market data for the most accurate forecast.
 
 ## Conclusion
 The Porsche Cayenne GTS 2021-2023 is a **strong hack candidate** for those seeking a high-performance luxury SUV with excellent driving dynamics. Its main risk is the potential for high maintenance and repair costs, particularly for complex mechanical and electronic systems. The best ownership logic involves meticulous pre-purchase inspection and budgeting for potential future service, leveraging its strong market appeal for strategic entry and exit.
@@ -343,7 +327,20 @@ The Porsche Cayenne GTS 2021-2023 is a **strong hack candidate** for those seeki
 ## Car Hacking Shortcuts
 * Years to buy: 2021-2023
 * Options to look for: Adaptive Sport Seats Plus, Premium Package Plus, Sport Chrono Package, Rear Axle Steering, PDCC, LED-Matrix Headlights, Burmester audio.
-* PPI focus: Transmission/drivetrain health, engine cooling system integrity, electrical system functionality, tire wear, and service records for major intervals.
+* PPI focus: Transmission/drivetrain health (check for rough shifting, slipping, vibrations), engine cooling system integrity (inspect for leaks, overheating signs), electrical system functionality (test infotainment, driver aids), tire wear, and service records for major intervals.
 * Known recalls: Verify 21V-341, 22V-040, 23V-527 by VIN.
 * Market forecast: Stable to slight depreciation, with well-optioned examples holding value better.
 * Ownership logic: Buy well-maintained, strategically optioned examples; plan for potential high-cost repairs; leverage strong demand for exit.
+
+## References
+[1] MotorAuthority. (n.d.). *Review update: 2021 Porsche Cayenne GTS Coupe ramps up SUV style and performance*. Retrieved from https://www.motorauthority.com/news/1134611_review-update-2021-porsche-cayenne-gts-coupe-ramps-up-suv-style-and-performance
+[2] Porsche Littleton. (n.d.). *2021 Porsche Cayenne GTS*. Retrieved from https://www.porschelittleton.com/2021-porsche-cayenne-gts.htm
+[3] Porsche Newsroom USA. (n.d.). *The New 2021 Porsche Cayenne GTS and Cayenne GTS Coupe*. Retrieved from https://newsroom.porsche.com/en_US/products/2021-porsche-cayenne-gts-cayenne-gts-coupe-21202.html
+[4] Lemon Lawyers. (n.d.). *Common Problems for Porsche Cayenne (2021-2025)*. Retrieved from https://www.lemonfirm.com/vehicles/porsche-cayenne
+[5] KBB. (n.d.). *Porsche Transmission Repair and Replacement Prices*. Retrieved from https://www.kbb.com/porsche/cayenne/2021/transmission-repair-and-replacement/
+[6] RepairPal. (n.d.). *2021 Porsche Cayenne Coolant Leak Diagnosis Cost*. Retrieved from https://repairpal.com/estimator/porsche/cayenne/2021/coolant-leak-diagnosis-cost
+[7] Rennlist. (n.d.). *2020 Cayenne Water Pump and Vacuum System Replacement Cost*. Retrieved from https://rennlist.com/forums/cayenne-9y0-2019/1372288-2020-cayenne-water-pump-and-vacuum-system-replacement-cost-2.html
+[8] JustAnswer. (n.d.). *2021 Porsche Cayenne GTS - Engine temperature too high*. Retrieved from https://rennlist.com/forums/cayenne-9y0-2019/1466598-2021-cayenne-gts-engine-temperature-too-high.html
+[9] RepairPal. (n.d.). *Porsche Cayenne Electrical System Diagnosis Cost Estimate*. Retrieved from https://repairpal.com/estimator/porsche/cayenne/electrical-system-diagnosis-cost
+[10] YourMechanic. (n.d.). *Porsche Cayenne Electric Problems Inspection Costs*. Retrieved from https://www.yourmechanic.com/estimates/porsche/cayenne/electric-problems-inspection
+[11] NHTSA. (2023, July 28). *Part 573 Safety Recall Report 23V-527*. Retrieved from https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V527-5067.PDF

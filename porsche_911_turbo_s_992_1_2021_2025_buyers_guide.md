@@ -4,33 +4,31 @@ The Porsche 911 Turbo S 992.1, produced from 2021 to 2025, represents the pinnac
 
 ## Model Year Overview
 
-| Model Year | Version/Body Style | Base MSRP | Key Details | Buyer Takeaway |
-|---|---|---|---|---|
-| 2021 | Coupe and Cabriolet | $203,500 | U.S. launch year. Turbo S Coupe arrives with 641 hp / 590 lb-ft, PDK, PTM AWD, PAA, PCCB, and Sport Chrono/Launch Control part of the performance suite. | U.S. launch year, strong performance baseline. |
-| 2022 | Coupe and Cabriolet | $207,000 | PCM 6.0 infotainment update adds Android Auto and UI changes on applicable cars; mechanicals unchanged. | Infotainment update, mechanically identical. |
-| 2023 | Coupe and Cabriolet | $230,400 | Running refinements and package shuffles; the Lightweight Package (buckets, rear-seat delete, thinner glass, reduced sound deadening, PASM Sport) appears in press tests and trims weight significantly while sharpening responses. | Lightweight Package introduced, minor refinements. |
-| 2024 | Coupe and Cabriolet | $230,400 | Core 992.1 recipe continues ahead of the 992.2 generation. | Consistent recipe, 2025 is the last pure-ICE model. |
-| 2025 | Coupe and Cabriolet | $230,400 | Core 992.1 recipe continues ahead of the 992.2 generation. Last pure-ICE Turbo S of this era before hybridized 992.2 (MY2026). | Consistent recipe, 2025 is the last pure-ICE model. |
+| Model Year | Version/Body Style | Base MSRP (Coupe) | Base MSRP (Cabriolet) | Key Details | Buyer Takeaway |
+|---|---|---|---|---|---|
+| 2021 | Coupe and Cabriolet | $204,850 | $217,650 | U.S. launch year. Turbo S Coupe arrives with 640 hp / 590 lb-ft, PDK, PTM AWD, PAA, PCCB, and Sport Chrono/Launch Control part of the performance suite. The Lightweight Package (buckets, rear-seat delete, thinner glass, reduced sound deadening, PASM Sport) was announced in 2020 for the 2021 model year. | U.S. launch year, strong performance baseline. Lightweight Package introduced. |
+| 2022 | Coupe and Cabriolet | $208,350 | $221,150 | PCM 6.0 infotainment update adds Android Auto and UI changes on applicable cars; mechanicals unchanged. Includes $1,350 delivery, processing, and handling fee. | Infotainment update, mechanically identical. |
+| 2023 | Coupe and Cabriolet | $217,750 | $230,550 | Running refinements and package shuffles. Includes $1,650 delivery, processing, and handling fee. | Minor refinements. |
+| 2024 | Coupe and Cabriolet | $232,050 | $244,850 | Core 992.1 recipe continues ahead of the 992.2 generation. Includes $1,650 delivery, processing, and handling fee. | Consistent recipe, 2025 is the last pure-ICE model. |
+| 2025 | Coupe and Cabriolet | $232,050 | $244,850 | Core 992.1 recipe continues ahead of the 992.2 generation. Last pure-ICE Turbo S of this era before hybridized 992.2 (MY2026). Includes $1,650 delivery, processing, and handling fee. | Consistent recipe, 2025 is the last pure-ICE model. |
 
 ## Factory Options
 
 | Factory Option/Package | Pricing/Status | Notes |
 |---|---|---|
-| Lightweight Package | Varies | 2023 |
-| Rear-Axle Steering | Varies | 2021-2025 |
-| PDCC (Porsche Dynamic Chassis Control) | Varies | 2021-2025 |
+| Lightweight Package | Varies | 2021 |
 | Front-Axle Lift System | Varies | 2021-2025 |
 | Sport Exhaust System | Varies | 2021-2025 |
 | PCCB (Porsche Ceramic Composite Brakes) | Standard | 2021-2025 |
 | 20/21-inch staggered wheels | Standard | 2021-2025 |
+| Rear-Axle Steering | Standard | 2021-2025 |
+| PDCC (Porsche Dynamic Chassis Control) | Standard | 2021-2025 |
 
 ## Must-Haves
 
 | Priority | Factory Option/Package | Pricing/Status | Why It Matters |
 |---|---|---|---|
 | Strongly Preferred | Lightweight Package | Varies | Significantly reduces weight and sharpens handling, enhancing performance and desirability. |
-| Strongly Preferred | Rear-Axle Steering | Varies | Improves low-speed maneuverability and high-speed stability. |
-| Strongly Preferred | PDCC (Porsche Dynamic Chassis Control) | Varies | Reduces body roll, improving handling and ride comfort. |
 | Strongly Preferred | Front-Axle Lift System | Varies | Essential for navigating speed bumps and steep driveways without scraping. |
 | Strongly Preferred | Sport Exhaust System | Varies | Enhances the auditory experience, a key part of the Porsche ownership experience. |
 
@@ -69,7 +67,7 @@ The Porsche 911 Turbo S 992.1 is a **strong hack candidate**. Its blend of extre
 ## Car Hacking Shortcuts
 
 * Years to buy: 2021-2025 (especially 2025 for last pure-ICE model)
-* Options to look for: Lightweight Package, Rear-Axle Steering, PDCC, Front-Axle Lift System, Sport Exhaust System
+* Options to look for: Lightweight Package, Front-Axle Lift System, Sport Exhaust System
 * Preferred colors: (No data provided, so omitting as per rule)
 * PPI focus: PDK shift fork distance sensor, PCCB wear, center-lock wheel integrity, injector health, electronics quirks.
 * Known recalls: 23V715000 (Air Bags), 24V123000 (Seat Belts)

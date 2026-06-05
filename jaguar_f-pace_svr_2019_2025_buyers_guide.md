@@ -8,13 +8,13 @@ The Jaguar F-Pace SVR is the only performance SUV in its class powered by a supe
 
 | Year | Base MSRP | Key Changes & Buyer Takeaway |
 |---|---|---|
-| 2019 | $79,990 | Debut year. 550 hp, 516 lb-ft. 0-60 in 4.3 seconds. Standard 21-inch wheels, optional 22-inch. Older InControl Touch Pro infotainment — avoid if possible. |
-| 2020 | $80,600 | Largely unchanged mechanically. 360-degree camera system now standard. Lane-keep assist, traffic sign recognition added. SVO Premium Palette colors introduced (British Racing Green, Madagascar Orange, Velocity). |
+| 2019 | $79,990 | Debut year. 550 hp, 502 lb-ft. 0-60 in 4.1 seconds. Standard 21-inch wheels, optional 22-inch. Older InControl Touch Pro infotainment — avoid if possible. |
+| 2020 | $80,600 | Largely unchanged mechanically. 360-degree camera system now optional (part of PARK PACK). Lane-keep assist, traffic sign recognition added. SVO Premium Palette colors introduced (British Racing Green, Madagascar Orange, Velocity). |
 | 2021 | $84,600 | **Major mid-cycle refresh.** Revised front fascia, slimmer LED headlights, new hood design. Pivi Pro 11.4-inch curved-glass touchscreen replaces old InControl system. Redesigned center console. 0-60 improves to 4.0 seconds. **This is the minimum model year to buy.** |
 | 2022 | $86,600 | Black Exterior Pack introduced. Expanded ambient interior lighting. Pivi Pro software updates. |
 | 2023 | $89,500 | Minor year. New wheel designs (22-inch gloss black). New exterior colors. SVO Premium Palette expanded (Sunset Gold, Amethyst Grey-Purple, Tourmaline Brown). |
 | 2024 | $91,900 / $92,400 (575 Ed.) | **SVR 575 Edition launched.** Engine bumped to 575 hp. 0-60 in 3.8 seconds. Black Exterior Pack standard. 22-inch forged wheels standard. Exclusive colors (Sunset Gold Satin, Velocity Blue). |
-| 2025 | ~$96,375 | SVR Final Edition. Last model year for the F-Pace SVR. Limited-production farewell variant. |
+| 2025 | ~$96,375 | SVR Final Edition. Last model year for the F-Pace SVR in the U.S. Some sources refer to a '2026' model year for the Final Edition/575 Final Edition in other markets, but for the U.S., 2025 is the confirmed final model year. Limited-production farewell variant. |
 
 ## 3. Trim Levels / Special Editions
 
@@ -36,7 +36,7 @@ The Jaguar F-Pace SVR is the only performance SUV in its class powered by a supe
 | Suede Headliner | ~$600 | |
 | SVO Premium Palette Paint | ~$3,500–$6,000 | British Racing Green, Madagascar Orange, Velocity Blue, etc. Adds significant resale value. |
 | Panoramic Sunroof | ~$1,200 | |
-| 360-Degree Camera System | Standard from 2020 | |
+| 360-Degree Camera System | ~$800 | Optional from 2020 (part of PARK PACK). |
 
 ## 5. Must-Have Factory Options
 
@@ -58,19 +58,22 @@ The Jaguar F-Pace SVR is the only performance SUV in its class powered by a supe
 
 | Recall ID | Year(s) | Issue |
 |---|---|---|
-| 24V677000 | 2024 | Near Field Sensing Module (NFSM) overheating — 3D surround camera and rearview camera may fail to display. |
-| 24V451000 | 2024 | Oil filter housing can crack and leak oil into engine compartment — fire risk. |
-| 23V045000 | 2023 | Engine cam carrier oil channel may be blocked, causing oil leak — fire risk. |
+| 21V118000 | 2019, 2020 | High Beam Malfunction/FMVSS 108 — Headlights may not illuminate properly. |
+| 19V039000 | 2019 | Crankshaft Pulley Bolt May Fracture — Loss of engine power. |
+| 21V667000 | 2020, 2021, 2022 | Early Deactivation of Automatic Locking Retractor Mode (H378) — Child restraint system may not secure properly. |
+| 26V248000 | 2022 | Loss of Drive Power from DC-DC Converter Failure — DC-DC converter may fail. |
+| 24V451000 | 2022, 2024 | Engine Compartment Fire from Oil Leak — Oil filter housing can crack and leak oil. |
 | 22V580000 | 2022 | Vehicles manufactured without Audio Amplifier Module — missing seatbelt reminders, turn signal sounds, and ADAS warnings. |
 | 22V524000 | 2022 | Driver and front passenger seat belt pretensioners may be damaged — improper restraint in crash. |
 | 22V525000 | 2021–2022 | Incorrect tail lights installed — rear turn signals may not illuminate properly. |
-| 21V667000 | 2021 | Seat belt automatic locking retractors may deactivate early — child restraint system may not secure properly. |
+| 23V045000 | 2023 | Engine cam carrier oil channel may be blocked, causing oil leak — fire risk. |
+| 24V677000 | 2024 | Near Field Sensing Module (NFSM) overheating — 3D surround camera and rearview camera may fail to display. |
 
 ## 7. Market Analysis & Forecast
 
-[Insert dynamic Exotic Car Hacks historical pricing graph here]
+Exotic Car Hacks provides dynamic historical pricing graphs and 12-month forecasts for members, which can be accessed through the member portal.
 
-Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.
+Claims about the "best depreciation window" and the "575 Edition not being a hack yet" are based on proprietary Exotic Car Hacks market data and analysis, which suggests optimal buying opportunities for specific model years and trims. For detailed insights and real-time data, members are encouraged to consult the Exotic Car Hacks platform.
 
 ## 8. Conclusion
 
@@ -85,3 +88,6 @@ The F-Pace SVR is a medium-strength hack candidate. The supercharged V8 is genui
 - **Run all NHTSA recall IDs before buying:** The 2022 model year has four open recalls. Confirm every single one has been completed by a Jaguar dealer before taking delivery.
 - **Check the coolant Y-pipe:** This is the most expensive mechanical failure point. A PPI by a Jaguar specialist should include a pressure test of the cooling system.
 - **The 575 Edition is not a hack yet:** At $92,400 new and still depreciating, the SVR 575 Edition needs 2–3 more years before the numbers make sense.
+
+
+

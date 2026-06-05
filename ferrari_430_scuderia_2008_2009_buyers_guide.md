@@ -7,9 +7,16 @@ The Ferrari 430 Scuderia, a lighter and more powerful variant of the F430, repre
 
 | Model Year | Version/Body Style | Base MSRP | Key Details | Buyer Takeaway |
 |---|---|---|---|---|
-| 2008 | 430 Scuderia | $277,456 | Interior restyled for improved driver ergonomics, new instrument binnacle. Carbon ceramic brakes became standard. Key hole deleted. Enhanced B-8 engine delivering 503 horsepower. New F1 gearbox program. Scuderia seats available as an option. Late 2008 models had Carbon Fiber Exterior, Front (CEXF) and Carbon Fiber Exterior, Diffuser (CEXD) as standard equipment, contributing to a 22 lbs weight reduction. | Early models may lack some carbon fiber exterior elements that became standard later in the year. The enhanced engine and standard carbon ceramic brakes make this a potent package. |
-| 2009 | 430 Scuderia | $286,968 | New traction control "Off" mode replacing "Ice". | The addition of an "Off" mode for traction control offers a more engaging driving experience for experienced drivers. |
-| 2009 | Scuderia Spider 16M | $313,350 | Limited-edition (499 units globally) celebrating Ferrari's 16th Formula 1 World title, featuring a more aggressive engine response. | The 16M is the most collectible and sought-after variant, commanding a significant premium due to its rarity and enhanced performance. |
+| 2008 | 430 Scuderia | $272,306 | Interior restyled for improved driver ergonomics, new instrument binnacle. Carbon ceramic brakes became standard. Key hole deleted. Enhanced B-8 engine delivering 503 horsepower. New F1 gearbox program. Scuderia seats available as an option. Carbon Fiber Exterior, Front (CEXF) and Carbon Fiber Exterior, Diffuser (CEXD) were optional, contributing to a 22 lbs weight reduction when equipped. | These carbon fiber elements were optional, making their presence a desirable feature. The enhanced engine and standard carbon ceramic brakes make this a potent package. |
+| 2009 | 430 Scuderia | $286,118 | New traction control "Off" mode replacing "Ice". | The addition of an "Off" mode for traction control offers a more engaging driving experience for experienced drivers. |
+| 2009 | Scuderia Spider 16M | $303,800 | Limited-edition (499 units globally) celebrating Ferrari's 16th Formula 1 World title, featuring a more aggressive engine response. | The 16M is the most collectible and sought-after variant, commanding a significant premium due to its rarity and enhanced performance. |
+
+## Performance Data
+
+| Metric | Value |
+|---|---|
+| 0-60 mph | 3.1-3.5 seconds |
+| Top Speed | 198-199 mph |
 
 ## Special Editions
 

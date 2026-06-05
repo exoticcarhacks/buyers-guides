@@ -1,7 +1,7 @@
 # Ferrari FF (2012-2016) Buyer's Guide
 
 ## 1. Introduction
-The Ferrari FF, short for Ferrari Four, made its U.S. debut in 2012 as a groundbreaking model for the brand. It was Ferrari's first production vehicle to feature four-wheel drive, housed within a distinctive shooting brake body style. Under the hood, it boasted a potent 6.3-liter naturally aspirated V12 engine, delivering an impressive 651 horsepower. Throughout its production run from 2012 to 2016, the base Manufacturer's Suggested Retail Price (MSRP) remained consistently around $295,000 to $300,000.
+The Ferrari FF, short for Ferrari Four, made its U.S. debut in 2012 as a groundbreaking model for the brand. It was Ferrari's first production vehicle to feature four-wheel drive, housed within a distinctive shooting brake body style. Under the hood, it boasted a potent 6.3-liter naturally aspirated V12 engine, delivering an impressive 651 horsepower, propelling it from 0-60 mph in 3.5 seconds and to a top speed of 208 mph (335 km/h) [^1]. Throughout its production run from 2012 to 2016, the base Manufacturer's Suggested Retail Price (MSRP) remained consistently around $295,000 to $300,000. It is important to note that some sources, such as Kelley Blue Book, may display significantly lower figures; these typically represent used market values or fair purchase prices, not the original MSRP.
 
 ## 2. Changes by Model Year
 
@@ -37,7 +37,10 @@ While the FF's V12 engine is generally robust, prospective buyers should be awar
 
 **NHTSA Recalls:**
 *   **22V-536 (2012-2016 models):** Brake fluid reservoir cap may not vent properly, potentially leading to a vacuum and fluid leak, and loss of braking function.
-*   **19V-006, 18V-381, 18V-040, 17V-018 (Various 2012-2016 models):** Multiple recalls related to defective Takata passenger frontal airbag inflators.
+*   **19V-006 (2014-2016 Ferrari FF):** Multiple recalls related to defective Takata passenger frontal airbag inflators.
+*   **18V-381 (Various 2012-2016 models):** Multiple recalls related to defective Takata passenger frontal airbag inflators.
+*   **18V-040 (Various 2012-2016 models):** Multiple recalls related to defective Takata passenger frontal airbag inflators.
+*   **17V-018 (Various 2012-2016 models):** Multiple recalls related to defective Takata passenger frontal airbag inflators.
 *   **15V-433 (2015 models):** Improperly assembled driver-side airbag module that may deploy in a rotated orientation.
 
 ## 7. Market Analysis & Forecast
@@ -54,3 +57,5 @@ For enthusiasts and those seeking the best value, the **2015 or 2016 model years
 *   **Battery Upgrade:** To mitigate common electrical gremlins, consider upgrading to a high-quality Lithium-ion battery (e.g., Antigravity) as a preventative measure.
 *   **Service History is King:** Always prioritize vehicles with a comprehensive and verifiable service history, ideally from authorized Ferrari dealerships or reputable independent specialists. This indicates diligent maintenance and can be a strong indicator of a well-cared-for example.
 *   **Warranty Consideration:** For peace of mind, especially with the potential for high repair costs, look for vehicles with an active Ferrari Power warranty or consider purchasing one if available.
+
+[^1]: Sources: Car and Driver, FastestLaps.com, Ferrari Official Specifications.

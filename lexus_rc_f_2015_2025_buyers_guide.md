@@ -46,21 +46,20 @@ The Lexus RC F is a naturally aspirated 5.0L V8 luxury sports coupe that offers 
 
 ## Known Problems & Recalls
 
-Always get a Pre-Purchase Inspection (PPI) before buying.
-
 ### Known Problems
 
 | Issue | What To Know/Check |
 |---|---|
 | Transmission Fluid Leak and Overheating | Check for visible fluid under the car, transmission warning lights, rough or delayed shifting. Can lead to limp mode. |
-| High-Pressure Fuel Pump Pulsation Damper Failure | Check for engine vibration, rough idle, fuel odor due to leaks. |
+| High-Pressure Fuel Pump Pulsation Damper Failure | Check for engine vibration, rough idle, fuel odor due to leaks. This issue is linked to NHTSA recall 18V107000. |
 | Coolant Leak in Engine Valley and Thermostat Failure | Check for low coolant warnings, visible coolant pooling under the engine, overheating. |
 
 ### NHTSA Recalls
 
 | NHTSA Recall | Campaign | Affected Years | Issue |
 |---|---|---|---|
-| 19V096000 | Certain 2018-2019 Lexus RC F vehicles. The low-pressure fuel pump inside the fuel tank may fail. | 2018, 2019 | Fuel Pump Failure |
+| 19V096000 | Certain 2019 Lexus RC F vehicles. The driver's seat and seat belt bolts may be loose. | 2019 | Driver's Seat and Seat Belt Bolts may be Loose [1] |
+| 18V107000 | Certain 2015-2018 Lexus RC F vehicles. The high pressure fuel pump may crack and leak fuel. | 2015-2018 | High Pressure Fuel Pump May Crack and Leak Fuel [2] |
 
 ## Market Data
 
@@ -78,5 +77,10 @@ The Lexus RC F is a strong hack candidate due to its bulletproof reliability and
 * Options to look for: Performance/Carbon Package, Mark Levinson Audio
 * Preferred colors: Ultrasonic Blue Mica, Infrared
 * PPI focus: Transmission fluid leaks, coolant valley leaks, fuel pump condition
-* Known recalls: 19V096000 (Fuel Pump)
+* Known recalls: 19V096000 (Driver's Seat and Seat Belt Bolts), 18V107000 (High Pressure Fuel Pump)
 * Market forecast: Stable depreciation curve, highly liquid for well-optioned specs
+
+## References
+
+[1] NHTSA.gov - Recall 19V096000: Driver's Seat and Seat Belt Bolts may be Loose (https://www.nhtsa.gov/recalls/recall-details/19V096000)
+[2] NHTSA.gov - Recall 18V107000: High Pressure Fuel Pump May Crack and Leak Fuel (https://www.nhtsa.gov/recalls/recall-details/18V107000)

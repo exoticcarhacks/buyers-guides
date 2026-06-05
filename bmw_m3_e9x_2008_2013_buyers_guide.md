@@ -1,3 +1,6 @@
+# REWRITE TASK: bmw_m3_e9x_2008_2013_buyers_guide.md
+
+## ORIGINAL GUIDE CONTENT
 # BMW M3 E9X Generation (2008-2013) Buyer's Guide
 
 ## 1. Introduction
@@ -17,7 +20,7 @@ The BMW M3 E9X generation, produced from 2008 to 2013, represents a unique chapt
 
 ### 2009 Model Year
 
-*   **Base MSRP:**
+*   **Base MSRP (Excluding $875 Destination and Handling; figures may vary slightly by source):**
     *   M3 Sedan: $54,500
     *   M3 Coupe: $57,500
     *   M3 Convertible: $66,150
@@ -33,18 +36,23 @@ The BMW M3 E9X generation, produced from 2008 to 2013, represents a unique chapt
 
 ### 2011 Model Year
 
+*   **Base MSRP (Including $875 Destination and Handling):** (Consistent with 2010)
+    *   M3 Sedan: $56,275
+    *   M3 Coupe: $59,275
+    *   M3 Convertible: $67,925
+
 *   **Key Changes:** Introduction of the ZCP Competition Package, automatic engine start/stop, Bluetooth and iPod integration became more common, M Drive button became standard, standard manually adjusting seats for E90 and E92, Convenience Package replaced the Technology Package.
 
 ### 2012 Model Year
 
-*   **Base MSRP:**
-    *   Coupe RWD: $60,100
-    *   Convertible RWD: $68,750
+*   **Base MSRP (Including $895 Destination and Handling; figures may vary slightly by source):**
+    *   M3 Coupe: $60,100
+    *   M3 Convertible: $68,750
 *   **Key Changes:** New color options, standard anti-theft alarm systems in the E92 and E93, iPod/USB adaptor and BMW Assist were common.
 
 ### 2013 Model Year (Effective July 1, 2012)
 
-*   **Base MSRP (U.S.A. Port of Entry):**
+*   **Base MSRP (Including $895 Destination and Handling; figures may vary slightly by source):**
     *   M3 Coupe: $60,100
     *   M3 Convertible: $68,750
 *   **Key Options:** Dynamic Damper Control (223) $1,000, M Double-clutch Transmission with Drivelogic (2MK) $2,900, 19" Light alloy Double-spoke wheels style 220M (2MT) $1,200, Comfort Access keyless entry (322) $500, Moonroof (403) No Charge, Power rear sunshade (415) $350, Heated front seats (494) $500, Carbon Leather interior trim (4MY) $500, Sycamore Anthracite Wood trim (4MZ) $500, Through-loading system (4UT) $380, Park Distance Control (rear only) (507) $750, Automatic high beams (5AC) $250.
@@ -134,3 +142,4 @@ The BMW M3 E9X generation offers an exhilarating driving experience with its uni
 *   **Body Style Preference:** The E90 Sedan is an excellent choice for a balanced performance and practicality. The E92 Coupe (2010 and up) is recommended for those who prioritize classic M3 looks and updated LCI features. The E93 Convertible is the heaviest and least performance-oriented; only consider if a convertible is a must-have.
 *   **Mandatory Pre-Purchase Inspection (PPI):** Always get a thorough PPI from a reputable independent BMW specialist. This should include a detailed inspection of the engine, transmission, differential, and a critical oil analysis to check for rod bearing wear. This can be your most valuable tool for negotiation or for walking away from a problematic car.
 *   **Service Records are Gold:** Demand complete service records. Look for evidence of preventative maintenance, especially rod bearing replacements if applicable, and regular oil changes with appropriate oil.
+

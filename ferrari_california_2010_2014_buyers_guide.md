@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-The Ferrari California, produced from 2008 to 2013, represented a significant departure for the marque, offering a more accessible grand touring experience with its retractable hardtop and front-mid mounted V8 engine. Designed to attract new buyers to the brand, it blended performance with everyday usability. This guide focuses on the U.S. model years 2010-2014, including the transitional 2014 California T, providing essential insights for prospective owners.
+The Ferrari California was produced from 2008 to 2014 globally, with U.S. model years typically running from 2009 to 2014. The 2014 model year was the last for the original California before the introduction of the California T. It represented a significant departure for the marque, offering a more accessible grand touring experience with its retractable hardtop and front-mid mounted V8 engine. Designed to attract new buyers to the brand, it blended performance with everyday usability. This guide focuses on the U.S. model years 2010-2014, including the transitional 2014 California T, providing essential insights for prospective owners.
 
 ## 2. Changes by Model Year
 
@@ -14,7 +14,7 @@ The Ferrari California, produced from 2008 to 2013, represented a significant de
 
 **2012 Ferrari California:**
 *   Significant update with a **weight reduction of 66 lbs** (achieved through aluminum usage), improving handling and agility.
-*   Engine output increased to **483 hp** (from 453 hp).
+*   Engine output for the **Ferrari California 30** (or California 30) increased to **490 hp** (from 453 hp).
 *   Refined suspension settings for improved handling dynamics.
 
 **2013 Ferrari California:**
