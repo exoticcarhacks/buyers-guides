@@ -10,7 +10,7 @@ The Audi RS6 Avant is not just a station wagon; it's a high-performance, twin-tu
 | 2022 | C8 Generation | $117,495 | Standard 21-inch wheels, heated rear seats, Black Optic exterior package. DRC suspension became a standalone option. | Minor refinements and more standard features. |
 | 2023 | C8 Generation | $121,995 | No significant changes reported. | Carryover year, consistent with previous model. |
 | 2024 | C8 Generation Performance | $127,895 | Introduction of the RS6 Avant Performance model with increased horsepower (621 hp) and torque (627 lb-ft), revised self-locking center differential, lighter wheels, and a new RS Design package. Standard adaptive cruise assist, lane assist, and remote park assist. | Significant performance upgrade with more standard tech. |
-| 2025 | C8 Generation Performance | Not officially released, likely a carryover from 2024 Performance model. | Based on 2026 model year pricing, expect a slight increase from 2024. | Refined performance model, likely stable. |
+| 2025 | C8 Generation Performance | $126,600 | Carryover from 2024 Performance model. | Refined performance model, likely stable. |
 
 ## Trims and Special Editions
 
