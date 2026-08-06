@@ -11,6 +11,7 @@ The Audi RS6 Avant is not just a station wagon; it's a high-performance, twin-tu
 | 2023 | C8 Generation | $121,995 | No significant changes reported. | Carryover year, consistent with previous model. |
 | 2024 | C8 Generation Performance | $127,895 | Introduction of the RS6 Avant Performance model with increased horsepower (621 hp) and torque (627 lb-ft), revised self-locking center differential, lighter wheels, and a new RS Design package. Standard adaptive cruise assist, lane assist, and remote park assist. | Significant performance upgrade with more standard tech. |
 | 2025 | C8 Generation Performance | $127,895 | Carryover from 2024 Performance model. | Refined performance model, likely stable. |
+| 2025 | RS6 Avant GT | $198,900 (base MSRP) | Strictly limited to 85 units in the U.S. (660 worldwide). Finished exclusively in a white, red, and black heritage livery inspired by the 1989 Audi 90 quattro IMSA GTO race car. Carbon fiber hood and front fenders, adjustable coilover suspension, standard carbon-ceramic brakes, and a uniquely tuned quattro sport rear differential. Assembled by hand at Audi's Bollinger Hofe small-series facility. Serialized build plaque (X/660) on every car. | Instantly collectible. All 85 U.S. units were pre-sold. The only way to acquire one is on the secondary market, where asking prices have already exceeded $250,000. Not a hack buy; a collector purchase. |
 
 ## Trims and Special Editions
 
@@ -18,6 +19,7 @@ The Audi RS6 Avant is not just a station wagon; it's a high-performance, twin-tu
 |---|---|---|---|
 | RS6 Avant | 2021-2023 | 4.0L Twin-Turbo V8 (591 hp, 590 lb-ft) | Standard high-performance wagon. |
 | RS6 Avant Performance | 2024-2025 | 4.0L Twin-Turbo V8 (621 hp, 627 lb-ft) | Enhanced power, revised differential, lighter wheels, and more standard tech. |
+| RS6 Avant GT | 2025 | 4.0L Twin-Turbo V8 (621 hp, 627 lb-ft) | Limited to 85 U.S. units. Standard carbon-ceramic brakes, adjustable coilover suspension (lowers 10mm vs Performance), uniquely tuned quattro sport rear differential, carbon fiber hood and fenders, 22-inch Avus wheels in Ibis White. 0-60 in 3.2 seconds, top speed 190 mph. Roughly 88 lbs lighter than the RS6 Avant Performance. Assembled by hand at Bollinger Hofe. MSRP $198,900. |
 | RS Tribute Edition | 2021 | 4.0L Twin-Turbo V8 (591 hp, 590 lb-ft) | Limited to 25 units for the U.S. market, featuring Nogaro Blue paint, 22-inch wheels, and specific interior trim. |
 
 ## Factory Options
@@ -89,11 +91,12 @@ The Audi RS6 Avant is a **strong hack candidate** for those who appreciate under
 
 ## Car Hacking Shortcuts
 
-* Years to buy: 2022-2023 for value, 2024+ for ultimate performance.
+* Years to buy: 2022-2023 for value, 2024-2025 for ultimate performance.
 * Options to look for: Carbon Optic Package, Dynamic Ride Control (DRC) Suspension, Executive Package, Sport Exhaust.
+* RS6 GT note: The 2025 RS6 Avant GT is not a hack buy. All 85 U.S. units were pre-sold at $198,900 MSRP and are now trading on the secondary market well above $250,000. It is a collector purchase for those who want the most exclusive and track-focused RS6 ever built. If you find one, verify the serialized build plaque (X/660) and confirm the carbon-ceramic brakes, coilover suspension, and IMSA livery are intact and unmodified.
 * PPI focus: Thorough inspection of the 48V mild-hybrid system (specifically the Belt Starter Generator), MMI functionality (check for latest software), air suspension (for consistent ride height), and all electronic systems.
 * Known recalls: 25V900000 (Rearview Camera, 2021-2026), 25V201000 (Instrument Panel, 2021), 23V601000 (Incorrect Brake Fluid Cap, 2021), 22V861000 (Control Module Shutdown, 2021-2022).
-* Market forecast: Expect stable depreciation for well-optioned examples, with Performance models holding value slightly better, supported by market data for similar vehicles.
+* Market forecast: Expect stable depreciation for well-optioned Performance examples. The RS6 GT is expected to appreciate given its 85-unit U.S. production cap and collector demand.
 * Best ownership logic: Buy a well-maintained example with a comprehensive service history, ideally with an extended warranty covering complex electronics. Budget for higher insurance costs typical of high-performance luxury vehicles.
 
 ### Missing U.S.-Specific Details
