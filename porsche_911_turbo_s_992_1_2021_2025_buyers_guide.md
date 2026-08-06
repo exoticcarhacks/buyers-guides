@@ -28,9 +28,10 @@ The Porsche 911 Turbo S 992.1, produced from 2021 to 2025, represents the pinnac
 
 | Priority | Factory Option/Package | Pricing/Status | Why It Matters |
 |---|---|---|---|
-| Strongly Preferred | Lightweight Package | Varies | Significantly reduces weight and sharpens handling, enhancing performance and desirability. |
+| Must Have | Burmester High-End Surround Sound System | Varies | A significant upgrade over the standard audio and a strong resale and desirability factor on this platform. Prioritize examples equipped with it. |
+| Must Have | Sport Design Package | Varies | Enhances the exterior aesthetics with a more aggressive look and is a strong resale and desirability factor. |
 | Strongly Preferred | Front-Axle Lift System | Varies | Essential for navigating speed bumps and steep driveways without scraping. |
-| Strongly Preferred | Sport Exhaust System | Varies | Enhances the auditory experience, a key part of the Porsche ownership experience. |
+| Strongly Preferred | Sport Exhaust System (PSE) | Varies | Enhances the auditory experience, a key part of the Porsche ownership experience. |
 
 ## Known Problems & Recalls
 
