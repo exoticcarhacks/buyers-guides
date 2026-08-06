@@ -95,9 +95,3 @@ The Audi RS6 Avant is a **strong hack candidate** for those who appreciate under
 * Market forecast: Expect stable depreciation for well-optioned Performance examples. The RS6 GT is expected to appreciate given its 85-unit U.S. production cap and collector demand.
 * Best ownership logic: Buy a well-maintained example with a comprehensive service history, ideally with an extended warranty covering complex electronics. Budget for higher insurance costs typical of high-performance luxury vehicles.
 
-### Missing U.S.-Specific Details
-
-*   **EPA Fuel Economy Estimates:**
-    *   2021-2023 RS6 Avant: 15 MPG city / 22 MPG highway / 17 MPG combined
-    *   2024-2025 RS6 Avant Performance: 14 MPG city / 21 MPG highway / 17 MPG combined
-*   **Insurance Costs:** Due to its high-performance nature and luxury vehicle status, insurance costs for the Audi RS6 Avant are typically higher than average. Buyers should obtain insurance quotes prior to purchase. 
