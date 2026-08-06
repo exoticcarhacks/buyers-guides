@@ -62,13 +62,13 @@ Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pri
 
 ## Conclusion
 
-The Porsche 911 Turbo S 992.1 is a **strong hack candidate**. Its blend of extreme performance, daily usability, and robust market demand ensures excellent liquidity. The main risk remains the potential for high repair costs, particularly for advanced components. Best ownership logic involves meticulous pre-purchase inspection and budgeting for potential high-cost component replacements.
+The Porsche 911 Turbo S 992.1 is a strong hack candidate. Its blend of extreme performance, daily usability, and robust market demand ensures excellent liquidity. The minimum year to target is 2022, which added the PCM 6.0 infotainment update with Android Auto. PTS (Paint to Sample) colors consistently command a premium over standard color cars and are worth the extra cost for buyers who prioritize resale. Target well-optioned examples with the Sport Design Package, Porsche Sport Exhaust, Burmester sound system, and front axle lift. The main risk is high repair costs on advanced components; budget accordingly and always PPI with a Porsche specialist.
 
 ## Car Hacking Shortcuts
 
-* Years to buy: 2021-2025 (especially 2025 for last pure-ICE model)
-* Options to look for: Lightweight Package, Front-Axle Lift System, Sport Exhaust System
-* Preferred colors: (No data provided, so omitting as per rule)
-* PPI focus: PDK shift fork distance sensor, PCCB wear, center-lock wheel integrity, injector health, electronics quirks.
-* Known recalls: 23V715000 (Air Bags), 24V123000 (Seat Belts)
+* Years to buy: 2022 minimum. The 2022 model added PCM 6.0 with Android Auto and is the baseline for any serious purchase. All years through 2025 are mechanically identical. The 2025 is the last pure-ICE Turbo S before the hybridized 992.2.
+* Colors: PTS (Paint to Sample) colors are always more desirable and typically command a premium over standard color cars. Worth the extra cost for resale.
+* Options to look for: Sport Design Package, Porsche Sport Exhaust (PSE), Burmester High-End Surround Sound System, Front-Axle Lift System.
+* PPI focus: PDK shift fork distance sensor, PCCB ceramic brake disc wear, center-lock wheel integrity, injector health, and electronics quirks.
+* Known recalls: 23V715000 (Air Bags), 24V123000 (Seat Belts). Verify by VIN.
 * Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.
