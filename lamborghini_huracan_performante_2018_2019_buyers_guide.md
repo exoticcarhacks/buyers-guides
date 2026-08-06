@@ -50,6 +50,7 @@ The Lamborghini Huracan Performante 2018-2019 is a track-focused variant of the 
 | Priority | Factory Option/Package | Pricing/Status | Why It Matters |
 |---|---|---|---| 
 | Must Have | Lifting System and Magneto-Rheological Suspension | Optional, $6,900.00 | Essential for navigating speed bumps and driveways, significantly impacts daily usability and resale. |
+| Must Have | Rims Narvi 20" | Optional, $7,700.00 | The Narvi wheels use a standard non-centerlock bolt pattern, opening up a significantly wider range of aftermarket wheel options compared to the standard centerlock setup. A must have for any buyer who plans to run aftermarket wheels. |
 | Strongly Preferred | Ad Personam Colors | Spec-Dependent | Ad Personam paint and interior options command stronger resale values and improve desirability on the secondary market. Prioritize examples finished in Ad Personam over standard colors when available. |
 | Strongly Preferred | Laser-Engraved Package | Optional, $4,200.00 | The laser-engraved stitching is a highly desirable bespoke detail that enhances interior exclusivity and resale appeal. Prioritize examples equipped with it. |
 | Strongly Preferred | Comfort Seats | Spec-Dependent | Significantly improves daily drivability compared to the standard sport seats. A preferred option for buyers who plan to use the car regularly on the street. |
