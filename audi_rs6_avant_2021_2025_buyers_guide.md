@@ -46,7 +46,7 @@ The Audi RS6 Avant is not just a station wagon; it's a high-performance, twin-tu
 |---|---|---|---|
 | Strongly Preferred | Carbon Optic Package | Optional, $6,650 | Enhances exterior aesthetics and resale value. |
 | Nice to Have | Dynamic Ride Control (DRC) Suspension | Optional, $1,250 | Improves handling dynamics and ride comfort. A worthwhile addition but not a dealbreaker if absent. |
-| Must Have | Ceramic Brakes | Optional, $8,500 | Superior braking performance and significantly reduced brake dust. Carbon-ceramic brakes are a strong resale and desirability factor on this platform and should be prioritized on any example. |
+| Must Have | Ceramic Brakes | Optional, $8,500 (2021-2023 only) | Superior braking performance and significantly reduced brake dust. Carbon-ceramic brakes are a strong resale and desirability factor on this platform and should be prioritized on any example. Note: carbon-ceramic brakes were not available on 2024 models and are extremely rare on 2025 models. Target 2021-2023 examples if this option is a priority. |
 | Must Have | Bang & Olufsen 3D Advanced Sound System | Optional, $4,900 | The B&O system is a significant upgrade over the standard audio and is a strong resale and desirability factor. Prioritize examples equipped with it. |
 | Must Have | Executive Package | Optional, $2,500 | Adds comfort and convenience features that improve daily usability and broad appeal. |
 | Strongly Preferred | Sport Exhaust | Optional, $1,000 | Enhances the V8 sound, a key part of the performance experience. |
