@@ -78,11 +78,11 @@ The BMW Alpina XB7 is a strong hack only when purchased pre-owned after it has a
 
 ## 9. Car Hacking Shortcuts
 
-* Years to buy: 2021 (best pre-LCI) or 2023 (best value LCI)
-* Options to look for: Bowers & Wilkins Sound, Full Merino Leather, Second-Row Captain's Chairs
-* Preferred colors: Alpina Blue Metallic or Alpina Green Metallic
-* PPI focus: Transfer case and front differential (listen for grinding/humming, inspect fluid for metallic particles), A/C evaporator core leaks (hissing from vents), air suspension faults, LCI slim-vent airflow performance
+* Years to buy: 2023 or 2024. The 2021 and 2022 pre-LCI models are showing their age and the value gap no longer justifies the older platform. The 2023 and 2024 LCI models offer more power, modern tech, and better long-term desirability as they continue to depreciate.
+* Options to look for: Bowers and Wilkins Diamond Surround Sound (must have), Full Merino Leather, Second-Row Bench Seat (rare and strongly preferred over captain's chairs), Alpina Piano Black trim or Carbon Fiber interior trim.
+* Preferred colors: Individual color options are the top priority and will command the strongest resale. If no Individual color is available, acceptable alternatives are Dravit Grey Metallic or Alpina Green Metallic.
+* PPI focus: The transfer case and front differential are the single biggest mechanical risk on this platform. Demand full maintenance records and verify a transfer case fluid service has been performed. During the PPI, listen for grinding or humming from the front drivetrain and inspect the fluid for metallic particles. Also check the A/C evaporator core for leaks and test LCI slim-vent airflow performance in hot conditions.
 * Known recalls: 24V-739/24V-104 (Integrated Brake Module), 24V-345 (Seat Belts), 23V-622 (Knee Airbag)
-* Market forecast: Continued softening over the next 12-24 months, with 2021 models offering the best current value.
+* Market forecast: Continued softening over the next 12 to 24 months. 2023 and 2024 models represent the best current buying opportunity as they absorb their steepest depreciation.
 
 
