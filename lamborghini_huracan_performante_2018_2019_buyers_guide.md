@@ -50,7 +50,7 @@ The Lamborghini Huracan Performante 2018-2019 is a track-focused variant of the 
 | Priority | Factory Option/Package | Pricing/Status | Why It Matters |
 |---|---|---|---| 
 | Must Have | Lifting System and Magneto-Rheological Suspension | Optional, $6,900.00 | Essential for navigating speed bumps and driveways, significantly impacts daily usability and resale. |
-| Spec-Dependent | Sensonum (Lamborghini Sound System) | Optional, $3,900.00 | Premium sound system for enhanced audio experience, but not critical for performance or resale. |
+| Nice to Have | Sensonum (Lamborghini Sound System) | Optional, $3,900.00 | Premium sound system for enhanced audio experience, but not critical for performance or resale. |
 
 ## Known Problems & Recalls
 
