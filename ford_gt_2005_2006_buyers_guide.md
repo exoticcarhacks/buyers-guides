@@ -38,7 +38,9 @@ The Ford GT Gen 1 offered a limited but desirable set of factory options that al
 
 ## 5. Must-Have Factory Options
 
-For collectors and enthusiasts, certain factory options significantly enhance the value and desirability of a Ford GT Gen 1. The **McIntosh Audiophile Stereo System** and **Painted Racing Stripes** are considered must-have options. Fully optioned examples, particularly those with these features, are generally more valuable. The painted racing stripes were a premium option, applied and clear-coated for a seamless finish, unlike vinyl decals, adding to their appeal.
+| Priority | Factory Options | Why It Matters |
+|---|---|---|
+| Must Have (Serious Collectors) | McIntosh Audiophile Stereo System, Painted Racing Stripes, Lightweight Forged BBS Wheels, Painted Calipers | Serious collectors should target fully optioned examples with all four options. These are the specifications that command the highest premiums at auction and private sale, and a car missing any of them will always be discounted relative to a complete example. |
 
 ## 6. Common Problems / Recalls
 
