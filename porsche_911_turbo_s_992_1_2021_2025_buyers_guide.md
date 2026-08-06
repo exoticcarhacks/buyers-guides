@@ -16,13 +16,44 @@ The Porsche 911 Turbo S 992.1, produced from 2021 to 2025, represents the pinnac
 
 | Factory Option/Package | Pricing/Status | Notes |
 |---|---|---|
-| Lightweight Package | Varies | 2021 |
-| Front-Axle Lift System | Varies | 2021-2025 |
-| Sport Exhaust System | Varies | 2021-2025 |
-| PCCB (Porsche Ceramic Composite Brakes) | Standard | 2021-2025 |
-| 20/21-inch staggered wheels | Standard | 2021-2025 |
-| Rear-Axle Steering | Standard | 2021-2025 |
-| PDCC (Porsche Dynamic Chassis Control) | Standard | 2021-2025 |
+| **EXTERIOR** | | |
+| Sport Design Package | Optional | Aggressive rear wing extensions, redesigned front splitter with side fins, high-gloss black bodywork on rear apron and side skirts. Transforms the exterior. Strongly commands resale premiums. |
+| Exterior Package Painted | Optional | Body-color or high-gloss black finish on front grille slats, rear side air intakes, side skirts, and rear apron trim. |
+| Sport Exhaust System (PSE) | Optional | Oval tailpipes, adjustable exhaust valves, significantly enhanced sound. Cars without it are harder to sell. |
+| Paint to Sample (PTS) | Optional | Custom color from Porsche's historic palette. Rare on Turbo S. Commands strong premiums. |
+| Tinted Headlights | Optional | Darkened LED Matrix headlight housings for a more sinister look. |
+| Exclusive Design Tail Lights | Optional | Clear/smoked rear light bar with additional lateral indicators. Significant visual upgrade over standard red units. |
+| Carbon Fibre Roof | Optional | Weight reduction, visual upgrade. Primarily aesthetic on a daily driver. |
+| Electric Glass Sunroof | Optional | Most popular roof option. Floods cabin with light. |
+| Metal Sunroof | Optional | Body-color finish, no light ingress when closed. |
+| Turbo S Exclusive Design Wheels | Optional | Turbo S-specific center-lock wheels in grey with polished edges or high-gloss black. Preferred over standard wheels for resale. |
+| High-Gloss Black Brake Calipers | Optional | Replaces standard yellow PCCB calipers. Cleaner, more understated aesthetic. |
+| **INTERIOR** | | |
+| Burmester High-End Surround Sound System | Optional | 13-speaker upgrade over standard Bose. Noticeably superior audio quality. |
+| Deviated Stitching | Optional | Contrasting stitching throughout seats, dashboard, and doors. Single best interior upgrade for personalization. |
+| Coloured Seat Belts | Optional | Colour-matched to stitching for a coordinated interior theme. |
+| Race-Tex GT Sports Steering Wheel | Optional | Alcantara/Race-Tex material for improved grip and tactile feel over standard leather. |
+| Alcantara Interior Elements | Optional | Alcantara on center tunnel and/or roof liner. |
+| Illuminated Carbon Door Sill Guards | Optional | Carbon fiber sill plates with illumination. Can be colour-matched to stitching. |
+| Ventilated Front Seats | Optional | Adds seat ventilation to the standard 18-way Adaptive Sport Seats Plus. |
+| 14-Way Comfort Seats | Optional | More forgiving for larger frames and long-distance touring. |
+| Lightweight Package (Full Carbon Bucket Seats) | Optional | Carbon bucket seats, rear-seat delete, thinner glass, reduced sound deadening, PASM Sport. Saves approx. 36 kg. Sharpens dynamics but reduces daily usability. |
+| Heritage Design Package (Classic Theme) | Optional | Cognac leather with Pepita houndstooth inserts. Limited availability (production ceased June 2022). Collector appeal. |
+| Heritage Design Package (Pure Package) | Optional | Corduroy in beige two-tone. Limited availability (production ceased June 2022). |
+| Heritage Design Package (Club Leather) | Optional | Full truffle brown leather interior. Limited availability (production ceased June 2022). |
+| **TECHNOLOGY & DRIVER AIDS** | | |
+| Surround View | Optional | 360-degree camera system. Highly recommended for protecting large alloy wheels from kerb damage. |
+| Adaptive Cruise Control | Optional | Radar-based cruise with stop-and-go capability. Recommended for motorway use. |
+| Front-Axle Lift System | Optional | Raises nose 40mm at low speeds. GPS memory function. Essential for driveways and speed bumps. |
+| PASM Sport Suspension | Optional | Lowers ride height 10mm, stiffer setup. Best for track-focused buyers. |
+| Rear-Axle Steering | Standard | Comes standard on Turbo S. |
+| PDCC (Porsche Dynamic Chassis Control) | Standard | Active roll stabilization. Comes standard on Turbo S. |
+| PCCB (Porsche Ceramic Composite Brakes) | Standard | 420mm front / 390mm rear ceramic rotors. Comes standard on Turbo S. |
+| Power Steering Plus | Optional | Extra assistance at parking speeds. Minimal cost, worthwhile addition. |
+| Lane Change Assist | Optional | Blind-spot monitoring via door mirror indicators. |
+| Night Vision Assist | Optional | Thermal imaging for pedestrian and animal detection. Niche use case. |
+| Connect Plus | Optional | Online traffic, voice control, and connected services. |
+| ParkAssist Front and Rear | Optional | Adds front parking sensors to the standard rear-only system. |
 
 ## Must-Haves
 
