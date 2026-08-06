@@ -46,10 +46,11 @@ The Audi RS6 Avant is not just a station wagon; it's a high-performance, twin-tu
 |---|---|---|---|
 | Strongly Preferred | Carbon Optic Package | Optional, $6,650 | Enhances exterior aesthetics and resale value. |
 | Strongly Preferred | Dynamic Ride Control (DRC) Suspension | Optional, $1,250 | Improves handling dynamics and ride comfort, desirable for enthusiasts. |
-| Spec-Dependent | Ceramic Brakes | Optional, $8,500 | Superior braking performance and reduced brake dust, but costly to replace. Consider for track use or aggressive driving. |
+| Must Have | Ceramic Brakes | Optional, $8,500 | Superior braking performance and significantly reduced brake dust. Carbon-ceramic brakes are a strong resale and desirability factor on this platform and should be prioritized on any example. |
 | Spec-Dependent | Bang & Olufsen 3D Advanced Sound System | Optional, $4,900 | Premium audio experience, enhances luxury feel. |
 | Must Have | Executive Package | Optional, $2,500 | Adds comfort and convenience features that improve daily usability and broad appeal. |
 | Strongly Preferred | Sport Exhaust | Optional, $1,000 | Enhances the V8 sound, a key part of the performance experience. |
+| Strongly Preferred | Audi Exclusive Paint | Optional, $3,900 | Exclusive colors command stronger resale values and improve desirability on the secondary market. Prioritize examples finished in Audi Exclusive over standard metallic paint when available. |
 
 ## Known Problems and Recalls
 
