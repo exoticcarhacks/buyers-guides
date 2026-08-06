@@ -59,6 +59,9 @@ Potential buyers should be aware of several safety recalls and common mechanical
 *   **Clutch Issues:** Some owners have reported premature clutch wear, especially in cars driven aggressively. A thorough inspection of the clutch and transmission is advisable.
 *   **Fuel Pump Issues:** While less common, some instances of fuel pump failures have been noted, which can lead to drivability problems.
 *   **Electrical Gremlins:** As with many low-volume supercars, minor electrical issues can occasionally arise. These are typically not critical but can be frustrating.
+*   **Gauge Failure:** The instrument cluster gauges are known to fail or malfunction on cars that have been stored without a battery tender. OEM replacement gauges are no longer available from Ford, making a functioning, original cluster a significant value factor. Verify all gauges operate correctly during the PPI.
+*   **Center Tunnel Bubbling:** The center tunnel surface is prone to bubbling caused by corrosion underneath. Inspect the tunnel closely for any surface irregularities, bubbling, or lifting material, as this is a known cosmetic issue that is difficult and expensive to address correctly.
+*   **Body Panel and Headlight Damage:** OEM body panels and headlights are no longer available to order from Ford. Any damaged or cracked body panels or headlight assemblies cannot be replaced with factory parts, making condition critical. Walk the entire car carefully and reject any example with body panel damage or compromised headlights unless the price reflects the repair exposure.
 
 ## 7. Market Analysis & Forecast
 
