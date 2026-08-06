@@ -50,8 +50,6 @@ The Lamborghini Huracan Performante 2018-2019 is a track-focused variant of the 
 | Priority | Factory Option/Package | Pricing/Status | Why It Matters |
 |---|---|---|---| 
 | Must Have | Lifting System and Magneto-Rheological Suspension | Optional, $6,900.00 | Essential for navigating speed bumps and driveways, significantly impacts daily usability and resale. |
-| Strongly Preferred | Navigation and Lamborghini Smartphone Interface | Optional, $4,100.00 | Modern convenience, enhances daily usability and broadens appeal. |
-| Spec-Dependent | Red Brake Calipers | Optional, $1,300.00 | Carbon Ceramic Brakes (CCB) are standard on the Performante, making it highly capable for track use. The $1,300 option is for red calipers, which add visual appeal but are not essential. |
 | Spec-Dependent | Sensonum (Lamborghini Sound System) | Optional, $3,900.00 | Premium sound system for enhanced audio experience, but not critical for performance or resale. |
 
 ## Known Problems & Recalls
