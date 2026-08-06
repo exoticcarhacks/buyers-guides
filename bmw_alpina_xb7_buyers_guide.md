@@ -41,6 +41,7 @@ The BMW Alpina XB7 works as an Exotic Car Hacks candidate because it is the ulti
 | Must Have | Bowers & Wilkins Diamond Surround Sound | Optional, $3,400 | The standard Harman Kardon system is adequate, but B&W is a massive selling point for luxury buyers and significantly aids resale liquidity. |
 | Must Have | Full Merino Leather | Optional, $1,500 | In a $140k+ luxury SUV, Extended Leather feels cheap. Full Merino covers the lower dash and door panels, elevating the cabin to true Alpina standards. |
 | Strongly Preferred | Second-Row Bench Seat | Standard | The standard bench seat maximizes passenger capacity at 7 seats and is the preferred configuration for buyers who prioritize utility and flexibility over individual seat luxury. |
+| Strongly Preferred | Individual Color Options | Spec-Dependent | More commonly found on 2023+ models, Individual color options command higher resale values and improve liquidity on the secondary market. Desirability is spec-dependent — prioritize examples with Individual colors when available.  |
 
 ## 6. Common Problems / Recalls
 
