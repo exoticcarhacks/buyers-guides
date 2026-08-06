@@ -51,6 +51,7 @@ The Lamborghini Huracan Performante 2018-2019 is a track-focused variant of the 
 |---|---|---|---| 
 | Must Have | Lifting System and Magneto-Rheological Suspension | Optional, $6,900.00 | Essential for navigating speed bumps and driveways, significantly impacts daily usability and resale. |
 | Strongly Preferred | Ad Personam Colors | Spec-Dependent | Ad Personam paint and interior options command stronger resale values and improve desirability on the secondary market. Prioritize examples finished in Ad Personam over standard colors when available. |
+| Strongly Preferred | Laser-Engraved Package | Optional, $4,200.00 | The laser-engraved stitching is a highly desirable bespoke detail that enhances interior exclusivity and resale appeal. Prioritize examples equipped with it. |
 | Nice to Have | Sensonum (Lamborghini Sound System) | Optional, $3,900.00 | Premium sound system for enhanced audio experience, but not critical for performance or resale. |
 
 ## Known Problems & Recalls
