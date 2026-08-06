@@ -35,8 +35,6 @@ The Porsche 911 Turbo S 992.1, produced from 2021 to 2025, represents the pinnac
 
 ## Known Problems & Recalls
 
-**Perform a Pre-Purchase Inspection (PPI) by a qualified Porsche specialist.**
-
 ### Known Problems
 
 | Issue | What To Know/Check |
