@@ -64,10 +64,7 @@ The Audi RS6 Avant is not just a station wagon; it's a high-performance, twin-tu
 | Water Collection in the Hatch | Water can collect in the tailgate mechanism and pour onto the bumper or legs when the tailgate is opened, particularly after rain or washing. Inspect the tailgate seals and drainage channels. |
 | Door Actuator Glitches | Intermittent "central locking malfunction" messages. Test all door locks and the central locking system during the PPI. |
 | Interior Rattles | Faint rattles or vibrations have been reported from the dashboard, door panels, and speaker grilles. While common in many vehicles, specific RS6 Avant owners have noted rattles around the MMI screen and panoramic sunroof. Test drive on varying road surfaces to identify any persistent noises. |
-| Piano Black Trim | The interior piano black trim is prone to scratching and easily shows fingerprints and dust. This is a cosmetic issue; inspect for excessive scratching or swirl marks. |
-| Brake Dust and Squeal | Standard steel brakes generate significant brake dust. Carbon ceramic brakes, while offering superior performance and less dust, may exhibit squealing at low speeds, especially when cold. This is a characteristic of high-performance braking systems rather than a defect. |
-| Rev Limiter in Neutral | The engine's revs are software-limited in Neutral or Park. This is a design characteristic and not a fault. |
-| Air Suspension Issues | Although less common in newer models, air suspension systems can develop leaks or compressor failures over time, leading to uneven ride height or a harsh ride. Check for consistent ride height and listen for unusual noises from the air compressor. Repairs can be costly if out of warranty. |
+
 
 ### NHTSA Recalls
 
