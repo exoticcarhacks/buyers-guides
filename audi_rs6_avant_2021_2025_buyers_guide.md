@@ -83,14 +83,14 @@ Market forecast: Based on observed market trends for high-performance wagons and
 
 ## Conclusion
 
-The Audi RS6 Avant is a strong hack candidate for buyers who want supercar performance in a practical daily driver. The sweet spot is a 2022 or 2023 model finished in an Audi Exclusive color with carbon-ceramic brakes, Carbon Optic Package, Driver Assistance Package, and Executive Package. The 2024 model is ruled out by the absence of carbon-ceramic brakes. The 2025 is a viable alternative only if you can confirm ceramic brakes are present, as very few were built with them. The primary mechanical risk is the 48V mild-hybrid BSG system, which can fail expensively outside of warranty. Buy with a full service history and budget accordingly.
+The Audi RS6 Avant is a strong hack candidate for buyers who want supercar performance in a practical daily driver. The sweet spot is a 2022 or 2023 model finished in an Audi Exclusive color with carbon-ceramic brakes, Carbon Optic Package, Driver Assistance Package, and Executive Package. The 2024 model is ruled out by the absence of carbon-ceramic brakes. The 2025 is a viable alternative only if you can confirm ceramic brakes are present, as very few were built with them. The primary mechanical risk is the alternator. Before anything else, verify whether any alternator repair, replacement, or recall work has been performed on the car. Buy with a full service history and budget accordingly.
 
 ## Car Hacking Shortcuts
 
 * Years to buy: 2022 or 2023. These are the sweet spot years with carbon-ceramic brakes available, full features, and the best value after depreciation. The 2024 is ruled out by the unavailability of carbon-ceramic brakes. The 2025 is only worth considering if carbon-ceramic brakes can be confirmed on the specific car.
 * Options to look for: Audi Exclusive paint (top priority), Carbon Optic Package, Carbon Ceramic Brakes, Driver Assistance Package, Executive Package, Bang and Olufsen 3D Sound System.
 * RS6 GT note: The 2025 RS6 Avant GT is not a hack buy. All 85 U.S. units were pre-sold at $198,900 MSRP and are now trading on the secondary market well above $250,000. It is a collector purchase. If you find one, verify the serialized build plaque (X/660) and confirm the carbon-ceramic brakes, coilover suspension, and IMSA livery are intact and unmodified.
-* PPI focus: Thorough inspection of the 48V mild-hybrid system (specifically the Belt Starter Generator), MMI functionality (check for latest software), and all electronic systems.
+* PPI focus: The alternator is the number one issue on this platform. Before purchase, verify whether any alternator repair, replacement, or recall work has been performed. Also inspect the 48V mild-hybrid system (specifically the Belt Starter Generator), MMI functionality (check for latest software), and all electronic systems.
 * Known recalls: 25V900000 (Rearview Camera, 2021-2026), 25V201000 (Instrument Panel, 2021), 23V601000 (Incorrect Brake Fluid Cap, 2021), 22V861000 (Control Module Shutdown, 2021-2022).
 * Market forecast: Expect stable depreciation for well-optioned 2022-2023 examples. The RS6 GT is expected to appreciate given its 85-unit U.S. production cap and collector demand.
 
