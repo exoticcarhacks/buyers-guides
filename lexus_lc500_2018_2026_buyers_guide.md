@@ -104,13 +104,13 @@ Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pri
 
 ## Conclusion
 
-The Lexus LC500 V8 is a strong hack candidate. Its reliability record is exceptional for the segment and depreciation is relatively mild compared to European rivals. The best ownership logic is to acquire a well-optioned V8 model with the Dynamic Handling Package and Mark Levinson audio. Inspiration Series examples are the most collectible and command the strongest premiums. The 2026 is the final model year for the LC series, which may support long-term collector interest in well-preserved examples.
+The Lexus LC500 V8 is a strong hack candidate with an exceptional reliability record and mild depreciation relative to European rivals. The minimum year to target is 2021, which brought the most significant platform updates including improved suspension, chassis refinements, brake-based vectoring, and Android Auto. The 2022 and 2023 models are virtually the same as 2021 with minor suspension tweaks and are equally strong buys. For buyers who prioritize modern technology and a touchscreen interface, the 2024 is the right choice as it replaced the widely criticized Remote Touch touchpad with a proper 12.3-inch touchscreen. Target well-optioned examples with the Dynamic Handling Package and Mark Levinson audio. Inspiration Series examples are the most collectible and command the strongest premiums.
 
 ## Car Hacking Shortcuts
 
-* Years to buy: 2021 or later for the best dynamics and Android Auto. 2018-2020 V8 models with desired options are strong value buys.
+* Years to buy: 2021 minimum. The 2021 model year brought the biggest platform updates and is the baseline for any serious purchase. The 2022 and 2023 are virtually identical to 2021 with minor suspension refinements and are equally strong. If modern touchscreen technology matters, go with a 2024.
 * Options to look for: Mark Levinson Audio, Dynamic Handling Package, Limited Slip Differential, 21-inch Forged Wheels.
-* Preferred configurations: Inspiration Series (2018, 2019, 2020, 2026) are the most desirable. Bespoke Build models (2022-2025) are preferred over standard configurations.
+* Preferred configurations: Inspiration Series (2018, 2019, 2020, 2026) are the most collectible. Bespoke Build models (2022-2025) are preferred over standard configurations.
 * PPI focus: Fuel pump recall status (20V-012, 20V-682), HVAC servo motor function, roof and B-pillar noises, transmission smoothness, and brake pad condition.
 * Known recalls: 20V-012, 20V-682 (fuel pump). Verify by VIN.
 * Market forecast: Use dynamic 12-month forecast from tracked Exotic Car Hacks pricing data.
