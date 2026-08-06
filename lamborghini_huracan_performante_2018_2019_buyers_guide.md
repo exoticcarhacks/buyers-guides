@@ -77,11 +77,13 @@ The Lamborghini Huracan Performante 2018-2019 is a track-focused variant of the 
 Given the specialized nature of the Performante, comprehensive market data for short-term forecasts is not readily available. Buyers should consult current U.S. listing and sales data for the most up-to-date pricing trends.
 
 ## Conclusion
-The Lamborghini Huracan Performante offers a compelling blend of track-focused performance and exotic appeal. Its main risk lies in the potential for high maintenance and repair costs associated with its specialized components and active aerodynamic system. The best ownership logic involves meticulous pre-purchase inspections and a clear understanding of running costs, leveraging its performance pedigree for potential long-term value.
+The Lamborghini Huracan Performante is a strong hack candidate for buyers who want a track-focused exotic with genuine performance pedigree. Target Ad Personam or bright colors and avoid black and white examples, which are the hardest to sell and command the weakest premiums. Odometer fraud is a known issue on this platform; always verify that the mileage matches across the TCU, ECU, and gauge cluster during the PPI. The front lift system and MRS suspension are the most important mechanical items to inspect. Buy with the lifting system and magnetic suspension, comfort seats, and dynamic steering wherever possible.
 
 ## Car Hacking Shortcuts
-* Years to buy: 2018-2019
-* Options to look for: Lifting System and Magneto-Rheological Suspension, Navigation and Lamborghini Smartphone Interface
-* Preferred colors: Pearl Effect - Giallo Inti (if available and desired)
-* Known recalls: Verify specific NHTSA recalls by VIN.
+* Years to buy: 2018 or 2019. Both years are mechanically identical.
+* Colors: Ad Personam or bright colors are strongly preferred. Avoid black and white examples as they carry the weakest resale premiums.
+* Options to look for: Lifting System and Magneto-Rheological Suspension (must have), Comfort Seats (preferred), Dynamic Power Steering (preferred), Ad Personam colors (preferred), Laser-Engraved Package (preferred).
+* Odometer fraud: A known issue on this platform. During the PPI, verify that the mileage reading is consistent across the TCU, ECU, and gauge cluster. Any discrepancy is a red flag.
+* PPI focus: Front lift system operation, MRS suspension condition, hydraulic leaks, electrical system faults, and full mileage verification across all modules.
+* Known recalls: 23V-826 (headlight adjustment), 22V-081 (headlight screw cover), 21V-466 (rearview camera). Verify all by VIN.
 
